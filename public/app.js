@@ -6,7 +6,7 @@ const els = {
   search: document.querySelector('#search'), count: document.querySelector('#results-count'),
   full: document.querySelector('#download-full'), clean: document.querySelector('#download-clean'),
   toast: document.querySelector('#toast'), tabs: document.querySelector('#view-tabs'),
-  searchRow: document.querySelector('.search-row')
+  searchRow: document.querySelector('.search-row'), transcriptHeader: document.querySelector('.transcript-header')
 };
 
 let cues = [];
@@ -175,6 +175,7 @@ async function loadFile(filename) {
   els.searchRow.style.display = 'flex';
   els.title.textContent = (file?.name || filename).replace(/\.(srt|json)$/i, '').replaceAll('_', ' ');
   const metadata = file?.metadata;
+  els.transcriptHeader.classList.toggle('no-recording-metadata', !metadata?.sessionTitle);
   els.recordingTitle.textContent = metadata?.sessionTitle || '';
   els.recordingTitle.hidden = !metadata?.sessionTitle;
   els.recordingAuthor.textContent = metadata?.author ? `Presented by ${metadata.author}` : '';
