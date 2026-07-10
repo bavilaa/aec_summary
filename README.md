@@ -8,8 +8,8 @@ A dependency-free web app for browsing and exporting SRT transcripts.
 2. From this folder, run `npm start`.
 3. Open `http://localhost:3000`.
 
-Organize `.srt` files as `transcripts/day/session/file.srt` (for example, `transcripts/day1/morning/Paper1.srt`) and refresh the page. Folder names automatically populate the **Day** and **Session** filters. Root-level files remain available as Uncategorized / Unscheduled.
+Organize transcript files as `transcripts/day/session/file.srt` or timestamped `file.json` (for example, `Paper1.srt` or `Dialogue1.json`) and refresh the page. Folder names automatically populate the **Day** and **Session** filters. Root-level files remain available as Uncategorized / Unscheduled.
 
-AI summaries named after their transcript—such as `Paper1_AI1.json`, `Paper1_AI2.json`, and so on—are automatically displayed as separate summary tabs for that presentation.
+AI summaries named after their transcript—such as `Paper1_AI1.json`, `Dialogue1_AI1.json`, or additional AI2 variants—are automatically displayed as separate summary tabs for that recording.
 
 The **Full transcript** export preserves the SRT sequence numbers, timestamps, speaker labels and text. The **Speaker + text** export removes sequence numbers and timestamps.

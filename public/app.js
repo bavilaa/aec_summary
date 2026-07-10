@@ -50,6 +50,30 @@ function parseSrt(source) {
   }).filter((cue) => cue.text);
 }
 
+function secondsToTimestamp(value) {
+  const milliseconds = Math.max(0, Math.round(Number(value || 0) * 1000));
+  const hours = Math.floor(milliseconds / 3600000);
+  const minutes = Math.floor((milliseconds % 3600000) / 60000);
+  const seconds = Math.floor((milliseconds % 60000) / 1000);
+  const millis = milliseconds % 1000;
+  return `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')},${String(millis).padStart(3, '0')}`;
+}
+
+function parseJsonTranscript(source) {
+  const data = JSON.parse(source);
+  if (!Array.isArray(data.segments)) throw new Error('Unsupported transcript JSON format');
+  return data.segments.map((segment, index) => ({
+    number: String(index + 1),
+    timing: `${secondsToTimestamp(segment.start)} --> ${secondsToTimestamp(segment.end)}`,
+    speaker: String(segment.speaker || segment.words?.find((word) => word.speaker)?.speaker || 'Unknown speaker').replaceAll('_', ' '),
+    text: String(segment.text || '').trim()
+  })).filter((cue) => cue.text);
+}
+
+function cuesToSrt(items) {
+  return items.map((cue, index) => `${index + 1}\n${cue.timing}\n[${cue.speaker.replaceAll(' ', '_')}]: ${cue.text}`).join('\n\n');
+}
+
 function escapeHtml(value) {
   return String(value ?? '').replace(/[&<>'"]/g, (char) => ({ '&':'&amp;', '<':'&lt;', '>':'&gt;', "'":'&#39;', '"':'&quot;' }[char]));
 }
@@ -85,7 +109,7 @@ function renderSummary(data) {
   const questions = Array.isArray(data.moderator_questions) ? data.moderator_questions : [];
   const quality = data.quality || {};
   els.transcript.innerHTML = `<div class="summary-view">
-    <div class="summary-hero"><p class="section-label">AI-generated presentation summary</p><h3>${escapeHtml(heading)}</h3><p>${escapeHtml(summary.executive_summary || 'Summary details')}</p></div>
+    <div class="summary-hero"><p class="section-label">AI-generated session summary</p><h3>${escapeHtml(heading)}</h3><p>${escapeHtml(summary.executive_summary || 'Summary details')}</p></div>
     ${textSection('Research question', summary.research_question)}
     ${textSection('Objective', summary.objective)}
     ${textSection('Methodology', summary.methodology)}
@@ -140,21 +164,22 @@ async function loadFile(filename) {
   els.transcript.innerHTML = '<div class="loading"><span></span><span></span><span></span></div>';
   const response = await fetch(`/api/transcripts/${encodeURIComponent(filename)}`);
   if (!response.ok) throw new Error('Could not load transcript');
-  rawTranscript = await response.text();
+  const source = await response.text();
   currentFile = filename;
-  cues = parseSrt(rawTranscript);
-  els.search.value = '';
   const file = transcriptFiles.find((item) => item.path === filename);
+  cues = file?.format === 'json' ? parseJsonTranscript(source) : parseSrt(source);
+  rawTranscript = file?.format === 'json' ? cuesToSrt(cues) : source;
+  els.search.value = '';
   renderTabs(file);
   els.searchRow.style.display = 'flex';
-  els.title.textContent = (file?.name || filename).replace(/\.srt$/i, '').replaceAll('_', ' ');
+  els.title.textContent = (file?.name || filename).replace(/\.(srt|json)$/i, '').replaceAll('_', ' ');
   const speakers = new Set(cues.map((cue) => cue.speaker)).size;
   els.meta.innerHTML = `<span><strong>${cues.length}</strong> moments</span><span><strong>${speakers}</strong> speakers</span><span><strong>${durationFromCues()}</strong> duration</span>`;
   render();
 }
 
 function download(content, suffix) {
-  const base = currentFile.split('/').at(-1).replace(/\.srt$/i, '');
+  const base = currentFile.split('/').at(-1).replace(/\.(srt|json)$/i, '');
   const blob = new Blob([content], { type: 'text/plain;charset=utf-8' });
   const url = URL.createObjectURL(blob);
   const anchor = Object.assign(document.createElement('a'), { href: url, download: `${base}-${suffix}.txt` });

@@ -1,0 +1,214 @@
+{
+  "schema_version": "1.0",
+  "paper": {
+    "title": "Managing Uncertainty: Development Finance, Domestic Resources and Data for Africa’s Resilience",
+    "authors": [
+      "Opening speaker: OECD Development Assistance Committee representative",
+      "Raymond Gilpin (Moderator)",
+      "Aamir Mahmood / Arif Mahmood, Millennium Challenge Corporation",
+      "Ariel Sulaiman, Islamic Development Bank",
+      "Côte d’Ivoire Ministry of Economy, Finance and Budget representative",
+      "Babatunde Omotosho, African Development Bank",
+      "Other panelists and audience participants"
+    ],
+    "presentation_title": "Discussion 1",
+    "session": "Discussion 1"
+  },
+  "summary": {
+    "executive_summary": "The discussion examined how African economies can manage growing uncertainty amid declining official development assistance, tighter external financing, volatile commodity markets, rising debt costs and frequent global shocks. The opening speaker reported an exceptional fall in ODA, with the impact concentrated among a small number of major donors and disproportionately affecting Africa, fragile countries, health and humanitarian support. Participants nevertheless stressed that aid remains valuable, particularly for capacity building, governance and fragile contexts, but should increasingly catalyze additional finance and support a shift from donor–recipient relationships toward co-investment and country-led partnerships. Islamic trade finance was presented as an asset-backed mechanism capable of maintaining access to essential commodities during crises. Côte d’Ivoire’s experience highlighted the value of monetary-union stability, national development planning, fiscal reforms, active debt management and investment in agriculture, manufacturing and electricity. Across the panel and audience interventions, domestic resource mobilization, deeper regional capital markets, local private investment and human capital emerged as central sources of resilience. The strongest recurring theme was data: countries need integrated, interoperable, timely and sovereign data systems to diagnose shocks, coordinate policy, improve credit-risk narratives and allocate resources. The panel concluded that resilience requires coordinated action by governments, businesses, financial institutions, development partners and regional institutions.",
+    "research_question": "How can African countries maintain development investment and build resilience when aid is falling, external finance is tightening and economic shocks are becoming more frequent?",
+    "objective": "To identify practical financing, policy, institutional and data solutions that can help African economies manage uncertainty and sustain structural transformation.",
+    "methodology": "Moderated expert panel discussion followed by audience questions and responses. Participants drew on official aid projections, development-finance operations, country policy experience, regional financial institutions, statistical systems and ongoing African Development Bank initiatives.",
+    "main_findings": [
+      {
+        "finding": "Official development assistance is falling sharply, with the reductions concentrated among a small group of major donors and disproportionately affecting Africa and fragile sectors.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:01:14",
+          "end": "00:02:34"
+        }
+      },
+      {
+        "finding": "Aid remains important, but development cooperation must shift from a donor–recipient model toward country-led co-investment, stronger regional institutions and catalytic finance.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:03:55",
+          "end": "00:08:42"
+        }
+      },
+      {
+        "finding": "Islamic trade finance can preserve access to fuel, fertilizer, food and medicine during periods of uncertainty because it is tied to real, asset-backed transactions.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:12:05",
+          "end": "00:16:10"
+        }
+      },
+      {
+        "finding": "Côte d’Ivoire’s resilience has relied on monetary-union stability, national planning, fiscal reforms, active debt management and continued investment in productive sectors.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:36:45",
+          "end": "00:45:10"
+        }
+      },
+      {
+        "finding": "Domestic resource mobilization, domestic investment, stronger regional capital markets and better use of African financial and human resources are essential to closing financing gaps.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:46:10",
+          "end": "01:06:20"
+        }
+      },
+      {
+        "finding": "Integrated, interoperable and timely African-owned data systems are necessary for diagnosis, policy coordination, investment decisions, debt pricing and resilience planning.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:49:20",
+          "end": "01:21:20"
+        }
+      },
+      {
+        "finding": "Weak data and negative narratives contribute to excessive risk perceptions and higher sovereign borrowing costs for African countries.",
+        "importance": "high",
+        "timestamp": {
+          "start": "01:26:30",
+          "end": "01:29:30"
+        }
+      }
+    ],
+    "conclusions": [
+      "Repeated external shocks are becoming a normal feature of Africa’s development environment.",
+      "No single financing instrument or institution can close the development gap.",
+      "Aid should be used more strategically to support fragile countries, build capacity and mobilize additional public and private finance.",
+      "Domestic resources, local investment, productive employment and regional financial integration must play a larger role.",
+      "Reliable, timely and sovereign data are foundational infrastructure for economic resilience and better policy.",
+      "Resilience requires collaboration among governments, domestic businesses, financial institutions, development partners and regional organizations."
+    ],
+    "policy_implications": [
+      "Develop country-led financing platforms that align development partners with national priorities and long-term resilience strategies.",
+      "Use guarantees, blended finance and asset-backed trade finance to mobilize additional capital while protecting essential imports during shocks.",
+      "Strengthen domestic revenue systems together with a credible social contract showing citizens how public resources are used.",
+      "Deepen domestic and regional capital markets, including secondary markets, to reduce dependence on scarce external finance.",
+      "Recognize, measure and support domestic investment rather than focusing predominantly on foreign direct investment.",
+      "Invest in agriculture, manufacturing, electricity, human capital and a business-enabling environment as the productive foundations of resilience.",
+      "Fund national statistical systems and create integrated, standardized and interoperable open-data platforms.",
+      "Use AI and non-traditional data sources for digitization, harmonization, translation, nowcasting and real-time economic monitoring.",
+      "Improve policy coordination and communication so that domestic policy announcements do not create additional uncertainty.",
+      "Strengthen African ownership of economic, geospatial and natural-resource data to protect data sovereignty and improve bargaining power."
+    ],
+    "limitations": [
+      "The transcript contains substantial speech-recognition errors, particularly for names, institutional acronyms, French-language interventions and numerical values.",
+      "Some speakers were not introduced clearly or were assigned inconsistent diarization labels.",
+      "Several figures were presented orally without supporting tables or source references.",
+      "Some statements describe institutional initiatives or projections that require confirmation from official documents.",
+      "The discussion covered many topics, so several recommendations were presented conceptually rather than with detailed implementation plans."
+    ]
+  },
+  "highlights": [
+    {
+      "text": "The decline in aid is not merely a statistical change; it represents choices about shared risk and responsibility.",
+      "type": "key_message",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:02:35",
+        "end": "00:03:04"
+      }
+    },
+    {
+      "text": "The development relationship should move from donor and recipient toward co-investors in shared economic futures.",
+      "type": "key_message",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:04:05",
+        "end": "00:04:42"
+      }
+    },
+    {
+      "text": "Data should function as the navigation system that helps countries cross an increasingly turbulent development landscape.",
+      "type": "key_message",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:51:10",
+        "end": "00:53:25"
+      }
+    },
+    {
+      "text": "Domestic investment is transforming African cities and economies but is often inadequately measured.",
+      "type": "finding",
+      "importance": "high",
+      "timestamp": {
+        "start": "01:01:20",
+        "end": "01:04:10"
+      }
+    },
+    {
+      "text": "African data sovereignty is essential, particularly for natural resources, geospatial information and economic decision-making.",
+      "type": "policy_implication",
+      "importance": "high",
+      "timestamp": {
+        "start": "01:07:15",
+        "end": "01:09:20"
+      }
+    },
+    {
+      "text": "A lack of reliable data reinforces exaggerated risk perceptions and raises sovereign borrowing costs.",
+      "type": "finding",
+      "importance": "high",
+      "timestamp": {
+        "start": "01:26:30",
+        "end": "01:28:15"
+      }
+    },
+    {
+      "text": "Africa’s resilience agenda requires government, business, development partners, financial institutions and regional institutions to act together.",
+      "type": "conclusion",
+      "importance": "high",
+      "timestamp": {
+        "start": "01:33:15",
+        "end": "01:34:35"
+      }
+    }
+  ],
+  "moderator_questions": [
+    {
+      "question": "How can declining aid be used more strategically to mobilize additional finance without diverting resources away from fragile and low-income countries?",
+      "category": "policy"
+    },
+    {
+      "question": "Which reforms would most effectively deepen African domestic and regional capital markets and reduce reliance on external borrowing?",
+      "category": "policy"
+    },
+    {
+      "question": "How can African institutions build interoperable, sovereign and real-time data systems while ensuring quality, transparency and practical policy use?",
+      "category": "future_research"
+    }
+  ],
+  "keywords": [
+    "development finance",
+    "official development assistance",
+    "ODA decline",
+    "domestic resource mobilization",
+    "Islamic trade finance",
+    "macroeconomic resilience",
+    "regional capital markets",
+    "domestic investment",
+    "data sovereignty",
+    "African Information Highway",
+    "policy uncertainty",
+    "sovereign risk",
+    "structural transformation",
+    "Africa"
+  ],
+  "quality": {
+    "transcript_quality": "medium",
+    "uncertain_items": [
+      "Several panelist names and organizational titles are uncertain because they were mistranscribed.",
+      "The transcript repeatedly rendered ODA as 'OBA' and OECD DAC as variants such as 'DART' or 'dark'; these were normalized where context was clear.",
+      "Some reported aid figures and dates may refer to preliminary estimates or projections and should be checked against the original presentation.",
+      "The exact name of the African Development Bank policy-uncertainty index initiative was not consistently transcribed.",
+      "Parts of the Côte d’Ivoire intervention were automatically translated or transcribed from French with reduced accuracy.",
+      "A few timestamps cover broader interventions because the source is a continuous diarized transcript rather than an SRT file."
+    ]
+  }
+}

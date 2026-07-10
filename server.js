@@ -31,10 +31,13 @@ async function listTranscripts() {
       if (!entry.isFile()) return;
       const folders = relativeDirectory.split('/').filter(Boolean);
       if (entry.name.toLowerCase().endsWith('.srt')) {
-        discovered.push({ path: relativePath, name: entry.name, day: folders[0] || 'Uncategorized', session: folders[1] || 'Unscheduled' });
+        discovered.push({ path: relativePath, name: entry.name, format: 'srt', day: folders[0] || 'Uncategorized', session: folders[1] || 'Unscheduled' });
       }
       const summaryMatch = entry.name.match(/^(.*)_AI(\d+)\.json$/i);
       if (summaryMatch) summaries.push({ path: relativePath, base: summaryMatch[1], number: Number(summaryMatch[2]) });
+      if (entry.name.toLowerCase().endsWith('.json') && !summaryMatch) {
+        discovered.push({ path: relativePath, name: entry.name, format: 'json', day: folders[0] || 'Uncategorized', session: folders[1] || 'Unscheduled' });
+      }
     }));
   }
   await scan(TRANSCRIPTS_DIR);
@@ -61,8 +64,9 @@ const server = http.createServer(async (req, res) => {
       const requested = decodeURIComponent(url.pathname.slice('/api/transcripts/'.length));
       const files = await listTranscripts();
       if (!files.some((file) => file.path === requested)) return send(res, 404, 'Transcript not found');
+      const file = files.find((item) => item.path === requested);
       const body = await fs.readFile(path.join(TRANSCRIPTS_DIR, requested), 'utf8');
-      return send(res, 200, body, 'application/x-subrip; charset=utf-8');
+      return send(res, 200, body, file.format === 'json' ? contentTypes['.json'] : 'application/x-subrip; charset=utf-8');
     }
 
     if (url.pathname.startsWith('/api/summaries/')) {
