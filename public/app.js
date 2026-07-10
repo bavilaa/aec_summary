@@ -2,6 +2,7 @@ const els = {
   select: document.querySelector('#file-select'), transcript: document.querySelector('#transcript'),
   day: document.querySelector('#day-select'), session: document.querySelector('#session-select'),
   title: document.querySelector('#workspace-title'), meta: document.querySelector('#meta'),
+  recordingTitle: document.querySelector('#recording-title'), recordingAuthor: document.querySelector('#recording-author'),
   search: document.querySelector('#search'), count: document.querySelector('#results-count'),
   full: document.querySelector('#download-full'), clean: document.querySelector('#download-clean'),
   toast: document.querySelector('#toast'), tabs: document.querySelector('#view-tabs'),
@@ -173,6 +174,11 @@ async function loadFile(filename) {
   renderTabs(file);
   els.searchRow.style.display = 'flex';
   els.title.textContent = (file?.name || filename).replace(/\.(srt|json)$/i, '').replaceAll('_', ' ');
+  const metadata = file?.metadata;
+  els.recordingTitle.textContent = metadata?.sessionTitle || '';
+  els.recordingTitle.hidden = !metadata?.sessionTitle;
+  els.recordingAuthor.textContent = metadata?.author ? `Presented by ${metadata.author}` : '';
+  els.recordingAuthor.hidden = !metadata?.author;
   const speakers = new Set(cues.map((cue) => cue.speaker)).size;
   els.meta.innerHTML = `<span><strong>${cues.length}</strong> moments</span><span><strong>${speakers}</strong> speakers</span><span><strong>${durationFromCues()}</strong> duration</span>`;
   render();

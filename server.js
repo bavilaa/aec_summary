@@ -20,9 +20,23 @@ function send(res, status, body, type = 'text/plain; charset=utf-8') {
   res.end(body);
 }
 
+function normalizeKey(value) {
+  return String(value ?? '').toLowerCase().replace(/[^a-z0-9]/g, '');
+}
+
+async function loadMetadata() {
+  try {
+    return JSON.parse(await fs.readFile(path.join(PUBLIC_DIR, 'papers.json'), 'utf8'));
+  } catch (error) {
+    if (error.code === 'ENOENT') return [];
+    throw error;
+  }
+}
+
 async function listTranscripts() {
   const discovered = [];
   const summaries = [];
+  const metadata = await loadMetadata();
   async function scan(directory, relativeDirectory = '') {
     const entries = await fs.readdir(directory, { withFileTypes: true });
     await Promise.all(entries.map(async (entry) => {
@@ -48,6 +62,11 @@ async function listTranscripts() {
       .filter((summary) => path.posix.dirname(summary.path) === directory && summary.base.toLowerCase() === base.toLowerCase())
       .sort((a, b) => a.number - b.number)
       .map((summary) => ({ path: summary.path, label: `AI${summary.number}` }));
+    transcript.metadata = metadata.find((item) =>
+      normalizeKey(item.id) === normalizeKey(base) &&
+      normalizeKey(`day${item.day}`) === normalizeKey(transcript.day) &&
+      normalizeKey(item.session) === normalizeKey(transcript.session)
+    ) || null;
   });
   return discovered.sort((a, b) => a.path.localeCompare(b.path, undefined, { numeric: true }));
 }

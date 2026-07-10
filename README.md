@@ -12,4 +12,6 @@ Organize transcript files as `transcripts/day/session/file.srt` or timestamped `
 
 AI summaries named after their transcript—such as `Paper1_AI1.json`, `Dialogue1_AI1.json`, or additional AI2 variants—are automatically displayed as separate summary tabs for that recording.
 
+Recording metadata originates in `public/papers.xlsx` and is published to the app through `public/papers.json`. Records are matched by ID, day and session; blank authors (such as high-level dialogues) are omitted from the interface.
+
 The **Full transcript** export preserves the SRT sequence numbers, timestamps, speaker labels and text. The **Speaker + text** export removes sequence numbers and timestamps.
