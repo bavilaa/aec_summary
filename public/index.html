@@ -19,10 +19,17 @@
           </span>
           <span>AEC 2026 Transcripts</span>
         </a>
-        <span class="status"><i></i> AI-assisted workspace</span>
+        <div class="topbar-right">
+          <nav class="primary-nav" aria-label="Main navigation">
+            <button class="primary-nav-link active" type="button" data-page="transcriptions" aria-selected="true">Transcriptions</button>
+            <button class="primary-nav-link" type="button" data-page="about" aria-selected="false">About</button>
+          </nav>
+          <span class="status"><i></i> AI-assisted workspace</span>
+        </div>
       </header>
 
       <main>
+        <div class="site-page" id="transcriptions-page">
         <section class="hero">
           <div>
             <p class="eyebrow">AEC 2026 Knowledge Platform</p>
@@ -91,7 +98,6 @@
 
           <div class="transcript-header">
             <div>
-              <p class="section-label">Now viewing</p>
               <h2 id="workspace-title">Transcript</h2>
               <p class="recording-title" id="recording-title" hidden></p>
               <p class="recording-author" id="recording-author" hidden></p>
@@ -113,6 +119,63 @@
           <div class="transcript" id="transcript" aria-live="polite">
             <div class="loading"><span></span><span></span><span></span></div>
           </div>
+        </section>
+        </div>
+
+        <section class="about-page site-page" id="about-page" hidden aria-labelledby="about-title">
+          <header class="about-header">
+            <div>
+              <p class="eyebrow">From audio to accessible knowledge</p>
+              <h1 id="about-title">About the platform</h1>
+              <p class="intro">This platform follows a four-stage, AI-assisted workflow to make AEC 2026 sessions easier to access, review and share.</p>
+            </div>
+            <img src="/about/about.png" alt="AEC 2026 audio transcription and publishing workflow" />
+          </header>
+
+          <div class="workflow-grid">
+            <article class="workflow-step">
+              <div class="step-number">01</div>
+              <p class="step-label">Record</p>
+              <h2>Cellphone Audio Recording</h2>
+              <p>A cellphone records the session as an audio file.</p>
+              <div class="step-output"><span>Output</span> Raw Audio</div>
+            </article>
+
+            <article class="workflow-step">
+              <div class="step-number">02</div>
+              <p class="step-label">Transcribe</p>
+              <h2>Local AI Transcription</h2>
+              <p>The audio is processed by an AI model running locally on a laptop or computer, rather than through a cloud service.</p>
+              <p class="capability-title">The model:</p>
+              <ul><li>Converts audio into text</li><li>Identifies different speakers</li><li>Structures the transcript</li><li>Translates content when required</li></ul>
+              <div class="step-output"><span>Output</span> Structured Transcript</div>
+            </article>
+
+            <article class="workflow-step">
+              <div class="step-number">03</div>
+              <p class="step-label">Summarize</p>
+              <h2>Cloud-Based AI Summary</h2>
+              <p>The transcript is processed by a cloud-based large language model, such as Google Gemini.</p>
+              <p class="capability-title">The model:</p>
+              <ul><li>Identifies the main ideas</li><li>Extracts key messages</li><li>Organizes the most relevant information</li><li>Produces a concise summary</li></ul>
+              <div class="step-output"><span>Output</span> AI-Generated Summary</div>
+            </article>
+
+            <article class="workflow-step">
+              <div class="step-number">04</div>
+              <p class="step-label">Publish</p>
+              <h2>AI-Assisted Web Platform</h2>
+              <p>Once the information has been recorded, transcribed, organized and summarized, an interactive web platform is developed with the assistance of OpenAI Codex.</p>
+              <p class="capability-title">The platform allows users to:</p>
+              <ul><li>Read transcripts</li><li>Review summaries</li><li>Download transcript files</li><li>Access original audio recordings</li></ul>
+              <div class="step-output"><span>Output</span> Interactive Web Platform</div>
+            </article>
+          </div>
+
+          <aside class="about-disclaimer">
+            <strong>Disclaimer</strong>
+            <p>AI-generated transcripts and summaries may contain errors. They should be used as a complement to, not a replacement for, official notes.</p>
+          </aside>
         </section>
       </main>
 

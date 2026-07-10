@@ -97,6 +97,11 @@ const server = http.createServer(async (req, res) => {
       return send(res, 200, body, contentTypes['.json']);
     }
 
+    if (url.pathname === '/about/about.png') {
+      const body = await fs.readFile(path.join(ROOT, 'about', 'about.png'));
+      return send(res, 200, body, 'image/png');
+    }
+
     const requestedPath = url.pathname === '/' ? 'index.html' : url.pathname.slice(1);
     const resolved = path.resolve(PUBLIC_DIR, requestedPath);
     if (!resolved.startsWith(PUBLIC_DIR + path.sep) && resolved !== PUBLIC_DIR) {

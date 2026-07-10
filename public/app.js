@@ -14,6 +14,19 @@ let rawTranscript = '';
 let currentFile = '';
 let transcriptFiles = [];
 
+function showPage(pageName, updateHash = true) {
+  const isAbout = pageName === 'about';
+  document.querySelector('#transcriptions-page').hidden = isAbout;
+  document.querySelector('#about-page').hidden = !isAbout;
+  document.querySelectorAll('.primary-nav-link').forEach((button) => {
+    const active = button.dataset.page === pageName;
+    button.classList.toggle('active', active);
+    button.setAttribute('aria-selected', String(active));
+  });
+  if (updateHash) history.replaceState(null, '', isAbout ? '#about' : '#transcriptions');
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
 function label(value) {
   return value.replaceAll('_', ' ').replace(/\b\w/g, (character) => character.toUpperCase());
 }
@@ -233,5 +246,7 @@ els.clean.addEventListener('click', () => download(cues.map((cue) => `${cue.spea
 document.addEventListener('keydown', (event) => {
   if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === 'k') { event.preventDefault(); els.search.focus(); }
 });
+document.querySelectorAll('.primary-nav-link').forEach((button) => button.addEventListener('click', () => showPage(button.dataset.page)));
 
 init();
+showPage(location.hash === '#about' ? 'about' : 'transcriptions', false);
