@@ -1,0 +1,636 @@
+1
+00:00:01,054 --> 00:00:09,537
+[SPEAKER_00]: All right, okay, thank you very much for giving me the opportunity to present here and for coming to my presentation.
+
+2
+00:00:09,557 --> 00:00:10,557
+[SPEAKER_00]: It's a great pleasure.
+
+3
+00:00:11,057 --> 00:00:29,422
+[SPEAKER_00]: I've been lucky enough to do some work for African Development back in the past on the economic health reports and things, so my experiences have always been really good, so I'm happy to meet, help, hopefully have the opportunity to meet somebody here in person and also to get to know the building
+
+4
+00:00:30,658 --> 00:00:31,999
+[SPEAKER_00]: and see the other presentations.
+
+5
+00:00:32,079 --> 00:00:37,120
+[SPEAKER_00]: But what I am going to present today is a paper called Foreign Instructural Change.
+
+6
+00:00:37,520 --> 00:00:43,802
+[SPEAKER_00]: It's a very big paper, which I have to do in a very short space of time.
+
+7
+00:00:44,103 --> 00:00:48,164
+[SPEAKER_00]: So I'm going to skip quite a lot and keep with the key messages.
+
+8
+00:00:48,344 --> 00:00:53,726
+[SPEAKER_00]: And for time, I won't do the second follow-up paper that I put on the slides.
+
+9
+00:00:57,367 --> 00:00:58,907
+[SPEAKER_00]: So let's talk about the background.
+
+10
+00:00:58,927 --> 00:01:01,088
+[SPEAKER_00]: The background is structural change in Africa.
+
+11
+00:01:01,148 --> 00:01:12,794
+[SPEAKER_00]: By structural change, I mean structural change as traditionally defined in shifts out of agriculture towards either manufacturing or services or different types of work.
+
+12
+00:01:13,362 --> 00:01:26,069
+[SPEAKER_00]: Lewis referred to as the modern sector as opposed to the conventional, and we know that such structural change has been essential to past development success stories both in Europe and in East Asia and in most parts of the world.
+
+13
+00:01:26,289 --> 00:01:33,854
+[SPEAKER_00]: You'll find a few examples of rapid development that have involved widespread structural change, often, although not exclusively in the
+
+14
+00:01:34,910 --> 00:01:36,852
+[SPEAKER_00]: direction of manufacturing.
+
+15
+00:01:36,932 --> 00:01:43,037
+[SPEAKER_00]: Despite this, there's quite a lot of concern over the recent state of industrialization in sub-Saharan Africa.
+
+16
+00:01:43,077 --> 00:01:56,349
+[SPEAKER_00]: We see the growth in the relative size of manufacturing is quite slow, even though I have another paper which shows that deindustrialization is not a general phenomenon in Africa, despite some papers suggesting the contrary.
+
+17
+00:01:56,369 --> 00:02:01,734
+[SPEAKER_00]: There is certainly not been rapid industrialization, on average that is, and what rapid are
+
+18
+00:02:02,314 --> 00:02:12,181
+[SPEAKER_00]: industrial growth that has been has tended to be characterized by less formal, lower productivity activities.
+
+19
+00:02:12,501 --> 00:02:24,270
+[SPEAKER_00]: Most of these papers, which are pessimistic about industrialization in sub-Saharan Africa, work on the same time period of quite significant flows of development.
+
+20
+00:02:24,758 --> 00:02:42,225
+[SPEAKER_00]: As development aid is being so focused, at least, you know, planning to be focused on growth, and as we know, structural change is a very key element of rapid growth, certainly of sustainable growth, I find it somewhat surprising that our aid has never really prioritized structural changes.
+
+21
+00:02:42,245 --> 00:02:44,786
+[SPEAKER_00]: You know, okay, I completely understand that we,
+
+22
+00:02:45,034 --> 00:02:51,178
+[SPEAKER_00]: We may think there are more pressing concerns for aid, such as poverty alleviation, health outcomes, and such like.
+
+23
+00:02:51,198 --> 00:03:04,146
+[SPEAKER_00]: But the fact that a very little, so small amount of aid, as I will show you, has had any kind of industry or industry supporting infrastructure focus, and at the same time has not paid much attention
+
+24
+00:03:05,246 --> 00:03:19,774
+[SPEAKER_00]: to structural change side effects is something which I think has not really been explored enough in the literature and something which led me to expect a negative impact of Development Day aid from the Development Assistance Committee on structural change or on industrialization.
+
+25
+00:03:19,835 --> 00:03:24,397
+[SPEAKER_00]: And that is something which I explore rigorously and do find in this paper.
+
+26
+00:03:24,417 --> 00:03:25,918
+[SPEAKER_00]: If I can have the next slide.
+
+27
+00:03:27,866 --> 00:03:32,567
+[SPEAKER_00]: So just to illustrate, this is a proportion of DAC aid to industry.
+
+28
+00:03:33,308 --> 00:03:45,431
+[SPEAKER_00]: My paper starts from 1990, but I showed this back to 1980, just to show that there was more priority in this thing in the past, in the sort of, you know, against Washington consensus era.
+
+29
+00:03:45,891 --> 00:03:54,693
+[SPEAKER_00]: It's never been a particularly large proportion, just 6% of the total aid budget, but it's also declined very rapidly since 1990.
+
+30
+00:03:54,873 --> 00:03:56,914
+[SPEAKER_00]: And it will be interesting in the
+
+31
+00:03:57,642 --> 00:04:08,606
+[SPEAKER_00]: you know, the new discussions on the reemergence of industrial policy in Africa now, whether they want to play a role in that, and whether we might start to finally see these low levels change.
+
+32
+00:04:08,866 --> 00:04:10,186
+[SPEAKER_00]: If we can go to the next slide.
+
+33
+00:04:10,887 --> 00:04:20,430
+[SPEAKER_00]: So this bottom bar shows that it's a fraction of the total aid budget, and you see, again, always a very small fraction, and shrunk to almost nothing in the last decades.
+
+34
+00:04:21,739 --> 00:04:31,191
+[SPEAKER_00]: less than half even of aid directly to agriculture, and much, much less than aid to the social sector, humanitarian aid, things like this.
+
+35
+00:04:31,291 --> 00:04:36,218
+[SPEAKER_00]: And there's actually evidence that even within these other aid categories, such as social sector aid,
+
+36
+00:04:36,566 --> 00:04:43,992
+[SPEAKER_00]: there's been a transfer of priorities towards more rural areas, more agriculture-supporting areas, such as rural clinics, rural schools, things like this.
+
+37
+00:04:44,452 --> 00:04:58,723
+[SPEAKER_00]: And my basic argument in this paper has been that this sort of subsistence poverty pocket rural purpose of aid, whilst I have no doubt done many good things in terms of poverty alleviation, in terms of health, et cetera, may have held back processes of industrialization.
+
+38
+00:04:58,903 --> 00:05:02,686
+[SPEAKER_00]: They have made conditions in certain areas just enough
+
+39
+00:05:03,030 --> 00:05:13,178
+[SPEAKER_00]: to prevent that, just good enough to prevent that release of selfless agricultural labor, which is so central to Lewis models of structural transformation and models of structural transformations.
+
+40
+00:05:13,698 --> 00:05:15,059
+[SPEAKER_00]: If I can go on.
+
+41
+00:05:17,161 --> 00:05:22,885
+[SPEAKER_00]: So this is more of the background, but I don't have time to go over it in detail.
+
+42
+00:05:24,502 --> 00:05:28,106
+[SPEAKER_00]: It repeats many of the things I've said already.
+
+43
+00:05:28,146 --> 00:05:49,486
+[SPEAKER_00]: There is already some sort of single-country studies or micro-level-based studies which seem to suggest this, I don't want to say de-industrialising effect of it, because it's not like I'm claiming it's pulling people out of manufacturing, but de-industrialising it that it's preventing people from moving to manufacturing or moving out of agriculture when they otherwise might have done.
+
+44
+00:05:50,186 --> 00:06:07,451
+[SPEAKER_00]: I also have another paper which shows that aid has held back urbanization as well, and to the extent that manufacturing is associated more with urban areas and agricultural production more with rural, we might expect this holding back of urbanization also to be reflected in the holding back of manufacturing.
+
+45
+00:06:08,091 --> 00:06:09,171
+[SPEAKER_00]: I can have the next slide.
+
+46
+00:06:12,312 --> 00:06:15,353
+[SPEAKER_00]: Next slide, please.
+
+47
+00:06:15,453 --> 00:06:17,374
+[SPEAKER_00]: So this is the backdrop here.
+
+48
+00:06:17,414 --> 00:06:18,714
+[SPEAKER_00]: This is why this matters.
+
+49
+00:06:19,266 --> 00:06:28,937
+[SPEAKER_00]: So this is the average from Sub-Saharan Africa from the Economic Transformation Database at the Groningen Growth and Development Center, which is also where I work half of the time.
+
+50
+00:06:28,997 --> 00:06:35,945
+[SPEAKER_00]: And it's sort of the go-to database for study of structural change at the macroeconomic cross-country level.
+
+51
+00:06:35,985 --> 00:06:36,906
+[SPEAKER_00]: We have the borders.
+
+52
+00:06:37,562 --> 00:06:41,705
+[SPEAKER_00]: coverage of developing countries in terms of sectoral employment and value-added data.
+
+53
+00:06:42,105 --> 00:06:45,948
+[SPEAKER_00]: It's viewed for the 18 sub-Saharan African countries in the ETP.
+
+54
+00:06:46,208 --> 00:06:49,450
+[SPEAKER_00]: The height of the bars is the average labour productivity in each sector.
+
+55
+00:06:49,470 --> 00:06:52,753
+[SPEAKER_00]: The width of the bars is the average share of employment in each sector.
+
+56
+00:06:53,093 --> 00:07:02,900
+[SPEAKER_00]: And you can see that yellow manufacturing bar, yes, it's not the most productive sector, but it's the most productive sector with really the capacity to absorb labour en masse.
+
+57
+00:07:03,600 --> 00:07:05,702
+[SPEAKER_00]: So my point is that if
+
+58
+00:07:06,334 --> 00:07:10,155
+[SPEAKER_00]: A is preventing people from moving to manufacturing.
+
+59
+00:07:10,515 --> 00:07:28,700
+[SPEAKER_00]: If it's preventing them from moving from any of those sectors to the left, from that 66% or so of the employment share, which is employed in lower productivity, average productivity in manufacturing, then it will in fact be productivity decreasing on average.
+
+60
+00:07:28,720 --> 00:07:32,221
+[SPEAKER_00]: It is contributing to reducing structural change.
+
+61
+00:07:32,241 --> 00:07:33,201
+[SPEAKER_00]: Next slide, please.
+
+62
+00:07:35,646 --> 00:07:39,309
+[SPEAKER_00]: So here's an overview of the results I'm going to show.
+
+63
+00:07:39,609 --> 00:08:01,306
+[SPEAKER_00]: DACA, that's aid from the OECD, that is basically aid which is subject to the Development Assistance Committee aid priorities, including oil bank aid as a subset, but also bilateral aid for companies, et cetera, has reduced the relative size of the manufacturing sector, or perhaps I should say countries which receive
+
+64
+00:08:02,030 --> 00:08:22,186
+[SPEAKER_00]: uh more a have seen smaller uh relative manufacturing growth in the period since 1990. it's done this without increasing manufacturing productivity which is important right because um uh you know if it was making manufacturing more productive then it could
+
+65
+00:08:22,526 --> 00:08:27,427
+[SPEAKER_00]: counterbalance any holding back of labor movement, but it is not doing this.
+
+66
+00:08:27,747 --> 00:08:33,068
+[SPEAKER_00]: And it's increased the relative size of the agriculture sector with no impact on agricultural productivity.
+
+67
+00:08:33,548 --> 00:08:43,370
+[SPEAKER_00]: And just to demonstrate that not all aid has this character, I have shown that aid from the largest non-VAC donor, China, has not had this de-industrializing effect.
+
+68
+00:08:43,430 --> 00:08:46,691
+[SPEAKER_00]: It's had null effects on the manufacturing share of employment.
+
+69
+00:08:47,051 --> 00:08:52,372
+[SPEAKER_00]: And in follow-up work, which I'm not going to have time to do today, I provide evidence that an alternative
+
+70
+00:08:52,492 --> 00:08:59,414
+[SPEAKER_00]: in the form of community development driven aid not only doesn't have this effect, but actually can have the opposite effect.
+
+71
+00:08:59,494 --> 00:09:01,574
+[SPEAKER_00]: It helps support industry growth.
+
+72
+00:09:01,894 --> 00:09:11,177
+[SPEAKER_00]: I add that caveat at the end, because otherwise it sounds like a very pessimistic paper, but I'd like to show that I do have some evidence that there is an alternative .
+
+73
+00:09:11,197 --> 00:09:12,237
+[SPEAKER_00]: Next slide, please.
+
+74
+00:09:12,957 --> 00:09:13,417
+[SPEAKER_00]: Next slide.
+
+75
+00:09:17,462 --> 00:09:18,963
+[SPEAKER_00]: boast about my contributions.
+
+76
+00:09:19,183 --> 00:09:22,325
+[SPEAKER_00]: The data I've already told you is the economic transformation data.
+
+77
+00:09:22,425 --> 00:09:29,369
+[SPEAKER_00]: I supplemented the sub-national version for 122 administrative regions of eight sub-Saharan African countries.
+
+78
+00:09:29,389 --> 00:09:37,353
+[SPEAKER_00]: So it is, to my knowledge, the best time series database of sectoral employment in Africa at the sub-national level.
+
+79
+00:09:37,373 --> 00:09:46,198
+[SPEAKER_00]: That's sort of provinces, states, and I use an instrumental variable strategy, which I won't talk on too much detail in the talk,
+
+80
+00:09:46,658 --> 00:09:51,543
+[SPEAKER_00]: I'd be happy to answer your questions on later for those with more technical information.
+
+81
+00:09:52,283 --> 00:09:54,365
+[SPEAKER_00]: Next slide, please.
+
+82
+00:09:54,546 --> 00:09:56,848
+[SPEAKER_00]: Yeah, so I don't need to introduce my data.
+
+83
+00:09:56,868 --> 00:09:59,550
+[SPEAKER_00]: Next slide.
+
+84
+00:09:59,650 --> 00:10:11,242
+[SPEAKER_00]: So yeah, my benchmark regression says regress the share of industry, so of manufacturing or of agriculture or of non-government services, so that'd be the share of
+
+85
+00:10:11,914 --> 00:10:26,823
+[SPEAKER_00]: for example, manufacturing employment in total employment, or alternatively, manufacturing real value-added in total value-added, on the logarithm of the aid flow, and a series of controls from structural change in aid effectiveness literatures.
+
+86
+00:10:27,103 --> 00:10:37,170
+[SPEAKER_00]: The main results I'm going to show you are for the third lack of aid, because aid is a process of which the effects keep time to manifest, and I also need to give enough time to convince you that the
+
+87
+00:10:37,942 --> 00:10:43,712
+[SPEAKER_00]: the any structural change effects are not because of the actual work going on on the eight projects themselves, right?
+
+88
+00:10:44,013 --> 00:10:49,142
+[SPEAKER_00]: But the results are robust to alternative lag lengths and also quite a lot of alternative specifications.
+
+89
+00:10:49,766 --> 00:11:15,150
+[SPEAKER_00]: My main specification is a shift-share ID, shift-share instrumental variables regression, where I instrument aid with a shift-share instrument, which takes the form of intertemporal common variation, which I claim to be exogenous, interacting with country-specific exposure weights, which characterizes how much each individual recipient country is exposed to shock.
+
+90
+00:11:15,666 --> 00:11:17,127
+[SPEAKER_00]: in an intertemporal variable.
+
+91
+00:11:17,147 --> 00:11:23,190
+[SPEAKER_00]: So this is a shift share instrument of the exogenous intertemporal component and endogenous shared component.
+
+92
+00:11:23,230 --> 00:11:25,371
+[SPEAKER_00]: So we're more in the Borrachak et al.
+
+93
+00:11:25,391 --> 00:11:27,292
+[SPEAKER_00]: territory rather than the Goldsmith-Bingham et al.
+
+94
+00:11:28,112 --> 00:11:28,412
+[SPEAKER_00]: territory.
+
+95
+00:11:28,432 --> 00:11:30,773
+[SPEAKER_00]: So if you have any more needs.
+
+96
+00:11:30,793 --> 00:11:31,254
+[SPEAKER_00]: Sorry?
+
+97
+00:11:31,994 --> 00:11:33,775
+[SPEAKER_00]: If you have any more needs.
+
+98
+00:11:33,835 --> 00:11:33,895
+[SPEAKER_00]: OK.
+
+99
+00:11:33,915 --> 00:11:39,798
+[SPEAKER_00]: So my random source of exogenous variation is natural disasters in donor countries, I repeat,
+
+100
+00:11:40,322 --> 00:11:46,019
+[SPEAKER_00]: donor countries, because anything happening in the recipient countries would violate the exclusion restriction, of course.
+
+101
+00:11:46,339 --> 00:11:47,603
+[SPEAKER_00]: If I may have the next slide.
+
+102
+00:11:49,162 --> 00:11:56,504
+[SPEAKER_00]: But I argue that natural disasters in donor countries represent an exogenous shock to aid budgets for two reasons.
+
+103
+00:11:56,944 --> 00:12:07,467
+[SPEAKER_00]: One, because they have an exogenous shock on GDP, and most aid budgets are set as a proportion of GDP, so there is an automatic reduction in aid when there is a negative shock to GDP.
+
+104
+00:12:07,847 --> 00:12:18,710
+[SPEAKER_00]: And secondly, via a citizen preferences channel, where aid crowds out preferences for international, where natural disasters crowd out preferences for sending aid abroad, as opposed to supporting things at home.
+
+105
+00:12:19,510 --> 00:12:20,851
+[SPEAKER_00]: I'm trying to have the next slide.
+
+106
+00:12:21,432 --> 00:12:26,216
+[SPEAKER_00]: I, of course, present a lot of evidence over the channels, but I won't go through it now.
+
+107
+00:12:26,537 --> 00:12:27,457
+[SPEAKER_00]: Next slide, please.
+
+108
+00:12:27,818 --> 00:12:32,142
+[SPEAKER_00]: But for those of you who like empirical evidence, here I show that the
+
+109
+00:12:32,778 --> 00:12:41,723
+[SPEAKER_00]: Donor aid budgets are strongly predicted by the, I should say, significantly predicted by the number of natural disasters that occurred in that donor the year before.
+
+110
+00:12:41,943 --> 00:12:43,464
+[SPEAKER_00]: And this should not surprise you.
+
+111
+00:12:43,484 --> 00:12:54,671
+[SPEAKER_00]: For example, the UK aid budget is 0.5% of GDP, so we know that natural disasters have a negative impact on GDP, even in the short run, even in business cycle conditions.
+
+112
+00:12:54,771 --> 00:12:59,033
+[SPEAKER_00]: So there is this automatic reduction in aid budgets in dollar terms.
+
+113
+00:12:59,473 --> 00:13:00,294
+[SPEAKER_00]: Next slide, please.
+
+114
+00:13:01,442 --> 00:13:03,783
+[SPEAKER_00]: So here, I guess, are the main results.
+
+115
+00:13:03,843 --> 00:13:07,445
+[SPEAKER_00]: This third column is the most interesting one, the IEP results.
+
+116
+00:13:07,525 --> 00:13:22,734
+[SPEAKER_00]: And we see a statistically significant negative coefficient, implying that an increase in the flow of development aid from the West has caused a negative impact on the relative size of the manufacturing sector.
+
+117
+00:13:22,774 --> 00:13:24,495
+[SPEAKER_00]: And you see the interest is very strong.
+
+118
+00:13:24,975 --> 00:13:28,697
+[SPEAKER_00]: Next one, please.
+
+119
+00:13:29,057 --> 00:13:30,518
+[SPEAKER_00]: This is less.
+
+120
+00:13:30,742 --> 00:13:35,425
+[SPEAKER_00]: robustly strong for the share of value added as opposed to the manufacturing share of employment.
+
+121
+00:13:35,465 --> 00:13:36,986
+[SPEAKER_00]: So it's more an employment effect.
+
+122
+00:13:37,006 --> 00:13:40,608
+[SPEAKER_00]: We see effects become significant in the IP regressions.
+
+123
+00:13:40,948 --> 00:13:41,949
+[SPEAKER_00]: Next slide, please.
+
+124
+00:13:42,429 --> 00:13:50,194
+[SPEAKER_00]: Here we see there's only one significant scar here, but it's on the most important coefficient, the IP on agricultural share.
+
+125
+00:13:50,506 --> 00:13:54,891
+[SPEAKER_00]: the statistically significant increase in the relative size of agriculture.
+
+126
+00:13:55,051 --> 00:13:59,577
+[SPEAKER_00]: I will interpret this coefficient in a minute, and low effects on services.
+
+127
+00:13:59,637 --> 00:14:00,658
+[SPEAKER_00]: Next slide, please.
+
+128
+00:14:03,050 --> 00:14:20,364
+[SPEAKER_00]: So to interpret these economically, a 10% increase in the flow of DACA causes an approximately 0.9% decrease in the relative size of the manufacturing share of employment, which is equivalent to about 1.2% of the sample average manufacturing share.
+
+129
+00:14:20,645 --> 00:14:29,072
+[SPEAKER_00]: And it's up to you to interpret whether that's a big effect, but just keep in mind that sometimes year-on-year variation in aid flows is much greater than 10%.
+
+130
+00:14:29,532 --> 00:14:31,854
+[SPEAKER_00]: And this is, of course, a local average treatment effect.
+
+131
+00:14:32,222 --> 00:14:33,002
+[SPEAKER_00]: Next slide.
+
+132
+00:14:34,203 --> 00:14:40,264
+[SPEAKER_00]: Also a significant negative effect on the level of manufacturing workers.
+
+133
+00:14:40,604 --> 00:14:41,425
+[SPEAKER_00]: Next slide.
+
+134
+00:14:42,745 --> 00:14:48,306
+[SPEAKER_00]: No effects on labor productivity in any sector.
+
+135
+00:14:48,346 --> 00:14:50,447
+[SPEAKER_00]: No effects on labor productivity in every sector.
+
+136
+00:14:50,667 --> 00:14:53,388
+[SPEAKER_00]: Next slide, please.
+
+137
+00:14:53,448 --> 00:14:55,508
+[SPEAKER_00]: Chinese aid has no effects.
+
+138
+00:14:55,949 --> 00:14:57,009
+[SPEAKER_00]: Next slide, please.
+
+139
+00:14:58,489 --> 00:14:59,810
+[SPEAKER_00]: This is a visualized.
+
+140
+00:15:00,110 --> 00:15:01,110
+[SPEAKER_00]: Next slide, please.
+
+141
+00:15:02,114 --> 00:15:09,400
+[SPEAKER_00]: At the sub-national level, the effects are in the same direction, it seems to be negative, but manifest more quickly.
+
+142
+00:15:09,840 --> 00:15:11,922
+[SPEAKER_00]: Next slide, please.
+
+143
+00:15:12,363 --> 00:15:17,206
+[SPEAKER_00]: Survival of large battery robustness checks and also two-share IV robustness checks.
+
+144
+00:15:17,507 --> 00:15:19,849
+[SPEAKER_00]: Next slide, please.
+
+145
+00:15:20,249 --> 00:15:22,090
+[SPEAKER_00]: Now take me all the way to the last slide.
+
+146
+00:15:25,333 --> 00:15:26,414
+[SPEAKER_00]: Last slide, yeah.
+
+147
+00:15:30,877 --> 00:15:31,518
+[SPEAKER_00]: Last slide.
+
+148
+00:15:31,918 --> 00:15:37,222
+[SPEAKER_00]: So in conclusion, DACA reduces the manufacturing share of employment in sub-Saharan Africa.
+
+149
+00:15:37,502 --> 00:15:42,185
+[SPEAKER_00]: It increases the agricultural share and it has no effect on services.
+
+150
+00:15:42,245 --> 00:15:45,888
+[SPEAKER_00]: It does this without bolstering within sector productivity in any sector.
+
+151
+00:15:46,388 --> 00:15:51,411
+[SPEAKER_00]: And this is unsurprising considering how low is the priority of these things in aid donors.
+
+152
+00:15:51,431 --> 00:16:01,518
+[SPEAKER_00]: This is not the case for the largest non-DACA donor, suggesting that this is not like an automatic Dutch disease style effect, but also a feature of specific aid priorities.
+
+153
+00:16:02,026 --> 00:16:13,671
+[SPEAKER_00]: I can't prove it in this study, but we've all heard of this famous finding that structural change has been growth-reducing for large fields of this period in sub-Saharan Africa.
+
+154
+00:16:13,731 --> 00:16:28,557
+[SPEAKER_00]: And I speculate that this may be a mechanism through which they've had underwhelming growth effects during this time, if it's moved people on average from more to less productive, or actually to health in the less productive sectors.
+
+155
+00:16:28,637 --> 00:16:30,478
+[SPEAKER_00]: And the other work I've gone on to show
+
+156
+00:16:31,822 --> 00:16:37,446
+[SPEAKER_00]: indicates that there are alternative aid models which did not have this effect and have an opposite effect.
+
+157
+00:16:37,786 --> 00:16:42,529
+[SPEAKER_00]: So I close there and I thank you very much for your attention.
+
+158
+00:16:42,569 --> 00:16:44,010
+[SPEAKER_00]: Thank you very much.
+
+159
+00:16:44,030 --> 00:16:52,375
+[SPEAKER_00]: Before I call your discussion on this program, I would like to invite the other panelists to join.
+

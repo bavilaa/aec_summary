@@ -1,0 +1,460 @@
+1
+00:00:01,678 --> 00:00:05,241
+[SPEAKER_00]: Je me nomme Mombikanga Florant.
+
+2
+00:00:05,261 --> 00:00:13,747
+[SPEAKER_00]: Je suis anciennement chercheur à l'université Félix Foufougani, actuel de formation.
+
+3
+00:00:13,767 --> 00:00:17,590
+[SPEAKER_00]: J'ai un doctorat en actuarial.
+
+4
+00:00:17,630 --> 00:00:28,598
+[SPEAKER_00]: Aujourd'hui est un jour particulier pour moi parce qu'aujourd'hui, le 10 juillet 2017, je soutiens ma thèse de doctorat à l'ISFA de Lyon.
+
+5
+00:00:29,934 --> 00:00:40,063
+[SPEAKER_00]: Et aujourd'hui, 10 juillet 2006, grâce à l'African Economic Conference, je présente une communication.
+
+6
+00:00:40,103 --> 00:00:50,372
+[SPEAKER_00]: Donc, je me dis vraiment merci au comité d'organisation de l'African Economic Conference qui m'a invité à présenter ce papier.
+
+7
+00:00:50,432 --> 00:00:57,918
+[SPEAKER_00]: Et donc, aujourd'hui, je m'attaque à un sujet très important, qui est le sujet de l'embêtement.
+
+8
+00:00:59,022 --> 00:01:15,407
+[SPEAKER_00]: Aujourd'hui, on sait que l'endettement est en fait un problème pour nos pays africains et se pose aujourd'hui la question de soutenabilité de la dette publique.
+
+9
+00:01:15,427 --> 00:01:24,830
+[SPEAKER_00]: Ce charte que vous voyez résume en fait le message clé de ma recherche.
+
+10
+00:01:26,314 --> 00:01:41,480
+[SPEAKER_00]: En fait, si vous voyez bien sur la scène, le but de ce travail, c'est d'analyser la soutenabilité de la dette publique ajustée à la qualité des institutions.
+
+11
+00:01:41,540 --> 00:01:50,184
+[SPEAKER_00]: Et donc, si vous voyez ces trois slides, vous verrez qu'il y a trois chiffres, 70%, 61,7% et 61,4%.
+
+12
+00:01:50,204 --> 00:01:50,964
+[SPEAKER_00]: Parmi ces deux chiffres,
+
+13
+00:01:55,222 --> 00:01:59,943
+[SPEAKER_00]: Parmi ces trois chiffres, un seul est réglementaire.
+
+14
+00:01:59,983 --> 00:02:10,106
+[SPEAKER_00]: Le pacte de convergence de stabilité, l'ABCAO, dit en fait que la limite, le plafond de la dette est de 70%.
+
+15
+00:02:10,146 --> 00:02:23,630
+[SPEAKER_00]: A partir d'un travail, d'une étude de recherche qui date d'une dizaine d'années, je me suis attaqué à ce qu'on appelle
+
+16
+00:02:24,206 --> 00:02:25,928
+[SPEAKER_00]: la dette est révélée par les marchés.
+
+17
+00:02:25,948 --> 00:02:43,446
+[SPEAKER_00]: Parce qu'en tant qu'actuels, nous avons la condition, nous dans le sens actuel, que les marchés financiers révèlent de l'information qui permettent d'expliquer des phénomènes d'assurance, de banque et même aussi de finances publiques.
+
+18
+00:02:43,506 --> 00:02:47,670
+[SPEAKER_00]: Et tout le long de ma recherche, je me suis attaqué à cela.
+
+19
+00:02:52,202 --> 00:03:01,125
+[SPEAKER_00]: Donc, si vous voyez, les 65,7%, c'est la dette, c'est la frontière de dette révélée par le marché financier.
+
+20
+00:03:01,165 --> 00:03:13,769
+[SPEAKER_00]: Et la 61,4%, c'est la frontière de la dette révélée par le marché financier, ajustée à la qualité des institutions.
+
+21
+00:03:13,789 --> 00:03:17,370
+[SPEAKER_00]: C'est la question suivante.
+
+22
+00:03:17,390 --> 00:03:18,670
+[SPEAKER_00]: Neste ?
+
+23
+00:03:19,886 --> 00:03:30,771
+[SPEAKER_00]: Si vous prenez un peu Lieu-Bois, vous verrez que Lieu-Bois présente une architecture très intéressante.
+
+24
+00:03:30,791 --> 00:03:48,798
+[SPEAKER_00]: La première chose, c'est qu'on constate qu'on a une banque centrale, une monnaie commune, on a un marché financier qui est intégré, et donc c'est une architecture institutionnelle qui est unique
+
+25
+00:03:49,330 --> 00:03:53,011
+[SPEAKER_00]: en Afrique.
+
+26
+00:03:53,031 --> 00:04:11,296
+[SPEAKER_00]: Mais si vous regardez bien, on a en fait un plafond de 70% du pays qui est hérité du territoire de Maastricht, mais on a une architecture unique, mais on a des réalités différentes.
+
+27
+00:04:11,316 --> 00:04:17,918
+[SPEAKER_00]: C'est-à-dire le pays, la manifestation des risques de chaque pays est différente.
+
+28
+00:04:18,442 --> 00:04:22,565
+[SPEAKER_00]: Marie-Coeur, on est dans une union qui, elle, est collective.
+
+29
+00:04:22,645 --> 00:04:30,070
+[SPEAKER_00]: Et quand on regarde le marché financier, on se rend compte que les émissions ont augmenté de 830%.
+
+30
+00:04:30,110 --> 00:04:39,136
+[SPEAKER_00]: La dette est passée de 2012 à 2024 de 40% à 62% du PIB.
+
+31
+00:04:39,217 --> 00:04:46,702
+[SPEAKER_00]: Et on constate que le marché applique des seuls différents et
+
+32
+00:04:47,702 --> 00:04:56,950
+[SPEAKER_00]: Étant donné que nous sommes dans un univers monétaire, lorsque un choc a fait un pays, il y a cet effet de spillover.
+
+33
+00:04:57,010 --> 00:04:58,951
+[SPEAKER_00]: Aujourd'hui, on se pose la question suivante.
+
+34
+00:04:59,011 --> 00:05:13,123
+[SPEAKER_00]: Est-ce qu'une règle fixe devient crédible lorsque les marchés les ont dépassés ?
+
+35
+00:05:13,143 --> 00:05:17,146
+[SPEAKER_00]: C'est-à-dire lorsque les marchés ont fixé eux-mêmes
+
+36
+00:05:17,518 --> 00:05:20,160
+[SPEAKER_00]: leur propre frontière.
+
+37
+00:05:20,180 --> 00:05:37,511
+[SPEAKER_00]: Donc, tout ça, l'idée, c'est qu'on a le plafond qui est 70%, mais les marchés, eux, ils ont leur manière de réfléchir, ils ont des informations qu'ils prennent en compte, qui font qu'eux, ils déterminent cette frontière-là.
+
+38
+00:05:37,551 --> 00:05:46,357
+[SPEAKER_00]: Et pour déterminer cette frontière, on va s'appuyer sur un élément important qui sont, en fait, les rendements souverains.
+
+39
+00:05:46,417 --> 00:05:47,218
+[SPEAKER_00]: On verra ça plus tard.
+
+40
+00:05:48,398 --> 00:05:51,941
+[SPEAKER_00]: C'est la suivante.
+
+41
+00:05:52,001 --> 00:05:54,723
+[SPEAKER_00]: Et donc, trois contributions.
+
+42
+00:05:54,743 --> 00:05:56,905
+[SPEAKER_00]: Ce travail est une progression scientifique.
+
+43
+00:05:56,965 --> 00:06:00,368
+[SPEAKER_00]: Elle aboutit à plusieurs publications.
+
+44
+00:06:00,388 --> 00:06:05,672
+[SPEAKER_00]: Cette pratique est la dernière qui s'appuie sur les publications passées.
+
+45
+00:06:05,712 --> 00:06:17,442
+[SPEAKER_00]: Par exemple, on a la coupe des taux hybride, qui est une recherche qui aboutit à la publication dans une revue française spécialisée sur les marchés financiers, Côté.
+
+46
+00:06:18,270 --> 00:06:21,773
+[SPEAKER_00]: HRS, et qu'on appelle donc un market investor.
+
+47
+00:06:21,833 --> 00:06:46,774
+[SPEAKER_00]: Et elle a contribué, elle a, dans cet article, l'un des auteurs, cet article, il a bénéficié de technocards ivoiriens, dont le directeur de, dont le directeur, Dante Ionava, qui est le directeur de cabinet de Marna,
+
+48
+00:06:48,687 --> 00:07:08,479
+[SPEAKER_00]: Et donc, on a ce cadre hybride, ensuite on a la dette anticipée, c'est-à-dire qu'à partir de la coupe des taux hybrides, on a converti cette coupe des taux hybrides en dette anticipée par les marchés.
+
+49
+00:07:08,539 --> 00:07:14,062
+[SPEAKER_00]: Et donc, on a construit des frontières d'endettement qui sont anticipées par les marchés.
+
+50
+00:07:15,474 --> 00:07:21,599
+[SPEAKER_00]: Et cela nous permet d'avoir un indicateur « forward looking ».
+
+51
+00:07:21,639 --> 00:07:26,103
+[SPEAKER_00]: Parce qu'aujourd'hui, dans la littérature, on a des indicateurs « backward looking ».
+
+52
+00:07:26,123 --> 00:07:32,248
+[SPEAKER_00]: C'est-à-dire qui sont rétrospectifs parce qu'un n'était pas les anticipations.
+
+53
+00:07:32,328 --> 00:07:44,518
+[SPEAKER_00]: Et ici, on essaie de montrer qu'il est possible sur nos marchés d'exprimer les anticipations et à partir de ces anticipations, de construire une frontière d'endettement.
+
+54
+00:07:46,510 --> 00:07:53,354
+[SPEAKER_00]: Et donc, la troisième contribution qui est ce papier, c'est l'introduction de l'appui institutionnel.
+
+55
+00:07:53,374 --> 00:08:08,943
+[SPEAKER_00]: C'est-à-dire, à partir de la frontière d'un traitement anticipé par le marché, on inclut un modèle bayésien hiérarchique qui nous permet d'exprimer, en fait, disons, cet appui institutionnel.
+
+56
+00:08:09,003 --> 00:08:12,125
+[SPEAKER_00]: Et on va voir à quoi elle sert.
+
+57
+00:08:12,185 --> 00:08:14,366
+[SPEAKER_00]: Et cette méthodologie...
+
+58
+00:08:15,606 --> 00:08:22,728
+[SPEAKER_00]: que j'appelle méthodologie market consistent, on a essayé de la valider avec la pratique actuelle.
+
+59
+00:08:22,788 --> 00:08:27,309
+[SPEAKER_00]: Aujourd'hui, quand on analyse la solidarité de la dette, ce sont les modèles à seul.
+
+60
+00:08:27,369 --> 00:08:36,372
+[SPEAKER_00]: Et ici, on allait plus loin, on a conçu un modèle à seul, augmenté des facteurs communs.
+
+61
+00:08:36,392 --> 00:08:38,272
+[SPEAKER_00]: C'est ce NG.
+
+62
+00:08:38,292 --> 00:08:44,894
+[SPEAKER_00]: Donc, ça permet de corriger la dépendance transversale, étant donné que nous sommes dans une union monétaire.
+
+63
+00:08:46,274 --> 00:08:51,899
+[SPEAKER_00]: C'est la suivante.
+
+64
+00:08:51,919 --> 00:08:57,984
+[SPEAKER_00]: Donc, en termes de revue et de littérature, qu'est-ce qu'on constate ?
+
+65
+00:08:58,024 --> 00:09:04,749
+[SPEAKER_00]: On a des méthodes statiques, dynamiques, et on a des méthodes sans instructions, avec instructions.
+
+66
+00:09:04,769 --> 00:09:08,552
+[SPEAKER_00]: Nous, on est dans le 4M, dans la dernière partie.
+
+67
+00:09:08,572 --> 00:09:15,198
+[SPEAKER_00]: C'est-à-dire, dans ce papier, on intègre la poche dynamique plus la qualité des instructions.
+
+68
+00:09:16,066 --> 00:09:19,867
+[SPEAKER_00]: ça se montre.
+
+69
+00:09:19,927 --> 00:09:22,188
+[SPEAKER_00]: Et donc, de manière méthodologique, qu'est-ce qu'on fait ?
+
+70
+00:09:22,208 --> 00:09:25,369
+[SPEAKER_00]: La première des choses, c'est la construction des coupes d'étau.
+
+71
+00:09:25,409 --> 00:09:27,609
+[SPEAKER_00]: Les coupes d'étau sont importantes.
+
+72
+00:09:27,629 --> 00:09:41,353
+[SPEAKER_00]: Je me rappelle que la BAC avait lancé une initiative Acme dans le temps, qui était gérée par, il y avait un bétapou, c'était une banque qui avait travaillé sur le guide des coupes d'étau.
+
+73
+00:09:41,413 --> 00:09:42,634
+[SPEAKER_00]: Et donc, c'est tout pour le bâtiment.
+
+74
+00:09:42,654 --> 00:09:43,614
+[SPEAKER_00]: Les coupes d'étau, c'est
+
+75
+00:09:44,146 --> 00:09:49,310
+[SPEAKER_00]: C'est vraiment important pour développer le marché financier africain.
+
+76
+00:09:49,370 --> 00:09:56,256
+[SPEAKER_00]: Et donc, nous avons conçu le fait que le rendement souverain peut être décomposé en trois composants.
+
+77
+00:09:56,296 --> 00:09:57,077
+[SPEAKER_00]: Le taux sans risque.
+
+78
+00:09:57,597 --> 00:10:05,764
+[SPEAKER_00]: Aujourd'hui, c'est très important parce que nos États qui sont en pointe dans leur monnaie locale sans risque.
+
+79
+00:10:05,844 --> 00:10:11,369
+[SPEAKER_00]: Et donc, ce papier nous montre une méthodologie pour déterminer le taux sans risque.
+
+80
+00:10:11,389 --> 00:10:12,349
+[SPEAKER_00]: Ce qui permet aux
+
+81
+00:10:14,030 --> 00:10:20,193
+[SPEAKER_00]: aux États de devoir mettre en place d'être l'article sans risque de la région.
+
+82
+00:10:20,253 --> 00:10:27,236
+[SPEAKER_00]: Et donc, on a la Coupe des Taux sans risque, on a la prime de crédit et de l'utilité.
+
+83
+00:10:27,296 --> 00:10:41,802
+[SPEAKER_00]: Et donc, une contribution de ce papier, c'est que la Coupe des Taux sans risque a été construite à partir d'un modèle qui est une extension du modèle de l'ESLM.
+
+84
+00:10:41,862 --> 00:10:42,442
+[SPEAKER_00]: Autrement dit,
+
+85
+00:10:42,762 --> 00:10:50,105
+[SPEAKER_00]: Dans les travaux antérieurs, on a appliqué les modèles de Nelson, Sieges, Mason, Bonn, E. Christensen, et ainsi de suite.
+
+86
+00:10:50,145 --> 00:10:55,027
+[SPEAKER_00]: On s'est rendu compte qu'on avait des taux de durée très élevés.
+
+87
+00:10:55,087 --> 00:11:06,772
+[SPEAKER_00]: Et donc, on a construit une nouvelle spécification qui n'existait pas dans la littérature, qui était adaptée à nos données spécifiques.
+
+88
+00:11:06,832 --> 00:11:10,553
+[SPEAKER_00]: Et donc, c'est l'une des contributions de ce papier pour la construction des taux sans risque.
+
+89
+00:11:10,593 --> 00:11:11,814
+[SPEAKER_00]: Ensuite, au niveau des primes de risque,
+
+90
+00:11:12,454 --> 00:11:28,025
+[SPEAKER_00]: de crédit et de l'unité, on a utilisé une structure hybride, c'est-à-dire qu'on a construit cette ligne de risque en combinant à l'intercollation des modèles de Kimber et à l'exploitation.
+
+91
+00:11:28,225 --> 00:11:37,851
+[SPEAKER_00]: Donc, oui, on a essayé de faire tout ça.
+
+92
+00:11:37,871 --> 00:11:41,894
+[SPEAKER_00]: Donc, je pense que le message est bien passé.
+
+93
+00:11:43,190 --> 00:11:48,632
+[SPEAKER_00]: Et donc, aujourd'hui, on a la dette anticipée.
+
+94
+00:11:48,672 --> 00:11:56,674
+[SPEAKER_00]: A partir de cette dette anticipée, on construit ce qu'on appelle la prime institutionnelle à l'aide d'indices.
+
+95
+00:11:56,754 --> 00:12:02,316
+[SPEAKER_00]: On a construit un indice institutionnel en se basant sur les données d'UVGI.
+
+96
+00:12:02,336 --> 00:12:07,618
+[SPEAKER_00]: C'est la suivante.
+
+97
+00:12:07,638 --> 00:12:08,318
+[SPEAKER_00]: C'est la suivante.
+
+98
+00:12:12,930 --> 00:12:15,832
+[SPEAKER_00]: C'est la suivante.
+
+99
+00:12:15,892 --> 00:12:16,812
+[SPEAKER_00]: Oui.
+
+100
+00:12:16,832 --> 00:12:19,714
+[SPEAKER_00]: Donc, ce qu'il faut retenir, c'est ceci.
+
+101
+00:12:19,734 --> 00:12:22,975
+[SPEAKER_00]: Tout l'aspect technique, je pense qu'on pourrait en discuter en offre.
+
+102
+00:12:23,916 --> 00:12:28,158
+[SPEAKER_00]: Ce qu'il faut retenir, c'est qu'aujourd'hui, les marchés disent 62%.
+
+103
+00:12:28,318 --> 00:12:33,841
+[SPEAKER_00]: C'est-à-dire que la frontière soutenable financée par les marchés, c'est 62%.
+
+104
+00:12:33,881 --> 00:12:42,346
+[SPEAKER_00]: La règle dit 78%, donc il reste un état de 8% qui n'est pas réellement finançable ou, à défaut, financé par des taux d'été élevés.
+
+105
+00:12:43,450 --> 00:12:52,714
+[SPEAKER_00]: Si vous analysez les données de la dette aujourd'hui, vous verrez que les États qui ont des taux d'endettement supérieurs à 60% ont des taux de mission très élevés.
+
+106
+00:12:52,774 --> 00:12:54,735
+[SPEAKER_00]: Autrement dit, ils sont sanctionnés par le marché.
+
+107
+00:12:54,755 --> 00:13:11,542
+[SPEAKER_00]: Donc, pour qu'on puisse avoir une dette soutenable, pouvoir financer la transformation structurelle, tout ce qu'il faut, parce que la finance, c'est le pilier de tout, je pense que nos États doivent pouvoir piloter leur dette, avoir des stratégies
+
+108
+00:13:12,130 --> 00:13:24,477
+[SPEAKER_00]: optimale, basée en écoutant, en pouvant capter les estimations sur les marchés et s'appuyer sur ces estimations pour bâtir des stratégies d'émission.
+
+109
+00:13:24,537 --> 00:13:28,379
+[SPEAKER_00]: On ne les met pas à n'importe quelle période.
+
+110
+00:13:28,439 --> 00:13:31,541
+[SPEAKER_00]: On les met à des périodes où les marchés sont favorables.
+
+111
+00:13:31,601 --> 00:13:39,185
+[SPEAKER_00]: On les met à des périodes où on se rend compte que le taux de recouvrement qui découle des marchés est favorable.
+
+112
+00:13:39,205 --> 00:13:40,306
+[SPEAKER_00]: Donc je pense que c'est tout ça.
+
+113
+00:13:41,122 --> 00:13:44,245
+[SPEAKER_00]: que ce papier essaie de mettre en perspective.
+
+114
+00:13:44,265 --> 00:13:47,327
+[SPEAKER_00]: Je pense que je ne vais pas contourner le temps.
+
+115
+00:13:47,347 --> 00:13:52,392
+[SPEAKER_00]: Merci beaucoup.
+

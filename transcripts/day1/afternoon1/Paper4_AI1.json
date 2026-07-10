@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.0",
+  "paper": {
+    "title": "Market-Consistent Public Debt Sustainability Adjusted for Institutional Quality in WAEMU",
+    "authors": [
+      "Mombikanga Florant"
+    ],
+    "presentation_title": "Public Debt Sustainability Adjusted for Institutional Quality",
+    "session": "Paper 4"
+  },
+  "summary": {
+    "executive_summary": "The paper reassesses public debt sustainability in the West African Economic and Monetary Union (WAEMU) by comparing the region’s regulatory debt ceiling with thresholds implied by financial-market behavior. The central argument is that a fixed ceiling of 70 percent of GDP, inherited from the convergence framework, may not fully reflect the risks perceived by investors or the institutional differences across member states. Using sovereign bond yields, the study constructs a forward-looking, market-consistent debt frontier rather than relying only on backward-looking debt indicators. The methodology decomposes sovereign yields into a risk-free rate, credit premium, and liquidity premium; develops a yield-curve specification adapted to regional market data; and converts market expectations into an anticipated debt threshold. A hierarchical Bayesian model is then used to incorporate institutional quality, based on Worldwide Governance Indicators, while common-factor threshold methods account for cross-country dependence within the monetary union. The main result is that the market-implied sustainable debt frontier is close to 62 percent of GDP and falls further, to roughly 61.4 percent, when adjusted for institutional quality—below the official 70 percent ceiling. Countries above about 60 percent of GDP appear to face higher issuance costs. The paper therefore recommends that governments incorporate market signals and institutional conditions into debt strategies and time bond issuance when market conditions are favorable.",
+    "research_question": "Is the WAEMU regulatory debt ceiling credible when financial markets appear to impose a lower, country-sensitive debt sustainability threshold, and how does institutional quality alter that threshold?",
+    "objective": "To construct a forward-looking, market-consistent public debt sustainability frontier for WAEMU countries and adjust it for institutional quality.",
+    "methodology": "The study uses sovereign bond yields to infer market expectations and construct a market-implied debt frontier. Yields are decomposed into a risk-free rate, credit premium, and liquidity premium. A new yield-curve specification, adapted from established term-structure models, is used for regional data. The anticipated debt frontier is then combined with an institutional-quality index based on Worldwide Governance Indicators through a hierarchical Bayesian model. A threshold model augmented with common factors is used to address cross-sectional dependence within the monetary union.",
+    "main_findings": [
+      {
+        "finding": "The market-implied sustainable debt frontier is approximately 62 percent of GDP, below the official 70 percent ceiling.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:12:23",
+          "end": "00:12:42"
+        }
+      },
+      {
+        "finding": "Adjusting the market-implied debt frontier for institutional quality lowers it further to roughly 61.4 percent of GDP.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:02:52",
+          "end": "00:03:13"
+        }
+      },
+      {
+        "finding": "WAEMU countries with debt ratios above about 60 percent of GDP tend to face significantly higher issuance rates.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:12:43",
+          "end": "00:12:55"
+        }
+      },
+      {
+        "finding": "Financial markets appear to apply different risk thresholds across countries despite the union’s common monetary and regulatory framework.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:03:49",
+          "end": "00:04:46"
+        }
+      },
+      {
+        "finding": "A forward-looking indicator based on market expectations can provide information that conventional backward-looking debt measures miss.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:07:15",
+          "end": "00:07:44"
+        }
+      }
+    ],
+    "conclusions": [
+      "The official 70 percent debt ceiling may overstate the level of debt that markets are willing to finance at reasonable rates.",
+      "Debt sustainability should be assessed using both market expectations and institutional quality.",
+      "A common regional ceiling does not eliminate country-specific risk pricing or spillover effects within the monetary union."
+    ],
+    "policy_implications": [
+      "Use market-implied debt thresholds alongside regulatory ceilings when designing fiscal and borrowing strategies.",
+      "Incorporate institutional quality into debt-sustainability assessments.",
+      "Time sovereign issuance to periods when market conditions and expected refinancing rates are favorable.",
+      "Develop stronger regional risk-free yield curves and market benchmarks.",
+      "Improve debt management to reduce the risk of costly borrowing once debt approaches market-sensitive thresholds."
+    ],
+    "limitations": [
+      "The transcript does not clearly state the full country sample, estimation period, or detailed statistical results.",
+      "Several model names and technical terms are mistranscribed, making the exact yield-curve and threshold specifications uncertain.",
+      "The market-implied threshold may vary over time with liquidity, investor sentiment, and macroeconomic shocks.",
+      "The presentation does not provide detailed country-level threshold estimates or robustness checks."
+    ]
+  },
+  "highlights": [
+    {
+      "text": "The market appears to tolerate a debt ratio of about 62 percent of GDP, not the official 70 percent ceiling.",
+      "type": "key_message",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:12:23",
+        "end": "00:12:42"
+      }
+    },
+    {
+      "text": "Institutional quality lowers the estimated sustainable debt frontier to around 61.4 percent of GDP.",
+      "type": "finding",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:02:52",
+        "end": "00:03:13"
+      }
+    },
+    {
+      "text": "Countries above roughly 60 percent debt-to-GDP are penalized through higher issuance costs.",
+      "type": "finding",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:12:43",
+        "end": "00:12:55"
+      }
+    },
+    {
+      "text": "Market expectations provide a forward-looking debt indicator that complements traditional retrospective measures.",
+      "type": "definition",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:07:15",
+        "end": "00:07:44"
+      }
+    },
+    {
+      "text": "Governments should align issuance strategies with favorable market conditions rather than borrow mechanically.",
+      "type": "policy_implication",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:13:12",
+        "end": "00:13:39"
+      }
+    }
+  ],
+  "moderator_questions": [
+    {
+      "question": "How stable is the estimated 62 percent market-implied threshold across countries and over time?",
+      "category": "methodology"
+    },
+    {
+      "question": "Which dimensions of institutional quality have the strongest effect on the sustainable debt frontier?",
+      "category": "interpretation"
+    },
+    {
+      "question": "Should WAEMU retain a single regional debt ceiling, or move toward country-specific limits informed by market and institutional conditions?",
+      "category": "policy"
+    }
+  ],
+  "keywords": [
+    "public debt sustainability",
+    "WAEMU",
+    "sovereign yields",
+    "market-consistent valuation",
+    "institutional quality",
+    "debt threshold",
+    "yield curve",
+    "hierarchical Bayesian model",
+    "cross-sectional dependence",
+    "debt management"
+  ],
+  "quality": {
+    "transcript_quality": "medium",
+    "uncertain_items": [
+      "The author’s surname and given name are transcribed as 'Mombikanga Florant' and may require spelling confirmation.",
+      "The presentation mentions 61.7 percent in one passage and approximately 62 percent later; the summary uses 62 percent as the rounded market-implied threshold.",
+      "The official ceiling is clearly described as 70 percent, although one later subtitle incorrectly transcribes it as 78 percent.",
+      "Several model names, journal titles, institutions, and technical expressions are mistranscribed.",
+      "The exact term-structure model and common-factor threshold estimator could not be identified with confidence from the transcript alone."
+    ]
+  }
+}
