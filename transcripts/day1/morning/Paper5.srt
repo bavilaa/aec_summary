@@ -1,0 +1,1012 @@
+1
+00:00:04,874 --> 00:00:05,815
+[SPEAKER_00]: Hello, okay.
+
+2
+00:00:07,996 --> 00:00:08,756
+[SPEAKER_00]: Yes, so.
+
+3
+00:00:12,098 --> 00:00:14,059
+[SPEAKER_00]: So this is the title of my presentation.
+
+4
+00:00:15,100 --> 00:00:23,025
+[SPEAKER_00]: This is the paper I worked on during my time in the United Nations.
+
+5
+00:00:23,145 --> 00:00:31,430
+[SPEAKER_00]: And it was actually the response to the request from the members of the
+
+6
+00:00:34,466 --> 00:00:36,988
+[SPEAKER_00]: So this is how my presentation looks like.
+
+7
+00:00:37,008 --> 00:00:41,631
+[SPEAKER_00]: I have the first parts which talk about background, certain contents, and the second
+
+8
+00:01:03,990 --> 00:01:11,732
+[SPEAKER_00]: components were able to map the regional value chains in the automotive sector using some existing technical framework.
+
+9
+00:01:12,692 --> 00:01:21,495
+[SPEAKER_00]: The third aspect was to look at can we empirically assess the link between productive capacity and regional value chains.
+
+10
+00:01:22,395 --> 00:01:24,616
+[SPEAKER_00]: And the fourth part looks at the policy priorities.
+
+11
+00:01:24,636 --> 00:01:26,396
+[SPEAKER_00]: What should we do?
+
+12
+00:01:26,896 --> 00:01:27,917
+[SPEAKER_00]: We can't stop talking.
+
+13
+00:01:28,137 --> 00:01:29,597
+[SPEAKER_00]: We need to talk.
+
+14
+00:01:30,657 --> 00:01:31,918
+[SPEAKER_00]: That's what we need to do.
+
+15
+00:01:32,198 --> 00:01:33,198
+[SPEAKER_00]: Then the last part
+
+16
+00:01:34,014 --> 00:01:37,836
+[SPEAKER_00]: with the key takeaways from my presentation today.
+
+17
+00:01:37,856 --> 00:01:38,436
+[SPEAKER_00]: Next slide.
+
+18
+00:01:40,677 --> 00:01:42,038
+[SPEAKER_00]: This is what the number says.
+
+19
+00:01:43,218 --> 00:01:56,204
+[SPEAKER_00]: I know that we are doing a lot in terms of social economic development, but we are still four years away to the 2030 SDG goals.
+
+20
+00:01:56,964 --> 00:02:00,486
+[SPEAKER_00]: Just quite unfortunate that Africa occupied the lowest ground
+
+21
+00:02:01,254 --> 00:02:01,954
+[SPEAKER_00]: in terms of .
+
+22
+00:02:02,274 --> 00:02:07,617
+[SPEAKER_00]: And one way in which is the role of industrialization, not even industrialization, industrialization, okay?
+
+23
+00:02:07,637 --> 00:02:12,619
+[SPEAKER_00]: Because Africa is industrialized, yet it still has one of the highest .
+
+24
+00:02:12,679 --> 00:02:12,899
+[SPEAKER_00]: Okay?
+
+25
+00:02:30,450 --> 00:02:39,332
+[SPEAKER_00]: So, now, industrialization is a sector that is very, very important, which is automotive sector, okay?
+
+26
+00:02:39,392 --> 00:02:44,174
+[SPEAKER_00]: And this automotive sector is really some of the priorities.
+
+27
+00:02:44,434 --> 00:02:48,995
+[SPEAKER_00]: If you look at most countries, they used to have priority sectors, okay?
+
+28
+00:02:49,355 --> 00:02:53,196
+[SPEAKER_00]: It's one of the main priorities when you really want to industrialize.
+
+29
+00:02:53,816 --> 00:02:59,398
+[SPEAKER_00]: But in our continent, we are mostly used as a docking arm for used cars.
+
+30
+00:02:59,958 --> 00:03:02,439
+[SPEAKER_00]: So the question now is, how do we now reverse this trend?
+
+31
+00:03:03,819 --> 00:03:07,400
+[SPEAKER_00]: In reversing this trend, we should look at the automotive sector as a whole.
+
+32
+00:03:07,480 --> 00:03:10,841
+[SPEAKER_00]: We should be able to look at the quality changes and analysis of the sector.
+
+33
+00:03:11,661 --> 00:03:13,842
+[SPEAKER_00]: And this is very important for the tourism industry.
+
+34
+00:03:14,522 --> 00:03:18,703
+[SPEAKER_00]: The EU right now, they are talking about the carbon product adjustment mechanism, okay?
+
+35
+00:03:19,144 --> 00:03:23,545
+[SPEAKER_00]: And this is the sub-region that is going to be significantly affected by this silver.
+
+36
+00:03:24,105 --> 00:03:27,126
+[SPEAKER_00]: Tomorrow, the US can just wake up to see its investment value.
+
+37
+00:03:27,574 --> 00:03:30,437
+[SPEAKER_00]: So it's not more about trade, it's not more about .
+
+38
+00:03:31,197 --> 00:03:42,408
+[SPEAKER_00]: And now, I was telling somebody that maybe you should just be able to create a notification button for state of the world to tell us when you are going to be closing or go to state of the world.
+
+39
+00:03:43,028 --> 00:03:47,633
+[SPEAKER_01]: And the reality is that things are not going to be the same again after you say that, okay?
+
+40
+00:03:47,693 --> 00:03:48,854
+[SPEAKER_01]: We need to be able to see that.
+
+41
+00:03:49,274 --> 00:03:51,496
+[SPEAKER_01]: So we need to be able to view that .
+
+42
+00:03:52,097 --> 00:03:53,098
+[SPEAKER_01]: And the good news is that
+
+43
+00:03:53,726 --> 00:03:54,907
+[SPEAKER_01]: We have different frameworks.
+
+44
+00:03:55,067 --> 00:03:57,829
+[SPEAKER_01]: We have the continental framework, like the AFCMTA.
+
+45
+00:03:58,249 --> 00:03:59,550
+[SPEAKER_00]: We have the regional framework.
+
+46
+00:03:59,570 --> 00:04:00,290
+[SPEAKER_00]: We have the SAGEN.
+
+47
+00:04:00,311 --> 00:04:01,471
+[SPEAKER_00]: We have the COMESA.
+
+48
+00:04:01,491 --> 00:04:02,212
+[SPEAKER_00]: We have the SAAPI.
+
+49
+00:04:02,232 --> 00:04:02,912
+[SPEAKER_00]: We have the SEMA.
+
+50
+00:04:03,052 --> 00:04:05,014
+[SPEAKER_00]: All of those frameworks are existing.
+
+51
+00:04:05,414 --> 00:04:09,056
+[SPEAKER_00]: But we just need to be able to talk into this framework and see what we can do.
+
+52
+00:04:09,076 --> 00:04:10,597
+[SPEAKER_00]: Move to the next slide.
+
+53
+00:04:12,839 --> 00:04:13,339
+[SPEAKER_00]: Next slide.
+
+54
+00:04:16,962 --> 00:04:17,262
+[SPEAKER_00]: Okay.
+
+55
+00:04:17,682 --> 00:04:21,385
+[SPEAKER_00]: So, now, in Southern Africa, now I'm talking about why.
+
+56
+00:04:21,665 --> 00:04:22,846
+[SPEAKER_00]: Why am I interested in Southern Africa?
+
+57
+00:04:24,030 --> 00:04:26,552
+[SPEAKER_00]: We have the assets, okay?
+
+58
+00:04:27,092 --> 00:04:28,894
+[SPEAKER_00]: Maybe to not only produce the .
+
+59
+00:04:28,954 --> 00:04:31,776
+[SPEAKER_00]: We also have assets to be able to .
+
+60
+00:04:31,816 --> 00:04:32,957
+[SPEAKER_00]: We're talking about .
+
+61
+00:04:32,997 --> 00:04:34,458
+[SPEAKER_00]: We're talking about .
+
+62
+00:04:34,478 --> 00:04:35,919
+[SPEAKER_00]: We're talking about all the .
+
+63
+00:04:35,939 --> 00:04:37,320
+[SPEAKER_00]: But yet, we still occupy
+
+64
+00:04:51,498 --> 00:04:59,043
+[SPEAKER_00]: the raw material segment in the value chains of this battery electric vehicle for the ICE.
+
+65
+00:04:59,083 --> 00:05:01,825
+[SPEAKER_00]: But there are countries that are doing a bit more like this.
+
+66
+00:05:01,845 --> 00:05:03,646
+[SPEAKER_00]: South Africa is able to do well.
+
+67
+00:05:04,006 --> 00:05:14,654
+[SPEAKER_01]: So if you look at this chart, you will see that in Africa, the road is the only South African road that is able to at least contribute to global production of vehicles.
+
+68
+00:05:15,114 --> 00:05:16,595
+[SPEAKER_01]: And why South Africa needs to do it?
+
+69
+00:05:16,615 --> 00:05:21,138
+[SPEAKER_01]: South Africa needs to do it because of its long-standing policy on the automotive sector.
+
+70
+00:05:21,554 --> 00:05:25,617
+[SPEAKER_00]: Monaco is also able to do it because of its policies to the world market, okay?
+
+71
+00:05:26,558 --> 00:05:31,462
+[SPEAKER_00]: But we also have two other countries that are trying to do it, but their whole contribution is still limited.
+
+72
+00:05:31,823 --> 00:05:32,383
+[SPEAKER_00]: Next slide.
+
+73
+00:05:32,523 --> 00:05:42,852
+[SPEAKER_00]: Another reason why we are interested in Southern Africa is that we believe that Africa will go.
+
+74
+00:05:43,352 --> 00:05:49,798
+[SPEAKER_00]: So this is the only region that is highly connected, okay, in terms of integration.
+
+75
+00:05:50,170 --> 00:05:51,971
+[SPEAKER_00]: and in the automotive sector to the global economy.
+
+76
+00:05:52,452 --> 00:05:57,756
+[SPEAKER_00]: So if you look at this slide, you will see that this was provided by OECD.
+
+77
+00:05:57,816 --> 00:06:06,943
+[SPEAKER_00]: And we see there is strong foreign participation in mining, which is due to exporting raw materials, and strong backward participation in industries.
+
+78
+00:06:08,003 --> 00:06:12,647
+[SPEAKER_00]: And this is mainly in position of finalized goods.
+
+79
+00:06:13,007 --> 00:06:13,928
+[SPEAKER_01]: So what does this tell you?
+
+80
+00:06:13,948 --> 00:06:16,510
+[SPEAKER_01]: This tells you that if there is a global shock,
+
+81
+00:06:16,950 --> 00:06:21,513
+[SPEAKER_00]: Today, this is the region that is going to be more affected by the global shock.
+
+82
+00:06:21,573 --> 00:06:26,877
+[SPEAKER_00]: And then we need to be able to look at how we now leverage some of these existing frameworks that we have.
+
+83
+00:06:27,418 --> 00:06:28,058
+[SPEAKER_00]: Next slide.
+
+84
+00:06:29,859 --> 00:06:32,661
+[SPEAKER_00]: So this is now, this is why we felt that we need to conduct this .
+
+85
+00:06:32,741 --> 00:06:38,346
+[SPEAKER_00]: And we'll be able to map the general, we do not have any data from the general elections, okay?
+
+86
+00:06:38,826 --> 00:06:40,727
+[SPEAKER_00]: And the sector-specific general elections.
+
+87
+00:06:41,308 --> 00:06:44,210
+[SPEAKER_00]: But we have the general elections in the data which have been
+
+88
+00:06:44,650 --> 00:06:56,797
+[SPEAKER_00]: Can we be able to map the regional value chains for the automotive sector to see what does it look like across the value chains?
+
+89
+00:06:56,977 --> 00:06:59,258
+[SPEAKER_00]: Yes, we can be able to do it.
+
+90
+00:06:59,938 --> 00:07:01,299
+[SPEAKER_00]: Why do we need to be able to do it?
+
+91
+00:07:01,319 --> 00:07:07,623
+[SPEAKER_00]: So we can be able to understand what are the key strengths and weaknesses of these countries in terms of what they want to do best.
+
+92
+00:07:08,223 --> 00:07:12,685
+[SPEAKER_00]: How should we also be able to help manufacturers and suppliers that will teach us
+
+93
+00:07:14,106 --> 00:07:18,450
+[SPEAKER_00]: At the same time, you should also be able to have strategic investments across the value chains.
+
+94
+00:07:18,590 --> 00:07:20,352
+[SPEAKER_00]: So, this information was able to do this.
+
+95
+00:07:20,812 --> 00:07:28,659
+[SPEAKER_00]: So, the second component of this report is to see what is the link between productive diversity and regional value chains in the automotive sector.
+
+96
+00:07:29,059 --> 00:07:38,928
+[SPEAKER_00]: And when we talk about productive diversity, the way two of the guys are selling the company of the very good, they need a standard requirement, okay?
+
+97
+00:07:39,388 --> 00:07:41,370
+[SPEAKER_00]: Like I said, the director of this one,
+
+98
+00:07:41,742 --> 00:07:44,923
+[SPEAKER_00]: There is a specific requirement that it must meet.
+
+99
+00:07:44,943 --> 00:07:55,606
+[SPEAKER_01]: Okay, what it means is that there are some certain skills that these T1 manufacturers, T2 manufacturers, and the T3 manufacturers must be able to meet so that they can meet all the standards.
+
+100
+00:07:56,307 --> 00:08:02,689
+[SPEAKER_00]: The product capacity that you are talking about, the investment cannot try in an environment where there is a way to bring stability.
+
+101
+00:08:03,389 --> 00:08:06,570
+[SPEAKER_01]: Investment cannot try when there is no infrastructure.
+
+102
+00:08:06,994 --> 00:08:08,995
+[SPEAKER_01]: I don't need to compute these units.
+
+103
+00:08:09,075 --> 00:08:10,975
+[SPEAKER_01]: Hunter has been able to do this.
+
+104
+00:08:11,215 --> 00:08:18,517
+[SPEAKER_00]: And it's been hard to get us to understand what product capacity is.
+
+105
+00:08:19,318 --> 00:08:19,838
+[SPEAKER_00]: Next slide.
+
+106
+00:08:22,599 --> 00:08:26,100
+[SPEAKER_00]: So how is the regional functions mapping that we did?
+
+107
+00:08:26,540 --> 00:08:32,101
+[SPEAKER_00]: We used Hunter as a paper that was written by Hunter.
+
+108
+00:08:32,601 --> 00:08:34,522
+[SPEAKER_01]: I'm sorry, UNDP in 2021.
+
+109
+00:08:35,038 --> 00:08:39,940
+[SPEAKER_01]: We also use the classification for the banks of 2021.
+
+110
+00:08:39,960 --> 00:08:44,242
+[SPEAKER_01]: And what banks of 2021 did was to conclude the transfer schools, okay?
+
+111
+00:08:44,782 --> 00:08:51,285
+[SPEAKER_01]: So in the first stage, which is the raw materials, so we have about 25 products, okay?
+
+112
+00:08:51,746 --> 00:08:53,827
+[SPEAKER_00]: And the first stage is the raw materials.
+
+113
+00:08:53,847 --> 00:08:57,548
+[SPEAKER_00]: So this stage is supplied by the guys who supply raw materials.
+
+114
+00:08:57,628 --> 00:09:00,710
+[SPEAKER_00]: And this includes steel, pure steel, uranium,
+
+115
+00:09:01,398 --> 00:09:04,100
+[SPEAKER_01]: The leather, the rubber, the plastic, the stuff like that.
+
+116
+00:09:04,120 --> 00:09:06,341
+[SPEAKER_01]: So in this category, we have about 25 products.
+
+117
+00:09:06,982 --> 00:09:07,362
+[SPEAKER_00]: Okay?
+
+118
+00:09:07,462 --> 00:09:09,564
+[SPEAKER_01]: So when I say tier 3, this is what I'm referring to.
+
+119
+00:09:10,004 --> 00:09:12,286
+[SPEAKER_01]: So for tier 2, this is the sub-components.
+
+120
+00:09:12,466 --> 00:09:16,689
+[SPEAKER_01]: I mean, the sub-components, we have about 42 products in this sub-component.
+
+121
+00:09:16,909 --> 00:09:21,012
+[SPEAKER_01]: And this includes your volumetrics, fabrication, shearing, sanding, stamping, and stuff like that.
+
+122
+00:09:21,532 --> 00:09:29,918
+[SPEAKER_01]: Now for tier 3, which is the tier 1, so this includes the other components, like your drive frame, your gearbox, your steering, your electronics,
+
+123
+00:09:30,858 --> 00:09:45,964
+[SPEAKER_01]: So just to let you know that in this point we will focus on the physical components because the lifestyle, the life value chains of the automotive sector extend beyond this.
+
+124
+00:09:45,984 --> 00:09:52,507
+[SPEAKER_01]: It's also includes the after sales, the resale, the recycling, second hand, so we need to consider that.
+
+125
+00:10:00,426 --> 00:10:02,988
+[SPEAKER_01]: So can we move into our calculation next slide?
+
+126
+00:10:05,109 --> 00:10:07,151
+[SPEAKER_01]: So what does the numbers tell us, okay?
+
+127
+00:10:07,531 --> 00:10:11,454
+[SPEAKER_01]: So if you look at the tier one, this is what we are expecting, right?
+
+128
+00:10:12,094 --> 00:10:17,378
+[SPEAKER_01]: South Africa is the region in terms of the regional export of tier one products.
+
+129
+00:10:18,158 --> 00:10:20,520
+[SPEAKER_01]: Okay, so I won't go into much of that on this.
+
+130
+00:10:20,840 --> 00:10:21,841
+[SPEAKER_01]: Let's move to the next slide.
+
+131
+00:10:21,861 --> 00:10:23,622
+[SPEAKER_01]: Although we have other countries that are coming up.
+
+132
+00:10:25,342 --> 00:10:36,733
+[SPEAKER_01]: And in terms of the number of products that we are using to save 50,000 dollars, we are able to export 50,000 above 50,000 dollars to a place that actually we are still competitive.
+
+133
+00:10:37,033 --> 00:10:40,597
+[SPEAKER_01]: And this is what also the future shows in terms of competitiveness of exports.
+
+134
+00:10:41,097 --> 00:10:50,006
+[SPEAKER_01]: So we have South Africa also giving, we were able to export competitively a Tewa component, we have Botswana, we have Majin,
+
+135
+00:10:50,366 --> 00:10:51,887
+[SPEAKER_00]: Namibia, Zambia.
+
+136
+00:10:51,907 --> 00:10:55,508
+[SPEAKER_00]: So, other countries, we have a lot of export in terms of the digital economy.
+
+137
+00:10:55,568 --> 00:10:55,788
+[SPEAKER_00]: Okay?
+
+138
+00:10:56,208 --> 00:10:57,149
+[SPEAKER_00]: Let's move to TMI.
+
+139
+00:10:57,249 --> 00:11:06,193
+[SPEAKER_00]: In TMI, we have a significant community in terms of exports, followed by Botswana.
+
+140
+00:11:07,033 --> 00:11:10,214
+[SPEAKER_00]: And, yeah, so let's move to the next stage, the next slide.
+
+141
+00:11:12,335 --> 00:11:18,638
+[SPEAKER_01]: So, also in terms of the total number of foreign exporters, that's going to be followed by Zambia and Namibia.
+
+142
+00:11:18,934 --> 00:11:28,901
+[SPEAKER_01]: So we can be able to see countries that are not able to export from this area, so which include Lesotho, Eschatini, Zimbabwe, Malawi, Mozambique.
+
+143
+00:11:28,941 --> 00:11:32,484
+[SPEAKER_01]: But does this mean this country should be excluded from the business sector?
+
+144
+00:11:32,904 --> 00:11:33,204
+[SPEAKER_01]: No.
+
+145
+00:11:35,346 --> 00:11:38,067
+[SPEAKER_01]: So now, interestingly, if you move to the next slide, please.
+
+146
+00:11:39,829 --> 00:11:40,930
+[SPEAKER_01]: Yes, yes, that's right.
+
+147
+00:11:41,310 --> 00:11:47,154
+[SPEAKER_01]: Okay, so Saratoga is still dominating, but a country surface, which is Zimbabwe.
+
+148
+00:11:47,466 --> 00:11:50,867
+[SPEAKER_01]: Okay, so this is basically raw materials.
+
+149
+00:11:51,267 --> 00:11:57,929
+[SPEAKER_01]: So the value and softwares run as the next significant contributor to the tectonic complement.
+
+150
+00:11:58,509 --> 00:12:04,251
+[SPEAKER_01]: So then you also go to the next slide, then you have South Africa, Zimbabwe, Zambia.
+
+151
+00:12:04,291 --> 00:12:10,592
+[SPEAKER_01]: So these countries are able to do what other countries are not able to export from the tectonic complement.
+
+152
+00:12:11,253 --> 00:12:12,473
+[SPEAKER_01]: So now move to the next slide.
+
+153
+00:12:12,493 --> 00:12:16,414
+[SPEAKER_01]: So the interesting thing I would also like to show you is that
+
+154
+00:12:16,938 --> 00:12:21,299
+[SPEAKER_01]: You also get it in my previous slide that I said South Africa is one of the countries that we can stop doing jobs.
+
+155
+00:12:21,739 --> 00:12:29,061
+[SPEAKER_01]: But when you look at South Africa, you realize that they are not even able to optimally explore what they have.
+
+156
+00:12:29,101 --> 00:12:35,143
+[SPEAKER_00]: So 75% of their next cost is still more in the sectoral component, while the other components are still at the root.
+
+157
+00:12:35,163 --> 00:12:38,144
+[SPEAKER_00]: That's why the fact that they are a giant and a transverse of the native sector.
+
+158
+00:12:38,584 --> 00:12:43,525
+[SPEAKER_00]: And we have countries like Zimbabwe that are doing extremely poor in the contribution to international value chains.
+
+159
+00:12:43,726 --> 00:12:45,046
+[SPEAKER_00]: And we have countries that I imagine
+
+160
+00:12:45,618 --> 00:12:52,863
+[SPEAKER_00]: like the small economic countries like Lesotho, like Botswana, and Namibia.
+
+161
+00:12:52,903 --> 00:12:54,624
+[SPEAKER_01]: Sorry, they are still in the future.
+
+162
+00:12:54,724 --> 00:12:59,848
+[SPEAKER_01]: It's special, but it's a tool and it's a bunch of components of the automotive sector.
+
+163
+00:13:00,308 --> 00:13:07,413
+[SPEAKER_00]: So what does the number now tell us in terms of making productivity and productivity capacity and regional value chains?
+
+164
+00:13:08,514 --> 00:13:09,194
+[SPEAKER_00]: Next slide.
+
+165
+00:13:10,755 --> 00:13:14,218
+[SPEAKER_01]: Just to talk about the data, we use the augmented gravity model.
+
+166
+00:13:15,190 --> 00:13:21,333
+[SPEAKER_01]: and instrumental variability model to be able to address all sorts of environmental challenges.
+
+167
+00:13:22,053 --> 00:13:31,697
+[SPEAKER_01]: And we'll garnish the model with different exponential variables like distance, continuity, language, future diagrammatic changes, and stuff like that.
+
+168
+00:13:31,777 --> 00:13:35,599
+[SPEAKER_01]: And importantly, our learning exponential variables in reproductive capacity.
+
+169
+00:13:36,139 --> 00:13:43,842
+[SPEAKER_01]: And this is the lifespan of our study from 2000 to 2002 using data from different sources like the UNCA,
+
+170
+00:13:44,286 --> 00:13:44,866
+[SPEAKER_00]: Next slide.
+
+171
+00:13:44,886 --> 00:13:50,728
+[SPEAKER_00]: Now, what does the result tell us?
+
+172
+00:13:51,688 --> 00:14:02,011
+[SPEAKER_01]: Interestingly, if you see the elasticity, you will realize that product capacity, so the TCI here is the average product capacity of both the internal and external.
+
+173
+00:14:02,491 --> 00:14:12,734
+[SPEAKER_01]: So what it tells us is that if you improve your product capacity, you are going to be able to export more, okay, if you take one major component of your automotive sector.
+
+174
+00:14:13,450 --> 00:14:16,811
+[SPEAKER_00]: That is one of the resources of tier one, which is .
+
+175
+00:14:17,831 --> 00:14:19,032
+[SPEAKER_00]: So move to the next slide.
+
+176
+00:14:22,213 --> 00:14:31,196
+[SPEAKER_01]: For tier two, if I start from the right-hand side, tier two and tier three, so for tier three, especially for tier three, which is the right-hand side.
+
+177
+00:14:31,676 --> 00:14:36,917
+[SPEAKER_01]: So what this tells us is that the reason why most African countries are not able to
+
+178
+00:14:39,482 --> 00:14:41,223
+[SPEAKER_01]: is mainly because of .
+
+179
+00:14:42,303 --> 00:14:47,986
+[SPEAKER_01]: Because the more you improve your production capacity, the less you export raw materials.
+
+180
+00:14:48,026 --> 00:14:49,366
+[SPEAKER_01]: That is what we still know.
+
+181
+00:14:49,526 --> 00:14:56,289
+[SPEAKER_01]: But production capacity has a negative and significant impact on the export of tier two components, okay?
+
+182
+00:14:56,709 --> 00:15:07,574
+[SPEAKER_01]: While we look at tier two components here, production capacity improves for gold reporter and has improved the export of tier two.
+
+183
+00:15:09,146 --> 00:15:12,047
+[SPEAKER_00]: Okay.
+
+184
+00:15:12,067 --> 00:15:12,387
+[SPEAKER_01]: Next slide.
+
+185
+00:15:14,128 --> 00:15:15,509
+[SPEAKER_01]: Now, the recommendation.
+
+186
+00:15:16,129 --> 00:15:18,650
+[SPEAKER_01]: We have the SCFC and we have the SCFC, okay?
+
+187
+00:15:18,730 --> 00:15:20,791
+[SPEAKER_01]: We have the framework.
+
+188
+00:15:20,851 --> 00:15:26,594
+[SPEAKER_01]: And the reason why we need to leverage the framework is that contact is coming in 2021.
+
+189
+00:15:27,274 --> 00:15:34,417
+[SPEAKER_01]: And we argue that Africa has a potential of close to about $373 billion that we are going to explore.
+
+190
+00:15:36,538 --> 00:15:42,441
+[SPEAKER_01]: And the reason why we're able to explore is because of due to certain challenges, like the tariff and non-tariff barriers.
+
+191
+00:15:42,561 --> 00:15:45,623
+[SPEAKER_01]: Can we be able to achieve that target?
+
+192
+00:15:46,163 --> 00:16:00,051
+[SPEAKER_01]: So the second aspect of my recommendation from this study is that because we know that these countries are at different levels of industrialization, okay, can we also be able to have a less restrictive rule of origin regimes or traditional techniques for those countries?
+
+193
+00:16:00,091 --> 00:16:04,714
+[SPEAKER_01]: Like for instance, as we've done in other communities, like we've done with other Indian communities,
+
+194
+00:16:05,366 --> 00:16:07,267
+[SPEAKER_01]: countries like Bolivia and Ecuador.
+
+195
+00:16:07,507 --> 00:16:12,671
+[SPEAKER_01]: So it's allowed them to use the non-volatile content, which we call the U.S.A. content, to pay for 60%.
+
+196
+00:16:12,691 --> 00:16:15,893
+[SPEAKER_01]: It was allowed by the short rate to be called 60% U.S.A. content.
+
+197
+00:16:16,414 --> 00:16:20,196
+[SPEAKER_01]: While in other countries, we are allowed to use 40%.
+
+198
+00:16:20,356 --> 00:16:29,062
+[SPEAKER_01]: Also, in the first seven years of the North African feature that we met, Mexico was allowed to use Roblox, whereas the United States and Canada were not allowed to use Roblox.
+
+199
+00:16:29,122 --> 00:16:29,903
+[SPEAKER_01]: Let's move to the next slide.
+
+200
+00:16:31,584 --> 00:16:32,304
+[SPEAKER_01]: Next slide.
+
+201
+00:16:33,545 --> 00:16:34,506
+[SPEAKER_01]: Now we know how to choose.
+
+202
+00:16:34,866 --> 00:16:42,070
+[SPEAKER_01]: Okay, we need to improve our geographic capacity, that is what is the most important message that we're able to find out from our destination.
+
+203
+00:16:42,590 --> 00:17:03,462
+[SPEAKER_01]: And what it means is that the immediate human capital that we need for the SMEs across the value chains, like the tier one, tier two, tier three, okay, we need to maybe that can be treated as political reforms, you know, STEM education, TVET colleges, because I used to tell my colleagues, they're like,
+
+204
+00:17:04,250 --> 00:17:10,275
+[SPEAKER_01]: We are not also contributing much to enjoy lessons in the country, and we need to be able to also advance what we teach there.
+
+205
+00:17:10,595 --> 00:17:13,137
+[SPEAKER_01]: So energy, infrastructure, I need to also mention that.
+
+206
+00:17:13,178 --> 00:17:21,805
+[SPEAKER_01]: Transport, infrastructure, ICT, stable institutions, private sector development, structural change, we need to be able to do it.
+
+207
+00:17:22,445 --> 00:17:30,712
+[SPEAKER_01]: And the reason why we need to be able to do it is so that our competitiveness can be stable when we compare to other countries, when we compare to the European markets, okay?
+
+208
+00:17:32,353 --> 00:17:32,954
+[SPEAKER_01]: Next slide.
+
+209
+00:17:34,686 --> 00:17:38,187
+[SPEAKER_01]: We also developed a model we call the over-scope model.
+
+210
+00:17:38,747 --> 00:17:42,768
+[SPEAKER_01]: So this over-scope model was advanced by an association.
+
+211
+00:17:43,309 --> 00:17:46,389
+[SPEAKER_01]: It is called African Association of Automotive Manufacturers.
+
+212
+00:17:47,070 --> 00:17:52,731
+[SPEAKER_01]: So this over-scope model in Southern Africa, so we ask across the sub-region, for West Africa, where can we get it?
+
+213
+00:17:52,791 --> 00:17:54,652
+[SPEAKER_01]: It's also the hub for East Africa.
+
+214
+00:17:54,692 --> 00:18:00,394
+[SPEAKER_01]: But for Southern Africa, we are seeing South Africa and Botswana to be the hub.
+
+215
+00:18:01,986 --> 00:18:10,553
+[SPEAKER_01]: Because these countries, they have the capacity to be able to share their resources, whether it is ICE vehicles, whether it is new energy vehicles.
+
+216
+00:18:11,374 --> 00:18:15,838
+[SPEAKER_01]: And because we shouldn't also leave other countries behind in terms of value chains.
+
+217
+00:18:16,458 --> 00:18:25,106
+[SPEAKER_01]: And Malawi, from our estimation, Malawi and Eswatini are able to export the rubber component of the entire.
+
+218
+00:18:25,126 --> 00:18:29,910
+[SPEAKER_01]: So it can be a scope, okay, for rubber component of the vehicles.
+
+219
+00:18:30,470 --> 00:18:34,654
+[SPEAKER_01]: they were able to export competitively cotton and wool.
+
+220
+00:18:35,134 --> 00:18:36,796
+[SPEAKER_01]: And they can name it as coal for .
+
+221
+00:18:36,996 --> 00:18:39,518
+[SPEAKER_01]: Zimbabwe, Zimbabwe, Zambia, and for Angola.
+
+222
+00:18:39,558 --> 00:18:44,242
+[SPEAKER_01]: So my question now is, in some of these countries where black businesses are being used
+
+223
+00:18:58,206 --> 00:19:08,554
+[SPEAKER_01]: Yes, black businesses have had a problem, and yet you are not getting much from other organizations like the NDP, the United Nations, you are not getting from them these ads.
+
+224
+00:19:09,215 --> 00:19:12,718
+[SPEAKER_01]: The question now is, how are you able to advance this growth?
+
+225
+00:19:12,738 --> 00:19:14,299
+[SPEAKER_01]: Okay, next slide.
+
+226
+00:19:16,361 --> 00:19:16,961
+[SPEAKER_01]: Yes, yes.
+
+227
+00:19:17,402 --> 00:19:17,982
+[SPEAKER_01]: Next slide.
+
+228
+00:19:18,683 --> 00:19:21,325
+[SPEAKER_01]: Motorcycle production is also undervalued in food.
+
+229
+00:19:21,825 --> 00:19:27,610
+[SPEAKER_01]: Okay, if you are able to get into motorcycle, it's not as complex as the four wheeler and stuff like that.
+
+230
+00:19:28,238 --> 00:19:35,780
+[SPEAKER_01]: And we are also importantly running assets in financing solutions because the payback of our production will also be to be quoted in terms of our demand.
+
+231
+00:19:36,240 --> 00:19:36,640
+[SPEAKER_01]: Okay?
+
+232
+00:19:36,961 --> 00:19:40,562
+[SPEAKER_01]: So the majority of us in Africa might not be able to afford new cars.
+
+233
+00:19:40,862 --> 00:19:43,542
+[SPEAKER_01]: Okay, can we also be able to have the financing solutions for that?
+
+234
+00:19:44,083 --> 00:19:45,383
+[SPEAKER_01]: And lastly, what is my key takeaway?
+
+235
+00:19:45,443 --> 00:19:50,524
+[SPEAKER_01]: We shouldn't be able to look at, the last slide, we shouldn't be able to look at KFC, FTA from export means.
+
+236
+00:19:50,544 --> 00:19:56,026
+[SPEAKER_01]: We need to be able to look at whichever information from identifying which
+
+237
+00:19:56,818 --> 00:19:58,539
+[SPEAKER_01]: and specialise in that niche.
+
+238
+00:19:59,099 --> 00:20:09,045
+[SPEAKER_01]: The Asia community were able to do this three years back where they had a differentiated regional framework and now they are one of the major exporters for the UK government.
+
+239
+00:20:09,185 --> 00:20:10,145
+[SPEAKER_01]: How do they do that?
+
+240
+00:20:10,906 --> 00:20:15,668
+[SPEAKER_01]: So today I'm going to begin with that because my visa was rejected, I wanted to travel to Zambia.
+
+241
+00:20:16,229 --> 00:20:20,071
+[SPEAKER_01]: And I'm asking myself, are you really serious about making an immigration?
+
+242
+00:20:20,151 --> 00:20:26,314
+[SPEAKER_01]: As a Nigerian person, I have a passport, even in Zimbabwe I have to apply for a visa to Zimbabwe.
+
+243
+00:20:26,690 --> 00:20:28,731
+[SPEAKER_01]: Okay, we need to be able to work on these things.
+
+244
+00:20:29,172 --> 00:20:31,813
+[SPEAKER_01]: Yeah, I should be covering this here.
+
+245
+00:20:31,954 --> 00:20:36,657
+[SPEAKER_00]: Thank you very much.
+
+246
+00:20:36,717 --> 00:20:37,057
+[SPEAKER_00]: Thank you.
+
+247
+00:20:37,077 --> 00:20:37,377
+[SPEAKER_01]: Thank you.
+
+248
+00:20:37,677 --> 00:20:38,538
+[SPEAKER_01]: That was excellent.
+
+249
+00:20:38,598 --> 00:20:40,219
+[SPEAKER_00]: So you can stop this for more.
+
+250
+00:20:40,880 --> 00:20:45,783
+[SPEAKER_01]: Yeah, I think we can continue the conversation in the corridors once we are done.
+
+251
+00:20:45,803 --> 00:20:49,986
+[SPEAKER_01]: I'm really sorry for rushing you, but we are way past night time.
+
+252
+00:20:50,046 --> 00:20:55,990
+[SPEAKER_01]: Now, I'll read a few reactions from the paper, and then we can move on to the last paper.
+
+253
+00:20:56,982 --> 00:20:57,963
+[SPEAKER_01]: So I believe this is a
+

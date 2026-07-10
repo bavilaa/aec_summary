@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Browse, read and export your transcripts." />
+    <title>Transcript Studio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <a class="brand" href="/" aria-label="Transcript Studio home">
+          <span class="brand-mark" aria-hidden="true">
+            <span></span><span></span><span></span><span></span><span></span>
+          </span>
+          <span>Transcript Studio</span>
+        </a>
+        <span class="status"><i></i> Workspace live</span>
+      </header>
+
+      <main>
+        <section class="hero">
+          <div>
+            <p class="eyebrow">Your conversations, clarified</p>
+            <h1>Read every word.<br /><span>Keep every insight.</span></h1>
+            <p class="intro">A quiet, focused place to review, search and export your recorded conversations.</p>
+          </div>
+          <div class="hero-orb" aria-hidden="true"><div class="wave"></div></div>
+        </section>
+
+        <section class="workspace" aria-labelledby="workspace-title">
+          <div class="toolbar">
+            <div class="file-field">
+            <div class="file-field filter-field">
+              <label for="day-select">Day</label>
+              <div class="select-wrap">
+                <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 2v3m10-3v3M4 9h16M5 4h14a1 1 0 0 1 1 1v15H4V5a1 1 0 0 1 1-1Z"/></svg>
+                <select id="day-select" aria-label="Filter by day"><option>Loading...</option></select>
+              </div>
+            </div>
+            <div class="file-field filter-field">
+              <label for="session-select">Session</label>
+              <div class="select-wrap">
+                <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>
+                <select id="session-select" aria-label="Filter by session"><option>Loading...</option></select>
+              </div>
+            </div>
+
+              <label for="file-select">Transcript file</label>
+              <div class="select-wrap">
+                <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8Zm0 0v6h6M8 13h8M8 17h6"/></svg>
+                <select id="file-select" aria-label="Choose a transcript"><option>Loading transcripts…</option></select>
+              </div>
+            </div>
+            <div class="actions">
+              <button class="button secondary" id="download-clean" type="button">
+                <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0 4-4m-4 4-4-4M5 21h14"/></svg>
+                Speaker + text
+              </button>
+              <button class="button primary" id="download-full" type="button">
+                <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0 4-4m-4 4-4-4M5 21h14"/></svg>
+                Full transcript
+              </button>
+            </div>
+          </div>
+
+          <div class="transcript-header">
+            <div>
+              <p class="section-label">Now viewing</p>
+              <h2 id="workspace-title">Transcript</h2>
+            </div>
+            <div class="meta" id="meta"></div>
+          </div>
+
+          <div class="search-row">
+            <div class="search-box">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+              <input id="search" type="search" placeholder="Search this transcript…" autocomplete="off" />
+              <kbd>⌘ K</kbd>
+            </div>
+            <span id="results-count" aria-live="polite"></span>
+          </div>
+
+          <nav class="view-tabs" id="view-tabs" aria-label="Presentation views"></nav>
+
+          <div class="transcript" id="transcript" aria-live="polite">
+            <div class="loading"><span></span><span></span><span></span></div>
+          </div>
+        </section>
+      </main>
+
+      <footer><span>Transcript Studio</span><span>Built for focused listening.</span></footer>
+    </div>
+    <div class="toast" id="toast" role="status"></div>
+    <script src="/app.js"></script>
+  </body>
+</html>

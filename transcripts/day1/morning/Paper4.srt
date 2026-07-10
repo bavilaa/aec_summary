@@ -1,0 +1,540 @@
+1
+00:00:00,474 --> 00:00:14,238
+[SPEAKER_01]: The title of the paper today is Linking Access to Energy and Informal Economy, Insights from African Counties.
+
+2
+00:00:14,698 --> 00:00:15,698
+[SPEAKER_01]: Next slide, please.
+
+3
+00:00:18,619 --> 00:00:21,580
+[SPEAKER_01]: The presentation plan is in five points.
+
+4
+00:00:22,380 --> 00:00:27,782
+[SPEAKER_01]: Background and problem statement, objective, ecological approach, result,
+
+5
+00:00:28,274 --> 00:00:31,835
+[SPEAKER_01]: economic policy reformation, and real peace.
+
+6
+00:00:33,876 --> 00:00:45,499
+[SPEAKER_01]: Concerning the background on Robert Chapman, Africa in general, and sub-Saharan Africa in particular, is among the rarest electrified regions in the world.
+
+7
+00:00:46,399 --> 00:00:57,542
+[SPEAKER_01]: According to the International Energy Access 2022, more than 600 million people in sub-Saharan Africa lack access to modern electricity.
+
+8
+00:00:58,842 --> 00:01:01,683
+[SPEAKER_01]: Energy is very important for our society.
+
+9
+00:01:02,583 --> 00:01:05,664
+[SPEAKER_01]: Energy is very important for our informal sector.
+
+10
+00:01:06,104 --> 00:01:17,367
+[SPEAKER_01]: In this case, Ha in 1971 said that informal economy is informal sector is parallel sector.
+
+11
+00:01:18,468 --> 00:01:25,790
+[SPEAKER_01]: The existence of expansion of the informal sector raise fundamental question, particularly regarding the nature
+
+12
+00:01:26,342 --> 00:01:33,224
+[SPEAKER_01]: and structure of the market has worked as the role of government in regulating their economy.
+
+13
+00:01:34,324 --> 00:01:49,448
+[SPEAKER_01]: According to the International Monetary Fund 2017, the informal sector plays a hard role in Africa, accounting for between 25% and 65% of GDP and generates 30% and 90% of non-agricultural jobs.
+
+14
+00:01:56,190 --> 00:02:08,373
+[SPEAKER_01]: According to the International Labour Organization 2019, through migrant workers, a large portion of the global labour force are employed in the informal sector.
+
+15
+00:02:08,794 --> 00:02:20,497
+[SPEAKER_01]: In low-income countries, informal employment accounts for 90% of all jobs, 67% in middle-income countries, and 18% in high-income countries.
+
+16
+00:02:20,617 --> 00:02:21,697
+[SPEAKER_01]: Next slide, please.
+
+17
+00:02:27,698 --> 00:02:43,085
+[SPEAKER_01]: According to the International Labor Organization 2019 and regard to the gender, 92% of women and 87% of men are employed in the informal sector in developing countries.
+
+18
+00:02:43,725 --> 00:02:55,650
+[SPEAKER_01]: Despite the crucial role that the informal economy plays as a driver of employment and innovation in many African countries, his development remains certainly
+
+19
+00:02:56,126 --> 00:03:01,850
+[SPEAKER_01]: content by limited access to modern, affordable, and renewable energy sources.
+
+20
+00:03:02,990 --> 00:03:21,702
+[SPEAKER_01]: According to the reward of July 2022 and June 2024, the absence of an appropriate institutional framework, financial support, policy, and assistance for small informal business, as well as the lack of infrastructure,
+
+21
+00:03:22,422 --> 00:03:25,464
+[SPEAKER_01]: the energy disparity.
+
+22
+00:03:25,824 --> 00:03:28,025
+[SPEAKER_01]: Next slide, please.
+
+23
+00:03:28,466 --> 00:03:42,213
+[SPEAKER_01]: In this case, the research question is, what is the effect of access to economy without access to energy to informal sector in Africa?
+
+24
+00:03:43,914 --> 00:03:50,358
+[SPEAKER_01]: Is there a linear or nonlinear relationship between access to energy and the informal economy in Africa?
+
+25
+00:03:51,134 --> 00:03:51,374
+[SPEAKER_01]: 2.
+
+26
+00:03:51,634 --> 00:03:58,339
+[SPEAKER_01]: What challenge does access to energy influence the informal sector in Africa?
+
+27
+00:03:58,539 --> 00:03:59,340
+[SPEAKER_01]: Next slide, please.
+
+28
+00:04:00,561 --> 00:04:16,852
+[SPEAKER_01]: Concerned, the objective of this study is analyze the effect of access to energy on informal sector in Africa to analyze whether or not there is a non-linear relationship between access to energy and the informal economy.
+
+29
+00:04:17,372 --> 00:04:19,454
+[SPEAKER_01]: Finally, examine the challenge to
+
+30
+00:04:20,158 --> 00:04:24,781
+[SPEAKER_01]: Why access to energy influence the air-forward energy in Africa?
+
+31
+00:04:25,422 --> 00:04:26,382
+[SPEAKER_01]: Next slide, please.
+
+32
+00:04:28,104 --> 00:04:38,991
+[SPEAKER_01]: About the methodological approach, we use the World Bank database 2023, especially World Climate Indicator.
+
+33
+00:04:39,011 --> 00:04:47,257
+[SPEAKER_01]: The study covers period from 2000 to 2022 for 84 African countries.
+
+34
+00:04:47,357 --> 00:04:48,258
+[SPEAKER_01]: Next slide, please.
+
+35
+00:04:51,466 --> 00:04:58,288
+[SPEAKER_01]: The dependent variable is informal economy and dependent variable of PENTEX is access to energy.
+
+36
+00:04:58,928 --> 00:05:08,571
+[SPEAKER_01]: We measure in this study access to energy in access to electricity and access to clean energy.
+
+37
+00:05:09,431 --> 00:05:18,074
+[SPEAKER_01]: Access to electricity is measured by the person of the population who can have access to electricity.
+
+38
+00:05:18,422 --> 00:05:31,546
+[SPEAKER_01]: by a world-renowned educator, and access to clean energy is measured by the GDP per cent of the population who can have access to composting and clean fossil.
+
+39
+00:05:32,986 --> 00:05:39,228
+[SPEAKER_01]: The founder variable is GDP per capita, organisation, financial development and education.
+
+40
+00:05:39,248 --> 00:05:45,330
+[SPEAKER_01]: Our empirical model used in this study is based on the work of a number of
+
+41
+00:05:47,126 --> 00:05:48,247
+[SPEAKER_01]: for 2024.
+
+42
+00:05:48,267 --> 00:05:50,028
+[SPEAKER_01]: Next slide, please.
+
+43
+00:05:53,050 --> 00:05:59,414
+[SPEAKER_01]: About the estimation strategy, we use the Scalar-Strains method 1998.
+
+44
+00:06:00,014 --> 00:06:04,897
+[SPEAKER_01]: This method is allowing you to resolve issues of dependence between variables.
+
+45
+00:06:06,178 --> 00:06:12,562
+[SPEAKER_01]: For the robustness check, we use two-stage represent method of moment estimate, SGMM.
+
+46
+00:06:13,170 --> 00:06:19,373
+[SPEAKER_01]: This method is necessary because it is correct for any ambiguity that may be present.
+
+47
+00:06:20,333 --> 00:06:21,413
+[SPEAKER_01]: Next slide, please.
+
+48
+00:06:23,474 --> 00:06:31,477
+[SPEAKER_01]: Concerning our result, this call as field method, all the preliminary test is verified.
+
+49
+00:06:32,518 --> 00:06:38,340
+[SPEAKER_01]: Multicollinearity test, multi-erode test, and cross-sectional dependence.
+
+50
+00:06:39,601 --> 00:06:42,802
+[SPEAKER_01]: For this baseline result using this call as field method,
+
+51
+00:06:43,578 --> 00:06:51,984
+[SPEAKER_01]: Access to energy has a negative and significant effect on informal economy in the world.
+
+52
+00:06:52,004 --> 00:06:59,169
+[SPEAKER_01]: Access to clean energy has a negative and significant effect on informal economy in this case.
+
+53
+00:06:59,950 --> 00:07:05,514
+[SPEAKER_01]: Access to energy has a negative and significant effect on informal economy.
+
+54
+00:07:06,675 --> 00:07:11,378
+[SPEAKER_01]: So it is important that we take into account that for the menage and the anticipation of access
+
+55
+00:07:12,170 --> 00:07:21,412
+[SPEAKER_01]: with energy and quality, certainly these entities can integrate into the informal sector and become dependent on the informal sector.
+
+56
+00:07:21,493 --> 00:07:30,655
+[SPEAKER_01]: Apart from the control variable, digital per capita has a negative and significant effect on informal economy.
+
+57
+00:07:31,455 --> 00:07:36,316
+[SPEAKER_01]: Urbanization has a positive and significant effect on informal economy.
+
+58
+00:07:36,697 --> 00:07:41,798
+[SPEAKER_01]: Financial development and education have a negative and significant effect on
+
+59
+00:07:42,382 --> 00:07:43,543
+[SPEAKER_01]: and formal economy.
+
+60
+00:07:44,324 --> 00:07:45,545
+[SPEAKER_01]: Next slide, please.
+
+61
+00:07:46,105 --> 00:07:50,929
+[SPEAKER_01]: Concerning the robustness check, we use SGMM method.
+
+62
+00:07:52,070 --> 00:07:53,972
+[SPEAKER_01]: All the test is verified.
+
+63
+00:07:54,312 --> 00:07:58,075
+[SPEAKER_01]: Number of transfusion is under number of countries.
+
+64
+00:07:58,236 --> 00:07:59,477
+[SPEAKER_01]: AR1 is significant.
+
+65
+00:08:00,317 --> 00:08:03,560
+[SPEAKER_01]: AR2 and Hansen test is not significant.
+
+66
+00:08:04,521 --> 00:08:10,346
+[SPEAKER_01]: This results so that access to electricity and access to clean energy have
+
+67
+00:08:11,322 --> 00:08:15,784
+[SPEAKER_01]: a negative and significant effect on informal economy.
+
+68
+00:08:16,465 --> 00:08:24,088
+[SPEAKER_01]: And then, all the cultural variables say the same result and the same significativity.
+
+69
+00:08:24,789 --> 00:08:26,229
+[SPEAKER_01]: Next slide, please.
+
+70
+00:08:29,791 --> 00:08:35,194
+[SPEAKER_01]: For the nonlinear effect of access to energy on the informal economy,
+
+71
+00:08:35,914 --> 00:08:43,996
+[SPEAKER_01]: we use the square of access to electricity and the square of access to clean energy.
+
+72
+00:08:44,837 --> 00:08:53,879
+[SPEAKER_01]: Access to electricity and access to clean energy have a negative and significant effect on informal economy.
+
+73
+00:08:54,460 --> 00:09:01,902
+[SPEAKER_01]: And then, the square of access to electricity and the square of access to clean energy
+
+74
+00:09:02,514 --> 00:09:09,297
+[SPEAKER_01]: have a positive and significant effect on the informal sector.
+
+75
+00:09:10,498 --> 00:09:12,518
+[SPEAKER_01]: All the control variables stay the same as well.
+
+76
+00:09:12,538 --> 00:09:13,399
+[SPEAKER_01]: Next slide, please.
+
+77
+00:09:16,280 --> 00:09:16,860
+[SPEAKER_01]: Next slide.
+
+78
+00:09:20,082 --> 00:09:25,544
+[SPEAKER_01]: About the result of transmission channel, we use the institutional variable.
+
+79
+00:09:26,324 --> 00:09:29,726
+[SPEAKER_01]: Institutional or the institutional variable.
+
+80
+00:09:30,446 --> 00:09:33,468
+[SPEAKER_01]: is very important for our society in Africa.
+
+81
+00:09:34,869 --> 00:09:45,536
+[SPEAKER_01]: Concerning the institutional variables, we use rule of law, government effectiveness, regulation quality, and democracy.
+
+82
+00:09:46,237 --> 00:09:56,704
+[SPEAKER_01]: All these variables come from World Government Indicator of the Database of the World Bank, 2023.
+
+83
+00:09:58,505 --> 00:09:59,806
+[SPEAKER_01]: Our results show that
+
+84
+00:10:01,450 --> 00:10:15,436
+[SPEAKER_01]: when we multiply external variables with access to electricity, we have a negative and significant effect on informal economy.
+
+85
+00:10:15,616 --> 00:10:29,041
+[SPEAKER_01]: And then, when we multiply access to clean energy with external variables, we have a negative and significant effect on informal economy.
+
+86
+00:10:29,621 --> 00:10:30,682
+[SPEAKER_01]: All this is very
+
+87
+00:10:31,518 --> 00:10:36,722
+[SPEAKER_01]: It's verified again.
+
+88
+00:10:36,862 --> 00:10:39,404
+[SPEAKER_01]: Let's write this.
+
+89
+00:10:40,444 --> 00:10:45,888
+[SPEAKER_01]: And then, we use an alternative measure of access to energy.
+
+90
+00:10:46,549 --> 00:10:53,834
+[SPEAKER_01]: Google electricity, Erdogan electricity, Google team energy, and Erdogan team energy.
+
+91
+00:10:54,334 --> 00:10:58,137
+[SPEAKER_01]: All these variables come from the database of the world.
+
+92
+00:11:00,054 --> 00:11:02,175
+[SPEAKER_01]: we have the same result.
+
+93
+00:11:03,295 --> 00:11:13,558
+[SPEAKER_01]: Alternative means of access to energy have a negative and cynical effect on informal economy.
+
+94
+00:11:13,918 --> 00:11:14,918
+[SPEAKER_01]: Next slide, please.
+
+95
+00:11:17,659 --> 00:11:19,679
+[SPEAKER_01]: About the economic policy recommendation.
+
+96
+00:11:19,999 --> 00:11:29,222
+[SPEAKER_01]: First, government authority must increase investment in energy infrastructure, particularly in rural and peri-urban area.
+
+97
+00:11:29,926 --> 00:11:40,929
+[SPEAKER_01]: in order to facilitate the integration of micro-enterprise into the formal sector by reducing productivity cost and improve productivity.
+
+98
+00:11:41,729 --> 00:11:46,931
+[SPEAKER_01]: Second, an exploitation program should be integrated into formalization policy.
+
+99
+00:11:47,491 --> 00:11:59,234
+[SPEAKER_01]: And finally, government must promote the use of pre-energy technology suite to informal activity in order to reduce dependence and pollution
+
+100
+00:11:59,690 --> 00:12:02,112
+[SPEAKER_01]: Thank you for your attention.
+
+101
+00:12:43,090 --> 00:12:49,173
+[SPEAKER_00]: Nice paper from Dr. Dewey-Megen.
+
+102
+00:12:49,993 --> 00:13:10,181
+[SPEAKER_00]: Your paper tries to show that energy poverty, which measure using inaccessibility to electricity and inaccessibility to access to clean energy, is the major cause of informality.
+
+103
+00:13:12,062 --> 00:13:12,842
+[SPEAKER_00]: in Africa.
+
+104
+00:13:13,722 --> 00:13:33,988
+[SPEAKER_00]: And we used a metastrophic method to actually show that access to electricity and inaccessibility to electricity and inaccessibility to clean water actually drive informality.
+
+105
+00:13:34,068 --> 00:13:39,210
+[SPEAKER_00]: And I think this is a nice level that actually can offer
+
+106
+00:13:39,714 --> 00:13:48,600
+[SPEAKER_00]: that has greater potential for the development of policies.
+
+107
+00:13:48,820 --> 00:13:57,926
+[SPEAKER_00]: I'm going to have some few comments that I think you can use in order to ameliorate the work.
+
+108
+00:13:58,407 --> 00:14:07,153
+[SPEAKER_00]: For example, in the abstract, you state that access to energy has a negative and statistically significant effect on informal economy.
+
+109
+00:14:07,733 --> 00:14:08,093
+[SPEAKER_00]: Now,
+
+110
+00:14:10,395 --> 00:14:15,339
+[SPEAKER_00]: This leaves the reader wondering, for example, on the nature of refining.
+
+111
+00:14:15,900 --> 00:14:25,929
+[SPEAKER_00]: Is this negative effect beneficial to the informal economy or is it actually detrimental?
+
+112
+00:14:26,870 --> 00:14:33,075
+[SPEAKER_00]: I think you need to be very specific on this.
+
+113
+00:14:34,717 --> 00:14:35,557
+[SPEAKER_00]: Now, Rojo,
+
+114
+00:14:37,122 --> 00:14:55,407
+[SPEAKER_00]: When I was going through the paper, I think you were not very engaging with the current literature because I went through the literature and saw that there are actually so many papers that are really linking access to energy and the informal economy.
+
+115
+00:14:55,667 --> 00:14:59,448
+[SPEAKER_00]: And I didn't really see the ticket coming.
+
+116
+00:15:00,209 --> 00:15:03,730
+[SPEAKER_00]: And also, in your paper, you were trying to show that
+
+117
+00:15:06,418 --> 00:15:14,860
+[SPEAKER_00]: inaccessibility to electricity, for example, is driving the informal economy, which is something very interesting to look at.
+
+118
+00:15:15,461 --> 00:15:30,685
+[SPEAKER_00]: But also, there are other studies that are actually showing that even when clean energy is available, usually informal actors, usually they won't adopt it.
+
+119
+00:15:31,365 --> 00:15:33,606
+[SPEAKER_00]: They won't adopt it simply because they
+
+120
+00:15:34,038 --> 00:15:40,043
+[SPEAKER_00]: they would prefer cheaper alternatives, which may not necessarily be clean.
+
+121
+00:15:41,644 --> 00:15:49,430
+[SPEAKER_00]: And I didn't really see you engaging with this literature, so I think you really have to look at that aspect.
+
+122
+00:15:49,450 --> 00:15:54,473
+[SPEAKER_00]: Now, another point is that you have fitted institutional
+
+123
+00:16:01,466 --> 00:16:13,413
+[SPEAKER_00]: variables as a transmission mechanism for this effect that is leaving from access to energy to the informal economy.
+
+124
+00:16:14,114 --> 00:16:24,099
+[SPEAKER_00]: But I was expecting more concerning other aspects or variables like production cost for example.
+
+125
+00:16:24,760 --> 00:16:28,142
+[SPEAKER_00]: I think production cost for example could actually
+
+126
+00:16:29,206 --> 00:16:33,129
+[SPEAKER_00]: be a more interesting transmission mechanism.
+
+127
+00:16:33,930 --> 00:16:43,178
+[SPEAKER_00]: Well, I'm not saying that decision quality couldn't be, but I'm saying that you could also look at this more specific aspect.
+
+128
+00:16:43,218 --> 00:16:46,440
+[SPEAKER_00]: Then, finally, I'm going to talk about your recommendations.
+
+129
+00:16:46,941 --> 00:16:55,888
+[SPEAKER_00]: You are recommending just investments in energy infrastructure and the like.
+
+130
+00:16:55,928 --> 00:16:58,210
+[SPEAKER_00]: But I think these recommendations could be more
+
+131
+00:16:58,594 --> 00:17:00,476
+[SPEAKER_00]: would be more tight, for example.
+
+132
+00:17:01,597 --> 00:17:17,412
+[SPEAKER_00]: Policy recommendation that is able to shift from just building power lines to more targeted energy subsidies or regulatory formulation waivers for businesses that are free to adopt modern energy.
+
+133
+00:17:18,513 --> 00:17:18,893
+[SPEAKER_00]: Thank you.
+
+134
+00:17:21,475 --> 00:17:22,336
+[SPEAKER_00]: Thank you so much.
+
+135
+00:17:34,718 --> 00:17:35,921
+[SPEAKER_01]: Thank you, Dr. Isaac.
+

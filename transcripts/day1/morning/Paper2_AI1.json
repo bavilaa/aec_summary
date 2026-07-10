@@ -1,0 +1,178 @@
+{
+  "schema_version": "1.0",
+  "paper": {
+    "title": "Supporting Macroeconomic Resilience in CEMAC: Responding Strategically to Geopolitical Uncertainty in a Multipolar World",
+    "authors": [
+      "Dr. Foucault",
+      "Dr. Erol Fabrice Mitoto"
+    ],
+    "presentation_title": "Geopolitical Risk and Macroeconomic Stability in CEMAC",
+    "session": ""
+  },
+  "summary": {
+    "executive_summary": "The paper examines whether rising geopolitical risk threatens macroeconomic stability in the six-country Central African Economic and Monetary Community (CEMAC), a fixed-exchange-rate monetary union that depends heavily on commodity exports and imported manufactured goods and refined fuel. Using a monthly, newspaper-based global geopolitical risk index, the authors study the relationship between geopolitical risk and inflation, trade, and the exchange rate. The presentation argues that the effects are nonlinear: geopolitical risk may remain manageable at lower levels but become significantly more disruptive after estimated thresholds are crossed. The proposed transmission channels include higher import prices, supply-chain disruption, weaker trade performance, exchange-rate pressure, and unanchored expectations. CEMAC's vulnerability is intensified by its dependence on raw commodity exports and imported refined petroleum, despite being an oil-exporting region. The paper therefore proposes a threshold-based monitoring and response system, with more frequent surveillance as risk rises and automatic measures for essential imports once critical levels are exceeded. Suggested measures include prioritizing energy and pharmaceutical imports and creating a regional stabilization facility. However, audience questions exposed important methodological concerns, particularly the statistical insignificance of the estimated inflation coefficient and the difficulty of separating global geopolitical shocks from domestic conflicts. The presenter acknowledged these limitations and identified them as areas for further research.",
+    "research_question": "Do geopolitical risks threaten macroeconomic stability across CEMAC countries, do they affect member states in the same way, and at what level do those risks become materially disruptive?",
+    "objective": "To estimate how geopolitical risk affects inflation, trade, and exchange-rate conditions in CEMAC and to identify thresholds that could trigger pre-agreed policy responses.",
+    "methodology": "The study uses monthly time-series data and a press-coverage-based geopolitical risk index constructed from articles in major international newspapers. The index distinguishes geopolitical threats from realized geopolitical acts. The empirical analysis relates this index to inflation, exports, imports, trade conditions, and the exchange rate, and applies a threshold or discontinuity approach to test for nonlinear effects.",
+    "main_findings": [
+      {
+        "finding": "CEMAC is structurally exposed to geopolitical shocks because it combines a fixed exchange-rate regime, high dependence on raw commodity exports, and reliance on imported manufactured goods and refined petroleum.",
+        "importance": "high",
+        "timestamp": {
+          "start": "",
+          "end": ""
+        }
+      },
+      {
+        "finding": "The estimated effects of geopolitical risk appear nonlinear: below a lower threshold, shocks behave more like background noise, while above higher thresholds the effects on prices, supply chains, trade, and expectations become more disruptive.",
+        "importance": "high",
+        "timestamp": {
+          "start": "",
+          "end": ""
+        }
+      },
+      {
+        "finding": "The presentation associates higher geopolitical risk with rising prices, contracting trade, and pressure on the exchange rate.",
+        "importance": "high",
+        "timestamp": {
+          "start": "",
+          "end": ""
+        }
+      },
+      {
+        "finding": "CEMAC's status as an oil-exporting region does not eliminate energy vulnerability because the region still imports refined fuel.",
+        "importance": "high",
+        "timestamp": {
+          "start": "",
+          "end": ""
+        }
+      },
+      {
+        "finding": "The inflation coefficient in the reported regression is positive but statistically insignificant, weakening the strength of the causal interpretation presented for inflation.",
+        "importance": "high",
+        "timestamp": {
+          "start": "",
+          "end": ""
+        }
+      },
+      {
+        "finding": "Existing data could support a graduated early-warning system, but the region lacks a formal protocol that converts risk signals into an obligation to act.",
+        "importance": "medium",
+        "timestamp": {
+          "start": "",
+          "end": ""
+        }
+      }
+    ],
+    "conclusions": [
+      "CEMAC is exposed to geopolitical risk, and the exposure becomes more severe after critical thresholds are crossed.",
+      "The region is vulnerable but not powerless if it establishes monitoring rules and automatic response mechanisms.",
+      "Reducing dependence on imported refined fuel is central to strengthening regional resilience.",
+      "The empirical claims on inflation require further testing because the estimated coefficient is not statistically significant."
+    ],
+    "policy_implications": [
+      "Adopt a graduated geopolitical-risk monitoring framework with more frequent surveillance as the index approaches critical thresholds.",
+      "Create automatic response protocols rather than relying on discretionary action after a shock has intensified.",
+      "Prioritize access to essential energy and pharmaceutical imports when geopolitical risk exceeds critical levels.",
+      "Establish a regional stabilization or contingency facility of roughly 2–3 percent of regional GDP, subject to further feasibility analysis.",
+      "Invest in regional refining and supply-chain capacity to reduce dependence on foreign refineries.",
+      "Strengthen the credibility and communication role of the regional central bank in responding to external shocks."
+    ],
+    "limitations": [
+      "The global geopolitical risk index is based on international newspaper coverage and may not capture CEMAC-specific risks accurately.",
+      "The study does not clearly separate global shocks from domestic conflicts such as the Anglophone crisis, Boko Haram-related insecurity, or instability in the Central African Republic.",
+      "The inflation coefficient is positive but statistically insignificant.",
+      "The transcript does not provide enough detail to assess the model specification, sample period, robustness tests, or country-level heterogeneity.",
+      "Several numerical thresholds and institutional names are uncertain because of transcription errors."
+    ]
+  },
+  "highlights": [
+    {
+      "text": "CEMAC's dependence on commodity exports and imported refined fuel makes the monetary union highly exposed to geopolitical shocks.",
+      "type": "key_message",
+      "importance": "high",
+      "timestamp": {
+        "start": "",
+        "end": ""
+      }
+    },
+    {
+      "text": "The effects of geopolitical risk are presented as nonlinear and become more disruptive after critical thresholds are crossed.",
+      "type": "finding",
+      "importance": "high",
+      "timestamp": {
+        "start": "",
+        "end": ""
+      }
+    },
+    {
+      "text": "An oil-exporting monetary union that imports refined fuel remains vulnerable to external refinery and supply-chain disruptions.",
+      "type": "finding",
+      "importance": "high",
+      "timestamp": {
+        "start": "",
+        "end": ""
+      }
+    },
+    {
+      "text": "The region has information but lacks a formal protocol that automatically converts risk signals into policy action.",
+      "type": "policy_implication",
+      "importance": "high",
+      "timestamp": {
+        "start": "",
+        "end": ""
+      }
+    },
+    {
+      "text": "The inflation result should be interpreted cautiously because the estimated coefficient is not statistically significant.",
+      "type": "limitation",
+      "importance": "high",
+      "timestamp": {
+        "start": "",
+        "end": ""
+      }
+    }
+  ],
+  "moderator_questions": [
+    {
+      "question": "How robust are the proposed geopolitical-risk thresholds to alternative model specifications, sample periods, and country-level differences within CEMAC?",
+      "category": "methodology"
+    },
+    {
+      "question": "Given that the inflation coefficient is statistically insignificant, what additional evidence supports using inflation as a trigger for policy intervention?",
+      "category": "evidence"
+    },
+    {
+      "question": "How could the model distinguish external geopolitical shocks from domestic security crises affecting individual CEMAC countries?",
+      "category": "limitations"
+    }
+  ],
+  "keywords": [
+    "CEMAC",
+    "geopolitical risk",
+    "macroeconomic stability",
+    "inflation",
+    "trade",
+    "exchange rate",
+    "monetary union",
+    "commodity dependence",
+    "refined petroleum",
+    "threshold effects",
+    "early-warning system",
+    "regional resilience"
+  ],
+  "quality": {
+    "transcript_quality": "low",
+    "uncertain_items": [
+      "The transcript uses SpeakerX labels but contains no timestamps, so all timestamp fields are empty.",
+      "The presenter's full name is transcribed only as Dr. Foucault and may be inaccurate.",
+      "The co-author's name is transcribed as Dr. Erol Fabrice Mitoto and should be verified.",
+      "The presenters' university affiliations are unclear because the institution names are mistranscribed.",
+      "The official paper title is reconstructed from the discussant's introduction and may not match the exact published title.",
+      "The acronym CEMAC is repeatedly mistranscribed in the transcript as SOMAC, CEMASK, or CEMAP.",
+      "The exact threshold values are unclear; the presentation appears to refer to ranges around 100, 150, and possibly 170.",
+      "The proposed stabilization amount is transcribed inconsistently as both a monetary amount and 2–3 percent of regional GDP.",
+      "Several audience interventions in French are incomplete or poorly transcribed."
+    ]
+  }
+}

@@ -1,0 +1,376 @@
+1
+00:00:00,054 --> 00:00:03,617
+[SPEAKER_00]: for giving us the opportunity to present our paper.
+
+2
+00:00:04,558 --> 00:00:17,789
+[SPEAKER_00]: The paper that we are going to present to you with you today is the FinTech Development and Financial Stability in South-Saharan Africa by accounting for capital flight and remittance.
+
+3
+00:00:19,750 --> 00:00:20,811
+[SPEAKER_00]: Next slide please.
+
+4
+00:00:24,674 --> 00:00:28,818
+[SPEAKER_00]: We proceed with six points starting by motivation.
+
+5
+00:00:29,398 --> 00:00:30,898
+[SPEAKER_00]: And my conclusion.
+
+6
+00:00:32,499 --> 00:00:33,599
+[SPEAKER_00]: Please move forward.
+
+7
+00:00:36,620 --> 00:00:39,221
+[SPEAKER_00]: About the motivation.
+
+8
+00:00:39,801 --> 00:00:49,904
+[SPEAKER_00]: Sub-Saharan Africa has become like most of the most important part in the world in terms of financial innovation.
+
+9
+00:00:50,624 --> 00:00:57,626
+[SPEAKER_00]: When we are talking about financial innovation in Sub-Saharan Africa, we are referring to mobile money, mobile banking,
+
+10
+00:00:58,674 --> 00:01:06,219
+[SPEAKER_00]: But overall, this kind of innovation is improving in vulnerable financial environment.
+
+11
+00:01:07,580 --> 00:01:14,885
+[SPEAKER_00]: And when we are pointing out this fact, we have to take into account financial flow.
+
+12
+00:01:15,726 --> 00:01:27,194
+[SPEAKER_00]: And by taking it into account, we have to look very closely about limitances and also try to look about capital flight in our vision.
+
+13
+00:01:28,266 --> 00:01:32,028
+[SPEAKER_00]: Please, next slide.
+
+14
+00:01:32,088 --> 00:01:42,434
+[SPEAKER_00]: Here we have the comparison between fintech film, active fintech film in Sub-Saharan Africa.
+
+15
+00:01:42,994 --> 00:01:48,937
+[SPEAKER_00]: At the left and at the right, we have fintech film in terms of all incorporation.
+
+16
+00:01:49,558 --> 00:01:57,382
+[SPEAKER_00]: And when we are trying to compare those maps, we can see that we have a lot of fintech film
+
+17
+00:01:57,938 --> 00:02:01,920
+[SPEAKER_00]: in sub-Saharan Africa, but most of them are incorporated abroad.
+
+18
+00:02:02,480 --> 00:02:10,744
+[SPEAKER_00]: So that can be really great about our financial stability or about our financial development overall.
+
+19
+00:02:11,484 --> 00:02:19,487
+[SPEAKER_00]: So given that, we have to try to see more closely how things are going.
+
+20
+00:02:20,768 --> 00:02:22,008
+[SPEAKER_00]: Next slide.
+
+21
+00:02:24,349 --> 00:02:25,750
+[SPEAKER_00]: What about the territory?
+
+22
+00:02:27,546 --> 00:02:56,902
+[SPEAKER_00]: inside the literature we have like two approaches the first one is mostly the optimistic one and the second one we can say that is pessimistic one when we are trying to point out the optimistic one it's mostly about the fact that fintech development can improve financial stability banking efficiency overall but sometimes they can also raise some risk
+
+23
+00:02:57,746 --> 00:03:00,688
+[SPEAKER_00]: like cyber attack and so on.
+
+24
+00:03:01,608 --> 00:03:22,581
+[SPEAKER_00]: So, given the fact that we have like some fintech field that are already able to provide several financial services, we have to try to see how we can try to analyze very well the relationship between fintech and financial stability in our region.
+
+25
+00:03:23,521 --> 00:03:24,582
+[SPEAKER_00]: Here is the next slide.
+
+26
+00:03:27,602 --> 00:03:34,824
+[SPEAKER_00]: What we did first, we tried to identify some limits inside the literature.
+
+27
+00:03:34,844 --> 00:03:44,987
+[SPEAKER_00]: The first one is that most of the studies used to focus their attention on one dimension of fintech.
+
+28
+00:03:45,007 --> 00:03:54,590
+[SPEAKER_00]: And when we are trying to analyze the relationship between fintech and financial development in the world, we have to incorporate the macroanalysis vision.
+
+29
+00:03:55,378 --> 00:04:15,890
+[SPEAKER_00]: And when we are trying to do that, we aim to take it more globally and also raise in our view or in our knowledge, in our study, by trying to analyze at the same time capital flight and redundancies like potential opposition in terms of financial flow.
+
+30
+00:04:17,431 --> 00:04:22,374
+[SPEAKER_00]: And also, when we are trying to point out FinTech development,
+
+31
+00:04:22,998 --> 00:04:33,021
+[SPEAKER_00]: we have to take into account that in our region, we have two different types or two different categories about free tech development in terms of concrete.
+
+32
+00:04:33,421 --> 00:04:45,944
+[SPEAKER_00]: We have some concrete that are more developed, like South Africa, Kenya, and we also have other concrete that are less developed, like Arizona or my own concrete, if I can say like that.
+
+33
+00:04:46,444 --> 00:04:48,945
+[SPEAKER_00]: So what about Western study?
+
+34
+00:04:49,605 --> 00:04:51,226
+[SPEAKER_00]: We have two core paradigms.
+
+35
+00:04:51,586 --> 00:04:52,346
+[SPEAKER_00]: The first one,
+
+36
+00:04:52,946 --> 00:05:08,550
+[SPEAKER_00]: is mostly about using fintech like a potential direct, like fintech around a potential direct effect on financial stability, but also fintech can act on some channels.
+
+37
+00:05:09,851 --> 00:05:18,933
+[SPEAKER_00]: And when we are trying to integrate it in our study, it led us to conceptualize our analysis, fitness, right?
+
+38
+00:05:21,654 --> 00:05:22,274
+[SPEAKER_00]: In terms of
+
+39
+00:05:22,806 --> 00:05:28,128
+[SPEAKER_00]: conceptualization, we have two different approaches.
+
+40
+00:05:28,748 --> 00:05:33,771
+[SPEAKER_00]: The first one is direct approach and the second one is indirect approach.
+
+41
+00:05:34,531 --> 00:05:51,698
+[SPEAKER_00]: By doing that, we are focusing our attention on the second side, indirect approach, by trying to see how FinTech can try to reduce, if applicable, capital flight and by also contributing
+
+42
+00:05:52,366 --> 00:05:55,207
+[SPEAKER_00]: more deeply on relevant issues.
+
+43
+00:05:55,808 --> 00:06:01,711
+[SPEAKER_00]: And those different channels can, at the end, influence financial stability.
+
+44
+00:06:02,291 --> 00:06:12,216
+[SPEAKER_00]: So a concept like that, we are trying to analyze this relationship in two sides, direct and indirect approach.
+
+45
+00:06:13,216 --> 00:06:14,136
+[SPEAKER_00]: Next slide, please.
+
+46
+00:06:15,877 --> 00:06:17,078
+[SPEAKER_00]: About our objective.
+
+47
+00:06:18,506 --> 00:06:33,555
+[SPEAKER_00]: The most important thing that we are trying to do in this research is to analyze the effect of fintech on financial stability, like we just mentioned, by trying to integrate in this relationship capital flight and relinquency.
+
+48
+00:06:35,016 --> 00:06:37,817
+[SPEAKER_00]: First, we are trying to analyze the direct effects.
+
+49
+00:06:38,257 --> 00:06:40,839
+[SPEAKER_00]: Second, we are trying to analyze the indirect effect.
+
+50
+00:06:41,099 --> 00:06:46,482
+[SPEAKER_00]: And at the end, we are trying to check if there is a non-real relationship between those variables.
+
+51
+00:06:48,062 --> 00:06:48,982
+[SPEAKER_00]: Next slide, please.
+
+52
+00:06:50,783 --> 00:06:53,564
+[SPEAKER_00]: For that, we have three hypotheses.
+
+53
+00:06:53,944 --> 00:07:04,787
+[SPEAKER_00]: The first one is that fintech development improves financial stability by reducing financial instability and by improving banking stability.
+
+54
+00:07:06,327 --> 00:07:13,169
+[SPEAKER_00]: The second hypothesis is mostly about conditional effect, if you can say like that.
+
+55
+00:07:13,830 --> 00:07:14,970
+[SPEAKER_00]: And the last one is
+
+56
+00:07:15,486 --> 00:07:20,969
+[SPEAKER_00]: that we are claiming about the fact that there is a non-linear relationship between those variables.
+
+57
+00:07:22,570 --> 00:07:23,511
+[SPEAKER_00]: Please, next slide.
+
+58
+00:07:25,612 --> 00:07:35,817
+[SPEAKER_00]: About our empirical strategy, our span is from 2007 until 2018, and we built a sample of 26 countries in South Africa.
+
+59
+00:07:44,638 --> 00:07:49,099
+[SPEAKER_00]: We measure financial stability with two proxies.
+
+60
+00:07:49,599 --> 00:08:00,643
+[SPEAKER_00]: The first one is financial stability index that we built by considering non-foreign assets, external public debt, and non-performing law.
+
+61
+00:08:01,383 --> 00:08:04,884
+[SPEAKER_00]: The second proxies is banking Z-score.
+
+62
+00:08:05,584 --> 00:08:12,866
+[SPEAKER_00]: And about fintech development, we are considering it like our main contribution in this research.
+
+63
+00:08:13,566 --> 00:08:25,431
+[SPEAKER_00]: because we are trying to build an index about field tech development by accounting the financial dimension and also the global development dimension.
+
+64
+00:08:27,452 --> 00:08:28,752
+[SPEAKER_00]: Next slide, please.
+
+65
+00:08:31,453 --> 00:08:42,658
+[SPEAKER_00]: In terms of empirical analysis, we are using, at the first stage, GMM approach for accounting potential endogeneity and so on.
+
+66
+00:08:43,070 --> 00:08:46,792
+[SPEAKER_00]: And at the second step, we are trying to use PSTL approach.
+
+67
+00:08:48,873 --> 00:08:49,673
+[SPEAKER_00]: Next slide.
+
+68
+00:08:52,474 --> 00:09:02,139
+[SPEAKER_00]: When we are trying to use PSTL approach, it's mostly to check if there is a non-linear relationship by categorizing our sample in two groups.
+
+69
+00:09:02,679 --> 00:09:07,441
+[SPEAKER_00]: The first one is the less developed country, and the second one is the most developed country.
+
+70
+00:09:08,821 --> 00:09:09,862
+[SPEAKER_00]: Please move forward.
+
+71
+00:09:11,070 --> 00:09:13,311
+[SPEAKER_00]: What about our results here?
+
+72
+00:09:14,051 --> 00:09:22,273
+[SPEAKER_00]: At the left, we have the effect of fintech on financial stability by taking capital flight like a tunnel.
+
+73
+00:09:22,893 --> 00:09:34,617
+[SPEAKER_00]: And like we can see, we have a negative and significant effect on financial stability and a positive effect on banking stability.
+
+74
+00:09:35,317 --> 00:09:38,478
+[SPEAKER_00]: Here, the most important thing is just to focus our attention
+
+75
+00:09:39,386 --> 00:09:44,931
+[SPEAKER_00]: above or under the red line, based on Brown Ball, April 2006.
+
+76
+00:09:45,932 --> 00:09:46,833
+[SPEAKER_00]: Please, next slide.
+
+77
+00:09:49,535 --> 00:10:04,849
+[SPEAKER_00]: About non-linear relationship, like we can see, we have a non-linear relationship between FinTech and financial stability by taking those channels like Kepa, Sho, whatever, and
+
+78
+00:10:05,766 --> 00:10:11,570
+[SPEAKER_00]: we effectively can attest that there is no mirror relationship by using PSQI approach.
+
+79
+00:10:12,391 --> 00:10:13,311
+[SPEAKER_00]: Please next slide.
+
+80
+00:10:16,433 --> 00:10:31,924
+[SPEAKER_00]: In terms of conclusion, we can attest or claim about the fact that FinTech is reducing financial instability and also improving banking stability in our region.
+
+81
+00:10:32,825 --> 00:10:34,586
+[SPEAKER_00]: FinTech can also try to
+
+82
+00:10:35,126 --> 00:11:04,606
+[SPEAKER_00]: control some financial flow or financial government that means it can reduce capital flight and improve by the same time remittances and also we find that there is a non-real relationship by accounting the different category or different group in our sample in terms of policy application we provide some recommendations the first one is that we have to continue to invest
+
+83
+00:11:05,210 --> 00:11:08,393
+[SPEAKER_00]: in fintech infrastructure, that's the first thing for us.
+
+84
+00:11:09,033 --> 00:11:34,574
+[SPEAKER_00]: The second thing is that it's most important that we have to set a clear framework about the collaboration between fintech and bank because right now there's nothing like that and this kind of innovation can be really quick by the way, given the fact that they can have like some important part of market in the future.
+
+85
+00:11:35,082 --> 00:11:37,403
+[SPEAKER_00]: So we have to pay attention about that.
+
+86
+00:11:38,283 --> 00:11:39,183
+[SPEAKER_00]: Next slide, please.
+
+87
+00:11:42,024 --> 00:11:44,225
+[SPEAKER_00]: That's the last one, sorry.
+
+88
+00:11:44,285 --> 00:12:01,770
+[SPEAKER_00]: Here, we are trying to put institutional quality at the center of our study by considering institutional quality like an index, corruption, investment profile, rule and rule, bureaucracy, and what we see
+
+89
+00:12:02,102 --> 00:12:12,407
+[SPEAKER_00]: we can see that when we have strong institutional quality, we can reduce financial instability and by the same time improve banking stability.
+
+90
+00:12:13,208 --> 00:12:24,133
+[SPEAKER_00]: So for us, we have to try to see how we have to start by thinking more deeply about that and build our vision more stronger.
+
+91
+00:12:24,753 --> 00:12:25,794
+[SPEAKER_00]: Thank you for your attention.
+
+92
+00:12:27,714 --> 00:12:28,875
+[SPEAKER_01]: Thank you very much.
+
+93
+00:12:28,895 --> 00:12:30,616
+[SPEAKER_01]: Thank you, Mr. Dr. O'Neill, for this presentation.
+
+94
+00:12:30,696 --> 00:12:34,478
+[SPEAKER_01]: I would just like to highlight maybe two or three things.
+

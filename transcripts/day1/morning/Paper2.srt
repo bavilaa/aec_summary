@@ -1,0 +1,784 @@
+1
+00:00:10,202 --> 00:00:14,224
+[SPEAKER_02]: Sherkerson Distinguished Delegate.
+
+2
+00:00:14,244 --> 00:00:25,748
+[SPEAKER_02]: In October 2023, the Global Geographical Risk Index reached its highest level in nearly four decades.
+
+3
+00:00:27,069 --> 00:00:36,273
+[SPEAKER_02]: Six countries sharing one currency, one central bank, absorbed this shock.
+
+4
+00:00:37,953 --> 00:00:39,574
+[SPEAKER_02]: My paper asks a simple question.
+
+5
+00:00:40,926 --> 00:00:43,828
+[SPEAKER_02]: with uncomfortable answers.
+
+6
+00:00:44,608 --> 00:00:47,309
+[SPEAKER_02]: She will say not to be worried.
+
+7
+00:00:49,250 --> 00:00:54,013
+[SPEAKER_02]: My name is Dr. Foucault.
+
+8
+00:00:54,473 --> 00:00:56,354
+[SPEAKER_02]: I'm from the University of Chant.
+
+9
+00:00:57,715 --> 00:01:07,180
+[SPEAKER_02]: I wrote this paper with my co-author, Dr. Erol Fabrice Mitoto from the University of Johannesburg.
+
+10
+00:01:09,801 --> 00:01:10,622
+[SPEAKER_02]: Next slide, please.
+
+11
+00:01:15,902 --> 00:01:42,902
+[SPEAKER_02]: I will spend most of my time on the answers and the methodology because we are here to contribute
+
+12
+00:01:43,946 --> 00:01:54,912
+[SPEAKER_02]: And because the policy, we are really in the policy, it is not in the scenario.
+
+13
+00:01:54,932 --> 00:02:02,116
+[SPEAKER_02]: Next slide, please.
+
+14
+00:02:02,196 --> 00:02:02,536
+[SPEAKER_02]: Okay.
+
+15
+00:02:02,616 --> 00:02:07,639
+[SPEAKER_02]: As we can see, the SOMAC is not merely a small open economy.
+
+16
+00:02:07,699 --> 00:02:11,261
+[SPEAKER_02]: It is a monetary union with a fixed priority.
+
+17
+00:02:13,718 --> 00:02:20,760
+[SPEAKER_02]: does not control exporting what the world prices and importing what the world manufactures.
+
+18
+00:02:21,400 --> 00:02:28,602
+[SPEAKER_02]: More than 80% of this export comes from raw commodities.
+
+19
+00:02:29,543 --> 00:02:41,466
+[SPEAKER_02]: And as we can see, the question, the central question that we pose here, do geopolitical risks pose a real threat
+
+20
+00:02:42,954 --> 00:02:49,278
+[SPEAKER_02]: Do those political rates pose a retreat to macroeconomic stability in the same manner?
+
+21
+00:02:49,699 --> 00:02:55,462
+[SPEAKER_02]: And if so, at what point does the retreat become uncomfortable?
+
+22
+00:02:57,824 --> 00:02:58,525
+[SPEAKER_02]: Next slide, please.
+
+23
+00:03:01,807 --> 00:03:09,752
+[SPEAKER_02]: Okay, now the data that we use here, the data that we use here is common.
+
+24
+00:03:09,972 --> 00:03:12,514
+[SPEAKER_02]: We have multi and series data.
+
+25
+00:03:12,934 --> 00:03:15,115
+[SPEAKER_02]: on geopolitical risk.
+
+26
+00:03:15,496 --> 00:03:21,840
+[SPEAKER_02]: And this, it is not an event index, but an index based on press coverage.
+
+27
+00:03:22,000 --> 00:03:26,843
+[SPEAKER_02]: It is constructed through an open text research
+
+28
+00:03:39,146 --> 00:03:43,069
+[SPEAKER_02]: on the iconic archive of 10 major newspapers.
+
+29
+00:03:43,409 --> 00:03:54,976
+[SPEAKER_02]: We have the New York Times, the International Times, the Wall Street Journal, the LA Times, Chicago, and there are about 10 of them.
+
+30
+00:03:55,657 --> 00:04:03,562
+[SPEAKER_02]: By counting the number of each article dealing with Joe's political attention each month,
+
+31
+00:04:04,186 --> 00:04:10,428
+[SPEAKER_02]: and expressing it as a proportion of the total number of articles.
+
+32
+00:04:10,988 --> 00:04:20,270
+[SPEAKER_02]: And this is grouped in eight different categories, separated in two groups.
+
+33
+00:04:20,611 --> 00:04:30,673
+[SPEAKER_02]: We have the first group, which is GDPRT, the geopolitical risk on treat and the geopolitical risk on act.
+
+34
+00:04:31,073 --> 00:04:32,714
+[SPEAKER_02]: The geopolitical risk on treat
+
+35
+00:04:33,454 --> 00:04:45,017
+[SPEAKER_02]: are treats on war, treats on peace, terrorist treats, nuclear treats, and military breakup.
+
+36
+00:04:45,457 --> 00:04:47,918
+[SPEAKER_02]: That is the first category.
+
+37
+00:04:47,938 --> 00:04:52,139
+[SPEAKER_02]: The second category is the geopolitical risks on acts.
+
+38
+00:04:52,299 --> 00:05:03,022
+[SPEAKER_02]: That is the breakup, the outbreak of war, the escalation of terrorist acts.
+
+39
+00:05:05,210 --> 00:05:28,888
+[SPEAKER_02]: As we can see our results, we really base this effect on three categories of variables, the dependent variable.
+
+40
+00:05:28,928 --> 00:05:31,070
+[SPEAKER_02]: We have inflation,
+
+41
+00:05:31,466 --> 00:05:35,730
+[SPEAKER_02]: we have trade, export, and import, and we have exchange rate.
+
+42
+00:05:36,150 --> 00:05:47,079
+[SPEAKER_02]: As we can see, the prices rises when we come, when the job process rises, there is a rise in price.
+
+43
+00:05:47,480 --> 00:05:57,368
+[SPEAKER_02]: The trade contract and the exchange rate, there is also an increase in the exchange rate.
+
+44
+00:05:57,488 --> 00:05:59,290
+[SPEAKER_02]: And that is the second example.
+
+45
+00:06:00,546 --> 00:06:12,231
+[SPEAKER_02]: The CEMASK export oil and the CEMASK import inflation for oil because the pump price in Douala is indexed to the price set in Andorra, Thailand.
+
+46
+00:06:12,991 --> 00:06:17,333
+[SPEAKER_02]: That's the reality that we face actually in the CEMASK zone.
+
+47
+00:06:17,913 --> 00:06:29,438
+[SPEAKER_02]: The inflation coefficient is positive and it compares to the rate and the discontinuity analysis on the net
+
+48
+00:06:30,042 --> 00:06:49,510
+[SPEAKER_02]: slides show why the average on the state is below the GDPR of really 100.
+
+49
+00:06:49,690 --> 00:06:58,114
+[SPEAKER_02]: 100 here is like the threshold that is being fixed based on the words of Kandira and E.R.
+
+50
+00:06:58,454 --> 00:06:58,774
+[SPEAKER_02]: Kandiri.
+
+51
+00:06:59,890 --> 00:07:04,493
+[SPEAKER_02]: they fit a threshold of Joe's political ways.
+
+52
+00:07:05,093 --> 00:07:09,956
+[SPEAKER_02]: And below that threshold, Joe's politics is background noises.
+
+53
+00:07:11,296 --> 00:07:24,464
+[SPEAKER_02]: On that very good right price, somewhere below 100 and 150, the relationship stopped being linear.
+
+54
+00:07:25,044 --> 00:07:28,746
+[SPEAKER_02]: Below it, three mechanisms fire
+
+55
+00:07:29,574 --> 00:07:37,737
+[SPEAKER_02]: At once, the front weekend, the supply chain breaks, and the expectation comes on anchor.
+
+56
+00:07:38,838 --> 00:07:48,542
+[SPEAKER_02]: Then, this means that their tax is not a response to geopolitical rates.
+
+57
+00:07:49,302 --> 00:07:56,045
+[SPEAKER_02]: It is to keep the region below the threshold at which responses stop working.
+
+58
+00:07:58,106 --> 00:07:58,566
+[SPEAKER_02]: Next slide.
+
+59
+00:08:04,082 --> 00:08:08,984
+[SPEAKER_02]: Okay, look at the flatten below the threshold.
+
+60
+00:08:10,425 --> 00:08:18,368
+[SPEAKER_02]: It is not resilient to choice, it is resilient to necessity.
+
+61
+00:08:18,388 --> 00:08:24,691
+[SPEAKER_02]: CEMAP cannot stop importing refined petroleum because CEMAP does not retire.
+
+62
+00:08:26,511 --> 00:08:32,374
+[SPEAKER_02]: Then the consequence, an oil exporting union that most import fuel is
+
+63
+00:08:32,882 --> 00:08:39,405
+[SPEAKER_02]: A union whose trade balance is hostage to somebody else's refinery.
+
+64
+00:08:39,765 --> 00:08:45,508
+[SPEAKER_02]: Below 150, the hostage situation becomes a supply crisis.
+
+65
+00:08:47,429 --> 00:08:47,929
+[SPEAKER_02]: Next slide.
+
+66
+00:08:50,611 --> 00:08:53,912
+[SPEAKER_02]: Okay.
+
+67
+00:08:56,693 --> 00:08:57,734
+[SPEAKER_02]: Please, the next one.
+
+68
+00:09:03,742 --> 00:09:17,152
+[SPEAKER_02]: Okay, now we can see that it's not must be concerned but it is not condemned to suffer from the shock and passing fear.
+
+69
+00:09:18,993 --> 00:09:19,493
+[SPEAKER_02]: Next one.
+
+70
+00:09:24,757 --> 00:09:25,058
+Okay.
+
+71
+00:09:29,341 --> 00:09:30,461
+[SPEAKER_02]: The first one is not
+
+72
+00:09:31,990 --> 00:09:35,413
+[SPEAKER_02]: just academic, we have to understand that very well.
+
+73
+00:09:35,693 --> 00:09:57,732
+[SPEAKER_02]: The question is not just academic, there are deals, below 100 bucks, monitoring monthly, between 100, we have to, they have to get a monthly monitoring, and between 100 and 150, the inflation and data band go weekly and pre-positive.
+
+74
+00:09:58,012 --> 00:09:59,073
+[SPEAKER_02]: At 100 and 150,
+
+75
+00:10:01,098 --> 00:10:04,000
+[SPEAKER_02]: for both daily and deployed.
+
+76
+00:10:04,840 --> 00:10:12,065
+[SPEAKER_02]: They have already published the data it will need.
+
+77
+00:10:12,825 --> 00:10:13,786
+[SPEAKER_02]: That is missing.
+
+78
+00:10:14,606 --> 00:10:17,368
+[SPEAKER_02]: What is missing is not information.
+
+79
+00:10:17,408 --> 00:10:23,571
+[SPEAKER_02]: What is missing is the protocol that turns information into obligation to act.
+
+80
+00:10:35,694 --> 00:10:46,586
+[SPEAKER_02]: 3 to 4 billion and this is one of the recommendations that we did after this war.
+
+81
+00:10:47,147 --> 00:10:52,974
+[SPEAKER_02]: The automatic to put in place an automatic activation once the GDP
+
+82
+00:10:53,634 --> 00:11:02,598
+[SPEAKER_02]: are exceed 150 or the range between 150 to 170 as we show on the graphic below.
+
+83
+00:11:02,798 --> 00:11:09,561
+[SPEAKER_02]: The priority for essential input energy and pharmaceutical.
+
+84
+00:11:09,761 --> 00:11:17,465
+[SPEAKER_02]: Once that threshold is being exceeded, we have to prioritize that commodities.
+
+85
+00:11:18,345 --> 00:11:20,006
+[SPEAKER_02]: Indicate the sizes.
+
+86
+00:11:20,566 --> 00:11:23,408
+[SPEAKER_02]: between two to three percent of regional GDP.
+
+87
+00:11:23,568 --> 00:11:31,914
+[SPEAKER_02]: We have to put in place something like a special money to really come to deal with this issue once the signal is being heard.
+
+88
+00:11:32,035 --> 00:11:32,455
+[SPEAKER_02]: Next one.
+
+89
+00:11:51,830 --> 00:11:57,873
+[SPEAKER_02]: Yes, to conclude, we can say that yes, the decimal is exposed.
+
+90
+00:11:58,454 --> 00:12:00,255
+[SPEAKER_02]: And the exposure is nonlinear.
+
+91
+00:12:00,835 --> 00:12:19,945
+[SPEAKER_02]: But the exposure is not a decimal because once we understand the mechanism and we understand the different thresholds and put in place the structural mechanism, we can really understand the signal and put in place different strategies in order to
+
+92
+00:12:21,394 --> 00:12:39,250
+[SPEAKER_02]: maybe manage once geopolitical risk increases become higher than what we can actually deal with, actually manage.
+
+93
+00:12:39,330 --> 00:12:41,272
+[SPEAKER_02]: Thank you for the presentation.
+
+94
+00:12:41,372 --> 00:12:42,733
+[SPEAKER_02]: Thank you for your kind attention.
+
+95
+00:12:57,682 --> 00:13:01,443
+[SPEAKER_03]: So, may I follow the discussion?
+
+96
+00:13:01,543 --> 00:13:12,526
+[SPEAKER_03]: Mrs. Meyerling, please provide a reaction.
+
+97
+00:13:12,566 --> 00:13:23,590
+[SPEAKER_00]: Ladies and gentlemen, I would first like to thank the organizers of the French Economic Forum, Mr. Pame, and Dr. Foucault for his presentation on the DEN,
+
+98
+00:13:25,862 --> 00:13:36,489
+[SPEAKER_00]: to support macroeconomic resilience in the CEMAC, to respond strategically to geopolitical uncertainties in a multipolar world.
+
+99
+00:13:36,689 --> 00:13:52,018
+[SPEAKER_00]: Since 2020, the CEMAC has experienced huge crises, including the COVID-19 crisis, the energy crisis of 2022, and many things that have stopped
+
+100
+00:13:52,570 --> 00:13:56,312
+[SPEAKER_00]: to increase the inflation of different countries.
+
+101
+00:13:57,372 --> 00:14:03,034
+[SPEAKER_00]: My theme is very interesting and so is his paper.
+
+102
+00:14:03,835 --> 00:14:20,682
+[SPEAKER_00]: All I can say is to congratulate him for his work and also to propose to him to talk about the credibility of the BAC.
+
+103
+00:14:21,770 --> 00:14:29,995
+[SPEAKER_00]: because it is true that we are in a time where the African Union wants to be or wants to have a monetary union.
+
+104
+00:14:30,015 --> 00:14:38,141
+[SPEAKER_00]: We should also look at the credibility of the DEA and in terms of its image.
+
+105
+00:14:38,161 --> 00:14:38,481
+[SPEAKER_00]: Thank you.
+
+106
+00:14:38,521 --> 00:14:39,702
+[SPEAKER_00]: Thank you.
+
+107
+00:14:53,826 --> 00:14:55,747
+[SPEAKER_02]: Okay, thank you very much.
+
+108
+00:14:55,927 --> 00:15:01,109
+[SPEAKER_02]: Merci madame Marlene pour les recommandations.
+
+109
+00:15:01,369 --> 00:15:06,010
+[SPEAKER_02]: Je prends en compte justement vos différentes recommandations.
+
+110
+00:15:06,030 --> 00:15:11,432
+[SPEAKER_02]: Je prends en compte la batterie du but de la BSI.
+
+111
+00:15:12,093 --> 00:15:14,213
+[SPEAKER_02]: Nous allons explorer.
+
+112
+00:15:24,106 --> 00:15:25,687
+[SPEAKER_02]: What is he saying?
+
+113
+00:15:25,747 --> 00:15:29,370
+[SPEAKER_03]: He's saying it's not working.
+
+114
+00:15:54,482 --> 00:15:56,023
+[SPEAKER_02]: Good morning, everyone.
+
+115
+00:15:58,223 --> 00:16:07,186
+[SPEAKER_02]: Thank you very much for your presentation, Dr. Koukou.
+
+116
+00:16:07,266 --> 00:16:16,828
+[SPEAKER_01]: I would like to address you in a few words.
+
+117
+00:16:25,239 --> 00:16:28,140
+[SPEAKER_01]: There are two recommendations, if you want.
+
+118
+00:16:28,180 --> 00:16:36,125
+[SPEAKER_01]: I'm not talking about the parties, but in terms of representation, I think that, as the student said, the word credibility, I think it's a bit strong.
+
+119
+00:16:36,145 --> 00:16:42,748
+[SPEAKER_01]: The BA, in terms of the characteristics, I think that Ukraine is a country that constitutes itself.
+
+120
+00:16:42,768 --> 00:16:46,990
+[SPEAKER_01]: I don't think it's necessary that in 10 hours, there will be a summit in the UK.
+
+121
+00:16:47,070 --> 00:16:48,771
+[SPEAKER_01]: There will never be a summit in Africa.
+
+122
+00:16:48,791 --> 00:16:53,654
+[SPEAKER_01]: Even if there is a summit in the big bazaar, it will never be in Africa.
+
+123
+00:16:54,302 --> 00:16:58,364
+[SPEAKER_01]: Africa is strong, but the country is not as strong as I said in the resolution.
+
+124
+00:16:58,384 --> 00:17:02,627
+[SPEAKER_01]: So it's not the creativity of the people who are in front of us.
+
+125
+00:17:02,647 --> 00:17:05,508
+[SPEAKER_01]: So I think the world needs to calm down a little bit.
+
+126
+00:17:05,668 --> 00:17:11,652
+[SPEAKER_01]: It's the country that is not in the resolution, so it's up to you to decide.
+
+127
+00:17:11,672 --> 00:17:14,473
+[SPEAKER_01]: The second aspect is the aspect of geopolitics.
+
+128
+00:17:14,613 --> 00:17:18,635
+[SPEAKER_01]: But I have to say that the aspect of geopolitics, which is very important, is very important in Africa.
+
+129
+00:17:19,196 --> 00:17:23,058
+[SPEAKER_01]: Because the geopolitics sector is in the middle, but since
+
+130
+00:17:24,182 --> 00:17:28,043
+[SPEAKER_01]: I don't know what you're saying.
+
+131
+00:17:28,203 --> 00:17:29,424
+[SPEAKER_01]: I don't know.
+
+132
+00:17:50,454 --> 00:17:50,994
+[SPEAKER_01]: Thank you.
+
+133
+00:17:51,034 --> 00:17:52,195
+[SPEAKER_01]: My name is .
+
+134
+00:18:18,471 --> 00:18:45,930
+[SPEAKER_02]: just one question regarding your presentation if I'm not mistaken from the slide that you are presenting if we look at the regulation I have seen that the coefficient regarding the inflation variable is not significant and then you have started to
+
+135
+00:18:46,698 --> 00:18:53,600
+[SPEAKER_02]: give some conclusion regarding the relationship between GDPR and inflation.
+
+136
+00:18:54,300 --> 00:19:05,944
+[SPEAKER_02]: I just want to better understand how you can come with this kind of interpretation when you have no significance regarding this variable.
+
+137
+00:19:06,024 --> 00:19:13,866
+[SPEAKER_02]: And then after that, at the end, there are some recommendations that have been done to this figure regarding
+
+138
+00:19:16,267 --> 00:19:21,949
+[SPEAKER_02]: I just want to have your view on that one.
+
+139
+00:19:22,009 --> 00:19:22,469
+[SPEAKER_02]: Thank you.
+
+140
+00:19:25,831 --> 00:19:32,173
+[SPEAKER_03]: I have a related question on inflation.
+
+141
+00:19:32,513 --> 00:19:37,395
+[SPEAKER_03]: Can you unpack the threshold effect that you mentioned on inflation?
+
+142
+00:19:37,455 --> 00:19:42,717
+[SPEAKER_03]: You know, I can see inflation, inflation should go in different directions.
+
+143
+00:19:45,070 --> 00:19:53,676
+[SPEAKER_03]: Hello, my name is Baudouin, I'm a journalist and I live in Cameroon.
+
+144
+00:20:12,862 --> 00:20:14,724
+[SPEAKER_01]: So, my question...
+
+145
+00:20:15,024 --> 00:20:23,231
+[SPEAKER_01]: I make the observation that your study measures the geopolitical risks of the world.
+
+146
+00:20:23,332 --> 00:20:36,183
+[SPEAKER_01]: My question is to know how you distinguish the effects of international shocks, such as the Utenian crisis and that of the Middle East, with the effects that internal shocks could have on the country.
+
+147
+00:20:39,986 --> 00:20:47,488
+[SPEAKER_01]: especially the situation of Cameroon with the anglophone crisis, which is an internal shock.
+
+148
+00:20:47,528 --> 00:20:55,271
+[SPEAKER_01]: The situation around the lake with the fight against Boko Haram, which affects the TAT and Cameroon.
+
+149
+00:20:56,811 --> 00:21:05,534
+[SPEAKER_01]: And also the situation of a country like the RCA, which, you know, comes out of an internal crisis situation.
+
+150
+00:21:14,198 --> 00:21:16,580
+[SPEAKER_02]: Bonjour à tous.
+
+151
+00:21:17,721 --> 00:21:24,627
+[SPEAKER_02]: Je suis Satya Nampour, data analyst au département des économies financières à la Banque africaine de développement.
+
+152
+00:21:24,647 --> 00:21:28,450
+[SPEAKER_02]: Merci beaucoup d'avoir proposé votre très intéressante présentation.
+
+153
+00:21:28,490 --> 00:21:30,272
+[SPEAKER_02]: J'ai juste deux questions à vous poser.
+
+154
+00:21:30,292 --> 00:21:33,314
+[SPEAKER_02]: La première, c'est sur le plan méthodologique.
+
+155
+00:21:33,334 --> 00:21:34,495
+[SPEAKER_01]: Je vous pose la question.
+
+156
+00:21:34,555 --> 00:21:34,795
+[SPEAKER_02]: Pourquoi ?
+
+157
+00:21:34,815 --> 00:21:36,657
+[SPEAKER_02]: Moi, j'admire tous ces textes.
+
+158
+00:21:37,518 --> 00:21:40,900
+[SPEAKER_02]: On voit un peu la dimension qu'on pourrait assez élever.
+
+159
+00:21:43,158 --> 00:22:05,808
+[SPEAKER_02]: The second question is in relation to the usefulness of what you are talking about in this case, and what you are talking about in this case, and what you are talking about in this case, and what you are talking about
+
+160
+00:22:11,846 --> 00:22:16,727
+[SPEAKER_02]: Is there any interest in other factors that influence the macroeconomic stability?
+
+161
+00:22:16,907 --> 00:22:20,248
+[SPEAKER_02]: And so, is this an alternative to the educators?
+
+162
+00:22:20,268 --> 00:22:21,729
+[SPEAKER_02]: We know how it works.
+
+163
+00:22:21,829 --> 00:22:27,830
+[SPEAKER_02]: Computers, the educators of socio-politics, is this an alternative?
+
+164
+00:22:28,110 --> 00:22:31,591
+[SPEAKER_02]: What do you think is the alternative?
+
+165
+00:22:32,252 --> 00:22:36,193
+[SPEAKER_02]: Is there any other way to solve this problem?
+
+166
+00:22:36,213 --> 00:22:39,553
+[SPEAKER_02]: To see how it works in your organization.
+
+167
+00:22:42,186 --> 00:22:47,810
+[SPEAKER_02]: OK. OK.
+
+168
+00:23:11,322 --> 00:23:17,747
+[SPEAKER_02]: Thank you very much for the different interventions and questions.
+
+169
+00:23:17,767 --> 00:23:30,098
+[SPEAKER_02]: I would like to say that I may not have the elements to answer the questions, but I will try to answer the questions.
+
+170
+00:23:30,158 --> 00:23:38,244
+[SPEAKER_02]: I will start with the question of the journalist, which concerns the discussion of internal and external shocks.
+
+171
+00:23:40,914 --> 00:23:51,779
+[SPEAKER_02]: It should be noted that the geopolitical neity that we have built is based on the work of Fabien and his collaborators.
+
+172
+00:23:52,339 --> 00:24:00,742
+[SPEAKER_02]: It is not a particular neity, it is a neity of press coverage.
+
+173
+00:24:00,962 --> 00:24:09,466
+[SPEAKER_02]: That is to say, it is a neity that is based on the press coverage, on the expression.
+
+174
+00:24:09,822 --> 00:24:10,022
+[SPEAKER_02]: We have
+
+175
+00:24:34,594 --> 00:24:37,416
+[SPEAKER_02]: It's even a limit that literature brings us to.
+
+176
+00:24:37,436 --> 00:24:41,998
+[SPEAKER_02]: And it's also an aspect in which we can, as a state, we can also build similarities in our sources.
+
+177
+00:24:42,058 --> 00:24:47,041
+[SPEAKER_02]: How can we really manage to capture the geopolitical effects in this way?
+
+178
+00:24:47,121 --> 00:24:51,463
+[SPEAKER_02]: In any case, in this regard, we are under pressure.
+
+179
+00:25:04,538 --> 00:25:07,879
+[SPEAKER_02]: This expression is not based on the same event.
+
+180
+00:25:08,360 --> 00:25:29,008
+[SPEAKER_02]: So, here we have a disk that can be exogenous in these different countries, but precisely, a perspective would be that we continue to have, even if the signals are in an endogenous way, as proposed by Hansel, that is to say, even if we have a disk that is made of facts,
+
+181
+00:25:34,502 --> 00:25:40,185
+[SPEAKER_02]: but we are going to address this in a more complicated way.
+
+182
+00:25:40,725 --> 00:25:43,247
+[SPEAKER_02]: Thank you for your attention, Mr. William Harris.
+
+183
+00:25:43,267 --> 00:25:45,928
+[SPEAKER_02]: Sorry, I did not say his name.
+
+184
+00:25:45,988 --> 00:25:55,333
+[SPEAKER_02]: As far as the recommendations of the gentleman are concerned, he told us, he told us how we were going to do it.
+
+185
+00:26:04,530 --> 00:26:28,406
+[SPEAKER_02]: g l s method we thank you very much for that and also the ai-based geopolitical risk that those are some those are things that we are taking consideration for for other kind of stories as far as as far as the question concerning the inflation inflation the inflation that is not significant
+
+186
+00:26:29,214 --> 00:26:41,838
+[SPEAKER_02]: Yes, it is true, the inclusion coefficient is not significant, but this is also a big positive signal as far as the work is concerned.
+
+187
+00:26:41,898 --> 00:26:52,160
+[SPEAKER_02]: The fact that it is not significant, but it is positive, and we can actually observe it in our daily life.
+
+188
+00:26:52,661 --> 00:26:57,482
+[SPEAKER_02]: The fact that today, maybe the war that is going on,
+
+189
+00:26:58,750 --> 00:27:02,291
+[SPEAKER_02]: or it has stopped, because every day it is stopping.
+
+190
+00:27:02,432 --> 00:27:06,933
+[SPEAKER_02]: I'm talking about what's happening in Iran, actually.
+
+191
+00:27:07,073 --> 00:27:27,742
+[SPEAKER_02]: We are feeling the effects of that in our daily lives, like the prices of some communities of oil and those different communities are increasing, and we may not be inside inflation as far as
+
+192
+00:27:28,522 --> 00:27:36,048
+[SPEAKER_02]: the patient is concerned that we are really experiencing the price rising from the common system of data.
+
+193
+00:27:36,829 --> 00:27:41,553
+[SPEAKER_02]: That is what we can say, but actually it is very pertinent.
+
+194
+00:27:41,573 --> 00:27:42,633
+[SPEAKER_02]: I hope it works.
+
+195
+00:27:58,690 --> 00:27:59,331
+[SPEAKER_02]: Thank you.
+
+196
+00:27:59,371 --> 00:27:59,832
+[SPEAKER_02]: Thank you.
+

@@ -1,0 +1,428 @@
+1
+00:00:00,386 --> 00:00:03,947
+[SPEAKER_00]: to stay within the time that is loaded for this session.
+
+2
+00:00:04,548 --> 00:00:23,355
+[SPEAKER_00]: This presenter will have about 10 minutes of presentation time, following which we have, for each paper, there is a staff member here who will give their reaction on the paper for about four minutes, and then each representative needs to respond to the comments from the discussions.
+
+3
+00:00:24,616 --> 00:00:29,598
+[SPEAKER_00]: Following that, I will open the floor for training for the audience to ask
+
+4
+00:00:30,634 --> 00:00:31,114
+[SPEAKER_00]: questions.
+
+5
+00:00:31,815 --> 00:00:37,537
+[SPEAKER_00]: You can keep your questions short so we can take in more questions as much as we can.
+
+6
+00:00:38,217 --> 00:00:44,260
+[SPEAKER_00]: And then, again, give the presenters that want to respond to the reactions from the audience.
+
+7
+00:00:46,321 --> 00:00:59,066
+[SPEAKER_00]: So the first paper on the agenda today is Build a Macroeconomic Resilience in SEMA, Strategic Policy Response to Geopolitical Uncertainty in a Multi-Color World.
+
+8
+00:00:59,858 --> 00:01:01,959
+[SPEAKER_00]: And this will be presented by Dr. Soko.
+
+9
+00:01:01,979 --> 00:01:22,145
+[SPEAKER_00]: Okay, I think they are trying to get this presentation in the system, so maybe we can start with a second paper.
+
+10
+00:01:23,445 --> 00:01:24,966
+[SPEAKER_00]: Mr. Surya, are you ready?
+
+11
+00:01:31,190 --> 00:01:31,730
+[SPEAKER_00]: Thank you.
+
+12
+00:03:50,719 --> 00:03:53,688
+[SPEAKER_01]: Thank you for your time.
+
+13
+00:04:37,718 --> 00:04:43,701
+[SPEAKER_01]: who, by their presence and support, give this moment its symbolic and primal dimension.
+
+14
+00:04:43,741 --> 00:04:52,846
+[SPEAKER_01]: Ladies and gentlemen, our work on the term is entitled The effects of macro-financial policies on financial safety in developing countries.
+
+15
+00:04:52,866 --> 00:04:55,568
+[SPEAKER_01]: The quality of the decisions that are important.
+
+16
+00:04:56,368 --> 00:05:01,411
+[SPEAKER_01]: So, our presentation is divided into six parts.
+
+17
+00:05:01,451 --> 00:05:04,813
+[SPEAKER_01]: We have the context and the problem.
+
+18
+00:05:05,613 --> 00:05:06,854
+[SPEAKER_01]: The objectives and
+
+19
+00:05:07,350 --> 00:05:13,712
+[SPEAKER_01]: the methodology, the results obtained, and then the political-economic implications.
+
+20
+00:05:13,852 --> 00:05:26,077
+[SPEAKER_01]: As a context and problematic text, the financial crisis of 2007-2008, coming to an end, is the result of the social crisis of the century.
+
+21
+00:05:30,106 --> 00:05:38,771
+[SPEAKER_01]: In response, the macroeconomic policies have been developed in order to limit the systematization of the residence of the financial system.
+
+22
+00:05:38,811 --> 00:05:44,574
+[SPEAKER_01]: However, their effectiveness remains to be discussed in the last months, especially in the region of destitution.
+
+23
+00:05:46,155 --> 00:05:47,996
+[SPEAKER_01]: Next.
+
+24
+00:05:48,016 --> 00:05:58,882
+[SPEAKER_01]: According to the 2015 report, the macroeconomic policies have been designed to bring together the measures aimed at limiting the vulnerability of the financial system.
+
+25
+00:06:00,330 --> 00:06:07,134
+[SPEAKER_01]: by reducing negative extremities and by strengthening the financial system's resilience in the face of the economic crisis.
+
+26
+00:06:07,254 --> 00:06:15,799
+[SPEAKER_01]: In this dynamic, the reports of the Bank, elaborated by the Global Committee, offer a positive add-on in terms of banking regulation.
+
+27
+00:06:15,819 --> 00:06:28,166
+[SPEAKER_01]: So, according to HIDOT in 2014, the objectives of the Committee of the Global Financial Committee are to promote financial stability to achieve, in 2014 alone,
+
+28
+00:06:28,438 --> 00:06:40,422
+[SPEAKER_00]: The macroeconomic policy of the financial world, as mentioned, is a non-curative of the political, economic and electoral design of the country.
+
+29
+00:06:40,462 --> 00:06:40,682
+[SPEAKER_01]: Next.
+
+30
+00:06:40,722 --> 00:06:48,004
+[SPEAKER_01]: This study mainly focused on the theory of financial fragility of the mid-1977s and the post-1970s north of the country.
+
+31
+00:06:48,024 --> 00:06:54,166
+[SPEAKER_01]: According to which, solid institutions improve the efficiency of macroeconomic policies.
+
+32
+00:06:57,730 --> 00:07:00,072
+[SPEAKER_01]: Literature has three main areas.
+
+33
+00:07:00,132 --> 00:07:08,278
+[SPEAKER_01]: First, it develops studies in analysis and focuses mainly on macro-financial instruments in an individual way.
+
+34
+00:07:08,418 --> 00:07:14,622
+[SPEAKER_01]: Secondly, the results are not consistent with the values of their brands.
+
+35
+00:07:14,662 --> 00:07:17,284
+[SPEAKER_01]: This is the case with the studies of CETI in 2017.
+
+36
+00:07:17,904 --> 00:07:22,988
+[SPEAKER_01]: The quality of the issues is rarely taken into account in a federative way.
+
+37
+00:07:23,028 --> 00:07:25,209
+[SPEAKER_01]: This is the theme of our research.
+
+38
+00:07:28,914 --> 00:07:35,276
+[SPEAKER_01]: Ladies and gentlemen, the data show the power and flexibility in relation to the financial stability that they function.
+
+39
+00:07:35,296 --> 00:07:44,798
+[SPEAKER_01]: Macro-financial policies are in the process of reshaping and refurbishing, and they are also a sign that the economy is still strong in all the countries that it is in.
+
+40
+00:07:44,838 --> 00:07:56,982
+[SPEAKER_01]: In the face of the signal of the index vulnerability, in the face of the signal of the financial vulnerability of those who do not have the data, it is therefore necessary to ask the following question.
+
+41
+00:07:59,230 --> 00:07:59,450
+[SPEAKER_01]: Next.
+
+42
+00:08:01,512 --> 00:08:07,917
+[SPEAKER_01]: What is the role of decision-making in the effects of financial policy on the financial structure in development?
+
+43
+00:08:09,298 --> 00:08:09,939
+[SPEAKER_01]: Yes, next.
+
+44
+00:08:12,521 --> 00:08:15,063
+[SPEAKER_01]: So, from this main question, we have two specific questions.
+
+45
+00:08:15,324 --> 00:08:20,068
+[SPEAKER_01]: What are the effects of financial policy on the financial structure in development?
+
+46
+00:08:20,528 --> 00:08:27,714
+[SPEAKER_01]: The second question, what are the interactive effects of decision-making and financial policy on the financial structure in development?
+
+47
+00:08:29,746 --> 00:08:38,813
+[SPEAKER_01]: Ladies and gentlemen, the objective is therefore to evaluate the direct effects of the macro-financial policies and to determine if the quality of these decisions strengthens their efficiency.
+
+48
+00:08:40,374 --> 00:08:41,094
+[SPEAKER_01]: So, next.
+
+49
+00:08:44,837 --> 00:08:45,077
+[SPEAKER_01]: Next.
+
+50
+00:08:45,097 --> 00:08:51,642
+[SPEAKER_01]: To make two hypotheses that are therefore formulated within the framework of this type of research.
+
+51
+00:08:52,002 --> 00:08:52,983
+[SPEAKER_01]: First, a hypothesis.
+
+52
+00:08:53,543 --> 00:08:57,166
+[SPEAKER_01]: The macro-financial policies have also established a financial ability to develop.
+
+53
+00:08:57,602 --> 00:09:07,826
+[SPEAKER_01]: The second hypothesis is that the quality of the institutions improves the effects and financial consequences on the financial stability of development goods.
+
+54
+00:09:07,886 --> 00:09:17,590
+[SPEAKER_01]: On the technological level, this research focuses on the theoretical approach of SINACI 2004, adapted to countries where there is no and no longer a more global vision of financial stability.
+
+55
+00:09:18,290 --> 00:09:27,034
+[SPEAKER_01]: On the interior level, we refer to all these situations related to Stability World 2017, as well as cases of barriers to control, in fact,
+
+56
+00:09:27,478 --> 00:09:30,821
+[SPEAKER_01]: and explain the details of the financial strategy.
+
+57
+00:09:30,841 --> 00:09:32,863
+[SPEAKER_01]: The first data is the WDI data.
+
+58
+00:09:32,903 --> 00:09:40,769
+[SPEAKER_01]: The WDI data base and the global data base.
+
+59
+00:09:40,809 --> 00:09:48,956
+[SPEAKER_01]: We have also used the integrated financial policy data developed by Adam and Corbyn during their time.
+
+60
+00:09:48,976 --> 00:09:56,642
+[SPEAKER_00]: According to the study of an open area of 40 countries in development, it is a period of 2000 to 2000 hours per day.
+
+61
+00:09:57,022 --> 00:10:01,908
+[SPEAKER_01]: So the choice of the 7 best and the length of the champion is not necessarily the answer to the question.
+
+62
+00:10:01,948 --> 00:10:16,786
+[SPEAKER_01]: Finally, the preliminary tests lead us to use the technique of simulation and machine learning system in two stages, which allows us to solve the problem in a technical and optical way in two stages.
+
+63
+00:10:19,294 --> 00:10:24,278
+[SPEAKER_01]: Here you can see the index of the results and the distribution.
+
+64
+00:10:24,318 --> 00:10:25,780
+[SPEAKER_01]: The table on the left.
+
+65
+00:10:25,980 --> 00:10:30,984
+[SPEAKER_01]: The table on the right shows the results obtained and the estimates.
+
+66
+00:10:32,305 --> 00:10:40,892
+[SPEAKER_01]: To interpret our results, we have tested the validity of the other model.
+
+67
+00:10:41,132 --> 00:10:43,434
+[SPEAKER_01]: And we have the statistics.
+
+68
+00:10:44,114 --> 00:10:48,358
+[SPEAKER_01]: I'll show you the correlation between the two that show that the instruments used are valid.
+
+69
+00:10:48,762 --> 00:10:55,044
+[SPEAKER_01]: and that our results are faithful to the statistical evidence.
+
+70
+00:10:55,164 --> 00:11:13,390
+[SPEAKER_01]: It should be noted that financial stability is measured here by the CSR of the bank and is really a sign that there is a positive and a negative aspect to this law, which therefore means that financial stability persists over time, which results in the use of money at the end of the period.
+
+71
+00:11:17,298 --> 00:11:19,640
+[SPEAKER_01]: Three main results from this study.
+
+72
+00:11:19,660 --> 00:11:24,204
+[SPEAKER_01]: First of all, the financial macroeconomic policy improves financial stability in developing countries.
+
+73
+00:11:24,224 --> 00:11:32,811
+[SPEAKER_01]: So more precisely, a well-thought-out recommendation from the financial macroeconomic policy expert, what is the financial stability of the Euro 163.5?
+
+74
+00:11:32,851 --> 00:11:33,572
+[SPEAKER_01]: You are ahead of me.
+
+75
+00:11:33,592 --> 00:11:34,373
+[SPEAKER_01]: So three points.
+
+76
+00:11:37,455 --> 00:11:43,300
+[SPEAKER_01]: This result shows that the financial macroeconomic policy is limited
+
+77
+00:11:46,750 --> 00:11:55,874
+[SPEAKER_01]: The investment is excessive, it also increases the systemic risk, and it strengthens the development of health care services.
+
+78
+00:11:56,034 --> 00:12:05,018
+[SPEAKER_01]: And these works, and these measures are more suitable for those who are not able to go through the 17th grade, from the 13th grade to the 12th grade, etc.
+
+79
+00:12:05,038 --> 00:12:13,882
+[SPEAKER_01]: Secondly, we have to take into account institutions that are also significantly positive, and significantly more than 20%.
+
+80
+00:12:14,478 --> 00:12:24,963
+[SPEAKER_01]: and interaction in a way, which means that the efficiencies of the macro-financial policies are in a way reinforced by the quality of the management.
+
+81
+00:12:25,163 --> 00:12:38,810
+[SPEAKER_01]: So, to say everything, it should be noted that the work of the French government constitutes an essential part of the success of macro-financial policies.
+
+82
+00:12:39,106 --> 00:12:47,290
+[SPEAKER_00]: This result, we see, is the same as the one used by Wong in the year 1924, and it is the same as the one used in 1924.
+
+83
+00:12:47,310 --> 00:13:00,435
+[SPEAKER_01]: Thirdly, the analysis of the aspects associated with financial macro-politics shows that financial macro-politics are more effective in the second cycles than in the second cycles.
+
+84
+00:13:00,455 --> 00:13:06,598
+[SPEAKER_01]: In other words, the strengthening of financial assets contributes more to preserving financial stability
+
+85
+00:13:06,930 --> 00:13:10,492
+[SPEAKER_01]: And this result refers to those found by Adolfo and Ortega-18.
+
+86
+00:13:10,512 --> 00:13:10,692
+[SPEAKER_01]: Next.
+
+87
+00:13:10,712 --> 00:13:32,001
+[SPEAKER_01]: So, in order to test the accuracy of our results, we have used an alternative educator, which is not predetermined by the GDP, and which is also documented by the Global Authority.
+
+88
+00:13:32,141 --> 00:13:34,542
+[SPEAKER_01]: And these results, we make a list of all our results.
+
+89
+00:13:35,166 --> 00:13:42,950
+[SPEAKER_01]: So you will notice that we have a negative sign and we also have a negative sign in terms of interaction as well.
+
+90
+00:13:43,390 --> 00:13:57,576
+[SPEAKER_01]: So it is the result, quite simply, of the political-political relationship that we have here, the presence that we have here in the country, and their efficiency, and not necessarily because of the reality of the institutions.
+
+91
+00:13:57,636 --> 00:14:00,958
+[SPEAKER_01]: So it is the result that conforms and contributes to our excellent results.
+
+92
+00:14:00,998 --> 00:14:01,298
+[SPEAKER_01]: So I say
+
+93
+00:14:01,942 --> 00:14:11,788
+[SPEAKER_01]: and therefore allows us to confirm the value of the results.
+
+94
+00:14:11,808 --> 00:14:26,358
+[SPEAKER_01]: In conclusion, ladies and gentlemen, this research aims to analyze the role of the value of decisions in the effects of financial policy on the financial strategy, and the main results show primarily
+
+95
+00:14:26,742 --> 00:14:32,386
+[SPEAKER_01]: that macro-financial policies significantly increase the financial status of developing countries, which confirms our first hypothesis.
+
+96
+00:14:32,406 --> 00:14:40,733
+[SPEAKER_01]: Secondly, high efficiency is reinforced by the quality of institutions, by the way, better institutions.
+
+97
+00:14:40,933 --> 00:14:52,022
+[SPEAKER_01]: In fact, we have also noticed that government measures should be effective and that policy measures should be more efficient.
+
+98
+00:14:56,182 --> 00:14:58,464
+[SPEAKER_01]: These results lead to three main recommendations.
+
+99
+00:14:58,524 --> 00:15:10,572
+[SPEAKER_01]: First, it is to strengthen the quality of institutions through a more efficient government and a stronger struggle against corruption.
+
+100
+00:15:10,733 --> 00:15:23,722
+[SPEAKER_01]: Secondly, it is necessary to adapt political and financial policies to institutional and financial equality in order to be able to do what the context demands.
+
+101
+00:15:24,158 --> 00:15:33,704
+[SPEAKER_01]: Ladies and gentlemen, we are now at the end of our presentation.
+
+102
+00:15:33,745 --> 00:15:36,947
+[SPEAKER_01]: Thank you very much for your attention.
+
+103
+00:15:53,970 --> 00:15:57,331
+[SPEAKER_01]: And I leave it to you for your questions and observations.
+
+104
+00:16:03,213 --> 00:16:03,733
+[SPEAKER_00]: Thank you.
+
+105
+00:16:04,333 --> 00:16:09,275
+[SPEAKER_00]: Thank you, Dr. Su, for that vibrant presentation, I think.
+
+106
+00:16:10,135 --> 00:16:15,017
+[SPEAKER_00]: I want to say from the applause that the audience really enjoyed.
+
+107
+00:16:16,057 --> 00:16:18,158
+[SPEAKER_00]: May I call on this person
+
