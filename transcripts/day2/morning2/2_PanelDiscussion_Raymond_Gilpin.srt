@@ -1,0 +1,1360 @@
+1
+00:00:02,291 --> 00:00:10,055
+[SPEAKER_04]: What is the most important political economy obstacle standing in the way and how can it be overcome?
+
+2
+00:00:10,195 --> 00:00:17,598
+[SPEAKER_04]: Can you hear me?
+
+3
+00:00:17,938 --> 00:00:19,919
+[SPEAKER_00]: Okay, so I do have better luck.
+
+4
+00:00:20,439 --> 00:00:25,922
+[SPEAKER_00]: So let me start by saying a very big thank you to the African Development Bank, UNECA,
+
+5
+00:00:26,702 --> 00:00:31,624
+[SPEAKER_00]: UNDP and OECD for the invitation to join this discussion today.
+
+6
+00:00:32,324 --> 00:00:41,968
+[SPEAKER_00]: So Raymond, in response to your question, I don't think there is a single obstacle per se, and also not all the barriers are necessarily political economy.
+
+7
+00:00:42,589 --> 00:00:50,012
+[SPEAKER_00]: Let me start with one barrier, domestic resource mobilization, which Professor Orama spoke about earlier on.
+
+8
+00:00:50,052 --> 00:00:53,133
+[SPEAKER_00]: This is a classical political economy challenge.
+
+9
+00:00:53,733 --> 00:00:55,514
+[SPEAKER_00]: Wealthier, well-connected Africa
+
+10
+00:00:57,878 --> 00:00:58,899
+[SPEAKER_00]: to pay more taxes.
+
+11
+00:00:59,759 --> 00:01:08,025
+[SPEAKER_00]: Can you hear me?
+
+12
+00:01:10,047 --> 00:01:11,868
+[SPEAKER_00]: Okay, let's try.
+
+13
+00:01:13,029 --> 00:01:13,689
+[SPEAKER_00]: Okay, great.
+
+14
+00:01:14,450 --> 00:01:21,175
+[SPEAKER_00]: Okay, so politicians are often reluctant to charge more taxes to citizens.
+
+15
+00:01:22,336 --> 00:01:25,098
+[SPEAKER_00]: But as Professor Rama showed earlier on,
+
+16
+00:01:25,706 --> 00:01:37,729
+[SPEAKER_00]: Citizens in most African countries are willing to pay more tax if they can see the link between their taxes and robust services.
+
+17
+00:01:38,690 --> 00:01:42,351
+[SPEAKER_00]: So it's not that these barriers cannot be overcome.
+
+18
+00:01:42,391 --> 00:01:44,851
+[SPEAKER_00]: They can be overcome, and we've seen them in countries.
+
+19
+00:01:44,911 --> 00:01:52,614
+[SPEAKER_00]: So we've seen them in Rwanda, where the government of Rwanda increased its tax to GDP ratio from just under 10% in 2000
+
+20
+00:01:54,438 --> 00:01:56,760
+[SPEAKER_00]: to 16.2% in 2022.
+
+21
+00:01:57,200 --> 00:02:01,243
+[SPEAKER_00]: And Senegal is approaching almost 20% of tax to GDP ratio.
+
+22
+00:02:02,224 --> 00:02:09,729
+[SPEAKER_00]: And they've done this through reforms in digital tax administration and electronic taxpayer registration.
+
+23
+00:02:10,309 --> 00:02:16,794
+[SPEAKER_00]: And in Rwanda, citizens can see a link between the taxes they are paying and the services that they are receiving.
+
+24
+00:02:17,634 --> 00:02:22,778
+[SPEAKER_00]: Now, some of the challenges are less about politics and more about coordination.
+
+25
+00:02:23,318 --> 00:02:32,841
+[SPEAKER_00]: So we often criticize international investors for not investing in Africa and saying that Africa is too risky.
+
+26
+00:02:33,361 --> 00:02:36,842
+[SPEAKER_00]: But sometimes we must put the mirror in our own faces.
+
+27
+00:02:36,862 --> 00:02:44,244
+[SPEAKER_00]: We have the same challenges with our own institutional investors who do not invest in the continent enough.
+
+28
+00:02:44,384 --> 00:02:49,646
+[SPEAKER_00]: So in my own country, Ghana, pension funds are allowed to invest
+
+29
+00:02:50,590 --> 00:02:55,312
+[SPEAKER_00]: up to 25% of their portfolios in alternative assets.
+
+30
+00:02:55,832 --> 00:02:57,932
+[SPEAKER_00]: Do you wanna guess how much is elevated right now?
+
+31
+00:02:58,513 --> 00:02:59,393
+[SPEAKER_00]: Less than 1%.
+
+32
+00:03:00,773 --> 00:03:03,934
+[SPEAKER_00]: So this is not a regulatory challenge, okay?
+
+33
+00:03:05,014 --> 00:03:10,116
+[SPEAKER_00]: It is a deeply ingrained sense of conservatism.
+
+34
+00:03:10,916 --> 00:03:13,537
+[SPEAKER_00]: That means that they are not making these investments.
+
+35
+00:03:14,017 --> 00:03:16,358
+[SPEAKER_00]: And Ghanaian fund managers tell me all the time
+
+36
+00:03:16,938 --> 00:03:17,938
+[SPEAKER_00]: They want to hit 5%.
+
+37
+00:03:18,119 --> 00:03:20,119
+[SPEAKER_00]: They don't even want to get to 2% or 10%.
+
+38
+00:03:20,139 --> 00:03:26,602
+[SPEAKER_00]: If they could get to 5%, the amount of money that would be released would be substantial for Ghana's development.
+
+39
+00:03:27,503 --> 00:03:30,824
+[SPEAKER_00]: The third challenge is coordination around financial institutions.
+
+40
+00:03:30,864 --> 00:03:34,246
+[SPEAKER_00]: And again, Professor Rama alluded to this earlier on.
+
+41
+00:03:34,666 --> 00:03:43,730
+[SPEAKER_00]: You know, we have frameworks like the African Alliance of Multilateral Financial Institutions, and now we know a lot about NAFA as well.
+
+42
+00:03:44,438 --> 00:03:52,262
+[SPEAKER_00]: Now the idea is that if financial institutions can collaborate, they can leverage their balance sheet substantially.
+
+43
+00:03:52,282 --> 00:04:00,227
+[SPEAKER_00]: Unfortunately, different governance structures, shareholder interest, and capital constraints make this very difficult.
+
+44
+00:04:00,687 --> 00:04:07,210
+[SPEAKER_00]: So being able to get over this process will be substantially beneficial to the continent.
+
+45
+00:04:07,270 --> 00:04:12,173
+[SPEAKER_00]: So ANSI, for example, has a balance sheet of 70 billion.
+
+46
+00:04:12,513 --> 00:04:13,634
+[SPEAKER_00]: If they could collaborate,
+
+47
+00:04:14,274 --> 00:04:20,699
+[SPEAKER_00]: they believe that they could leverage these as organisations and invest in the African continent.
+
+48
+00:04:21,579 --> 00:04:34,189
+[SPEAKER_00]: But if I were to pick one, I would say that our single biggest political economy challenge would be elite capture and political settlements.
+
+49
+00:04:35,630 --> 00:04:41,454
+[SPEAKER_00]: And until we can deal with the challenges around elite capture and political settlements,
+
+50
+00:04:41,930 --> 00:04:47,294
+[SPEAKER_00]: that benefit the minority at the expense of the majority, we are not going to get over it.
+
+51
+00:04:47,534 --> 00:04:56,760
+[SPEAKER_00]: So politicians, politically connected businesses and vested interests often benefit from shallow relationship-based financial systems.
+
+52
+00:04:57,221 --> 00:05:02,604
+[SPEAKER_00]: And they resist the kind of reforms that would reduce their influence in the financial space.
+
+53
+00:05:02,624 --> 00:05:04,225
+[SPEAKER_00]: So let me give you one example.
+
+54
+00:05:04,906 --> 00:05:10,750
+[SPEAKER_00]: In 2017, some of you would have heard of the financial institutions crisis that Ghana faced.
+
+55
+00:05:11,774 --> 00:05:21,017
+[SPEAKER_00]: Now, with regulatory failures and insider lending, the Central Bank of Ghana ultimately was forced to do a cleanup.
+
+56
+00:05:21,777 --> 00:05:25,418
+[SPEAKER_00]: And do you want to guess what this cleanup cost us?
+
+57
+00:05:25,438 --> 00:05:27,258
+[SPEAKER_00]: 7 to 8% of our GDP.
+
+58
+00:05:28,119 --> 00:05:29,099
+[SPEAKER_00]: That's what it cost us.
+
+59
+00:05:29,279 --> 00:05:39,902
+[SPEAKER_00]: Now, knowing this, this is a good illustration of why financial sector reform is politically difficult, but it's economically essential.
+
+60
+00:05:48,770 --> 00:06:13,727
+[SPEAKER_04]: Thank you so much for those very excellent points, and also the reality check around maybe we need to look inside the continent, we need to see and answer the question why institutions do have the ability to basically invest, not investing, and also the small matter of the need to capture and go into the settlements.
+
+61
+00:06:14,407 --> 00:06:17,349
+[SPEAKER_04]: I think I'll go next to you, Mr. Kuteli.
+
+62
+00:06:18,910 --> 00:06:36,923
+[SPEAKER_04]: And could we pose a question about how should the African Development Bank use its balance sheet and other instruments to shape markets in which African institutions need transactions rather than remain absolutely public?
+
+63
+00:06:39,225 --> 00:06:39,865
+[SPEAKER_02]: Thank you.
+
+64
+00:06:39,905 --> 00:06:41,046
+[SPEAKER_02]: Good morning, everyone.
+
+65
+00:06:41,846 --> 00:06:46,710
+[SPEAKER_02]: I want to congratulate you for putting up this conference together.
+
+66
+00:06:47,678 --> 00:06:51,299
+[SPEAKER_02]: You know, people like 1,000 something, almost 2,000 people like.
+
+67
+00:06:51,519 --> 00:06:53,220
+[SPEAKER_02]: That's amazing and impressive.
+
+68
+00:06:54,160 --> 00:06:55,400
+[SPEAKER_02]: And so congratulations.
+
+69
+00:06:57,801 --> 00:07:03,043
+[SPEAKER_02]: You know, Kevin Bradley brought up the NAFAC, the New African Financial Architectural Department.
+
+70
+00:07:03,163 --> 00:07:05,563
+[SPEAKER_02]: It's about that.
+
+71
+00:07:05,724 --> 00:07:10,565
+[SPEAKER_02]: We're talking about a multiple world, but we need to talk about a fragmented world.
+
+72
+00:07:11,585 --> 00:07:13,786
+[SPEAKER_02]: The world has never been fragmented that much.
+
+73
+00:07:15,282 --> 00:07:19,805
+[SPEAKER_02]: And in Africa, we live in a certain fragmented world with fragmented institutions.
+
+74
+00:07:20,145 --> 00:07:21,687
+[SPEAKER_02]: We call that the spaghetti bowl.
+
+75
+00:07:22,747 --> 00:07:29,832
+[SPEAKER_02]: When you take all the institutions, you can see that they're overlapping, overlapping each other, doing the same thing.
+
+76
+00:07:30,593 --> 00:07:31,694
+[SPEAKER_02]: So you lose efficiencies.
+
+77
+00:07:32,674 --> 00:07:38,498
+[SPEAKER_02]: So the whole idea about the NAFAD is to make sure the architecture is what it wants.
+
+78
+00:07:39,179 --> 00:07:43,602
+[SPEAKER_02]: Meaning, to make it simple, we have defined three layers.
+
+79
+00:07:44,906 --> 00:07:49,650
+[SPEAKER_02]: continental one, AFDB, regional and local.
+
+80
+00:07:50,451 --> 00:08:03,521
+[SPEAKER_02]: So it means, what an institution can do at the local level at the best, we empower that institutions to do it the right way and leverage on its capacity.
+
+81
+00:08:04,943 --> 00:08:09,807
+[SPEAKER_02]: What can be done on the regional level, AFDB doesn't have to do this thing.
+
+82
+00:08:10,868 --> 00:08:13,670
+[SPEAKER_02]: If you provide more resources, more capacity,
+
+83
+00:08:14,314 --> 00:08:19,158
+[SPEAKER_02]: to the regional institutions to make sure it does the same at the national level.
+
+84
+00:08:19,458 --> 00:08:24,002
+[SPEAKER_02]: So, number one, it's what we call subsidiarity.
+
+85
+00:08:25,564 --> 00:08:28,206
+[SPEAKER_02]: We shouldn't compete with each other.
+
+86
+00:08:28,226 --> 00:08:30,368
+[SPEAKER_02]: We should complete each other's.
+
+87
+00:08:30,728 --> 00:08:33,310
+[SPEAKER_02]: And this is the second word, complementarity.
+
+88
+00:08:34,831 --> 00:08:35,832
+[SPEAKER_02]: Let me give an example.
+
+89
+00:08:35,872 --> 00:08:42,057
+[SPEAKER_02]: You know, we have that, because since last October, we've been having, you know, a discussion with all the pillars of the architect,
+
+90
+00:08:43,618 --> 00:08:52,781
+[SPEAKER_02]: pension fund, interest, sovereign will fund, securities, guarantee fund, central banks, et cetera, et cetera.
+
+91
+00:08:53,941 --> 00:08:58,942
+[SPEAKER_02]: And I remember that conversation with the president of the original development institution in Africa.
+
+92
+00:08:58,982 --> 00:09:01,083
+[SPEAKER_02]: I was telling him the African Development Bank president.
+
+93
+00:09:02,803 --> 00:09:11,846
+[SPEAKER_02]: When I talk to a head of state about a project that I can finance, when I exit the room and I have someone coming to pitch the same project, it doesn't make any sense.
+
+94
+00:09:12,950 --> 00:09:14,431
+[SPEAKER_02]: We should talk to each other first.
+
+95
+00:09:14,892 --> 00:09:17,214
+[SPEAKER_02]: And if I can do it, I will do it.
+
+96
+00:09:17,294 --> 00:09:20,196
+[SPEAKER_02]: And if I need your support, you come give me your support.
+
+97
+00:09:20,236 --> 00:09:26,001
+[SPEAKER_02]: So it's been you use the complementarity and the subsidiarity mechanism.
+
+98
+00:09:27,522 --> 00:09:28,643
+[SPEAKER_02]: But it doesn't happen by chance.
+
+99
+00:09:28,663 --> 00:09:35,109
+[SPEAKER_02]: That's why we need a coordinated approach and a more systematic approach in the way of the architecture of the world.
+
+100
+00:09:35,129 --> 00:09:41,454
+[SPEAKER_02]: Then we have to define a couple of frameworks with all the organizations, all the institutions say, if you do this,
+
+101
+00:09:42,118 --> 00:09:45,459
+[SPEAKER_02]: I will try to do it, but I'm not going to do it under the power.
+
+102
+00:09:46,019 --> 00:09:48,000
+[SPEAKER_02]: So that's the way the architectures work.
+
+103
+00:09:48,040 --> 00:09:54,601
+[SPEAKER_02]: So the African agency is more about realizing the potential.
+
+104
+00:09:54,901 --> 00:09:59,363
+[SPEAKER_02]: And we were talking earlier on, we don't want to hear about potential anymore.
+
+105
+00:10:00,443 --> 00:10:01,343
+[SPEAKER_02]: Let's realize it.
+
+106
+00:10:01,463 --> 00:10:03,344
+[SPEAKER_02]: We've been talking about Africa's potential.
+
+107
+00:10:03,404 --> 00:10:05,544
+[SPEAKER_02]: We have the potential, this, this, and this.
+
+108
+00:10:05,984 --> 00:10:07,465
+[SPEAKER_02]: Let's make it happen.
+
+109
+00:10:08,865 --> 00:10:11,666
+[SPEAKER_02]: And to make it happen, it needs to be deliberate.
+
+110
+00:10:13,774 --> 00:10:16,216
+[SPEAKER_02]: You were talking about the youth issues.
+
+111
+00:10:16,416 --> 00:10:23,401
+[SPEAKER_02]: I mean, this is a serious agenda.
+
+112
+00:10:23,441 --> 00:10:30,546
+[SPEAKER_02]: With 1.5 billion and up to 2.5 in 2015, this is a tricky bump.
+
+113
+00:10:30,566 --> 00:10:36,431
+[SPEAKER_02]: 15 million jobs, four more jobs need to be created every year.
+
+114
+00:10:37,371 --> 00:10:39,033
+[SPEAKER_02]: We hardly create three million jobs.
+
+115
+00:10:39,913 --> 00:10:40,834
+[SPEAKER_02]: That's a real danger.
+
+116
+00:10:42,398 --> 00:10:50,804
+[SPEAKER_02]: Now, like the graph you showed about the growth, we can be happy by saying, you know, 4.5% growth every year.
+
+117
+00:10:52,445 --> 00:10:54,106
+[SPEAKER_02]: Excuse me, it's not enough.
+
+118
+00:10:55,187 --> 00:10:55,727
+[SPEAKER_02]: It's a joke.
+
+119
+00:10:56,668 --> 00:10:57,048
+[SPEAKER_02]: Really.
+
+120
+00:10:58,229 --> 00:11:03,772
+[SPEAKER_02]: But even if you do this 4.5% growth every year, how many jobs do you create?
+
+121
+00:11:05,514 --> 00:11:11,858
+[SPEAKER_02]: The famous elasticity growth creation and economic growth, we're not enough.
+
+122
+00:11:13,218 --> 00:11:14,259
+[SPEAKER_02]: Maybe less than 0.2.
+
+123
+00:11:14,379 --> 00:11:26,186
+[SPEAKER_02]: It has to be 0.6, maybe 1, to make sure the growth we're talking about will get the wealth and the jobs down here.
+
+124
+00:11:26,726 --> 00:11:36,271
+[SPEAKER_02]: So it's also structured, which means when we talk about the African economic growth, we need to define the growth.
+
+125
+00:11:37,972 --> 00:11:40,774
+[SPEAKER_02]: So within the NAFAP, if you mobilize funds,
+
+126
+00:11:41,786 --> 00:11:49,308
+[SPEAKER_02]: and we allocate those funds into sectors that don't feel just, we need to do the NAFA.
+
+127
+00:11:50,468 --> 00:11:58,651
+[SPEAKER_02]: So I like the fact that you said, yes, NAFA is proud, but we need to fix it before this time you mentioned in your presentation.
+
+128
+00:11:59,911 --> 00:12:05,973
+[SPEAKER_02]: So in between we allocate more, we mobilize and we look at more resources to the architecture.
+
+129
+00:12:06,673 --> 00:12:11,034
+[SPEAKER_02]: We need to make sure the sectors where those resources
+
+130
+00:12:11,734 --> 00:12:19,276
+[SPEAKER_02]: to invest those resources in with no job in the continent.
+
+131
+00:12:20,937 --> 00:12:23,317
+[SPEAKER_02]: We love to talk about China.
+
+132
+00:12:23,477 --> 00:12:27,838
+[SPEAKER_02]: China is a brown example.
+
+133
+00:12:27,858 --> 00:12:29,199
+[SPEAKER_02]: You may like it or not.
+
+134
+00:12:31,519 --> 00:12:35,861
+[SPEAKER_02]: Those guys managed to take out of poverty one million people within four years.
+
+135
+00:12:37,201 --> 00:12:37,821
+[SPEAKER_02]: Amazing.
+
+136
+00:12:39,622 --> 00:12:40,202
+[SPEAKER_02]: From 1990
+
+137
+00:12:41,522 --> 00:12:46,944
+[SPEAKER_02]: Up to now, they managed to grow 40 times their revenue.
+
+138
+00:12:47,984 --> 00:12:59,467
+[SPEAKER_02]: So poverty reduction means investing the right resources in the right sector with the right infrastructure.
+
+139
+00:12:59,927 --> 00:13:03,988
+[SPEAKER_02]: Of course, 54 countries is not one single country, not China, of course.
+
+140
+00:13:04,048 --> 00:13:09,290
+[SPEAKER_02]: So we have 54 regulations, 54 pragmatic resolutions, you name them.
+
+141
+00:13:10,442 --> 00:13:26,396
+[SPEAKER_02]: But again, the beauty of the architecture is to make sure when we have identified the whole ecosystem of the architecture, we make sure those who want to be part of it, because again, maybe some institutions don't want to be part of the architecture.
+
+142
+00:13:26,416 --> 00:13:27,317
+[SPEAKER_02]: Why do you want to force them?
+
+143
+00:13:28,758 --> 00:13:33,802
+[SPEAKER_02]: You bring everybody to African Union, some of those who maybe don't want to be in their union, but they're still there.
+
+144
+00:13:34,723 --> 00:13:37,846
+[SPEAKER_02]: So within the architecture, we have to make sure to deal with the issues,
+
+145
+00:13:38,710 --> 00:13:56,037
+[SPEAKER_02]: to make sure the institutions that are willing to move forward and to be part of the whole system, and make the system work, come into it, and become deliberate when we start allocating, mobilizing, allocating resources.
+
+146
+00:13:56,697 --> 00:14:02,420
+[SPEAKER_02]: This is what the architect is doing with a couple of pillars, like the one of guarantee .
+
+147
+00:14:02,920 --> 00:14:05,441
+[SPEAKER_02]: Guarantee domestic resource .
+
+148
+00:14:05,661 --> 00:14:06,141
+[SPEAKER_02]: Thank you.
+
+149
+00:14:06,261 --> 00:14:07,802
+[SPEAKER_02]: Thank you so much.
+
+150
+00:14:11,298 --> 00:14:12,598
+[SPEAKER_04]: Thank you so much for those thoughts.
+
+151
+00:14:12,658 --> 00:14:20,901
+[SPEAKER_04]: I think we'll come back to the question about how AFDP could use its instruments probably in the next round.
+
+152
+00:14:22,301 --> 00:14:24,162
+[SPEAKER_04]: Dr. Krima, are you online?
+
+153
+00:14:24,202 --> 00:14:24,962
+[SPEAKER_04]: Can you hear us?
+
+154
+00:14:26,603 --> 00:14:27,643
+[SPEAKER_01]: Yes, I can hear you.
+
+155
+00:14:28,183 --> 00:14:28,703
+[SPEAKER_04]: Okay.
+
+156
+00:14:28,843 --> 00:14:37,666
+[SPEAKER_04]: Dr. Krima, South Africa has a relatively developed financial sector, yet the pace of structural transformation remains low.
+
+157
+00:14:38,558 --> 00:14:54,413
+[SPEAKER_04]: What is preventing South Korea from optimizing its use of its deep financial system to fuel faster structural transformation and what lessons do you think other African countries could learn from this?
+
+158
+00:14:56,575 --> 00:15:03,722
+[SPEAKER_01]: Thank you very much for the opportunity and for allowing me to join online due to personal circumstances.
+
+159
+00:15:04,818 --> 00:15:09,159
+[SPEAKER_01]: this esteemed panel, and congratulations to the organizers of this event.
+
+160
+00:15:09,960 --> 00:15:20,423
+[SPEAKER_01]: I think it's such an important time for African thinkers and African economists to come together to look at our strategies in this changing world.
+
+161
+00:15:20,763 --> 00:15:30,686
+[SPEAKER_01]: There's so many negative things, whether they are the energy transition, the AI digital transition, the geopolitical changes that we're seeing.
+
+162
+00:15:31,262 --> 00:15:42,888
+[SPEAKER_01]: I think it is a very valuable time to come together and to work out what opportunities this gives to Africa as Africans in terms of our development strategy.
+
+163
+00:15:43,569 --> 00:15:58,917
+[SPEAKER_01]: To get to your question specifically, South Africa has got a strong financial sector, a strong banking system, a retirement system, well regulated, well integrated into the rest of the world.
+
+164
+00:16:00,606 --> 00:16:12,191
+[SPEAKER_01]: But I'd like to reflect on the debate that we've had for many years in South Africa regarding how we mobilize those finances to address the country's economic development agenda.
+
+165
+00:16:12,211 --> 00:16:27,038
+[SPEAKER_01]: For a number of years, we were debating that we potentially should have a legislation that prescribed that how much or what percentage of annual investments from the
+
+166
+00:16:27,650 --> 00:16:39,093
+[SPEAKER_01]: The retirement industry should be mobilized into the infrastructure of the country, whether it be the roads or the ports, the rail, whatever infrastructure requirements there might be.
+
+167
+00:16:39,813 --> 00:16:45,595
+[SPEAKER_01]: And during that debate, we realized that it wasn't so much that we had to prescribe.
+
+168
+00:16:47,035 --> 00:16:49,616
+[SPEAKER_01]: The problem wasn't with the finance.
+
+169
+00:16:50,356 --> 00:16:51,957
+[SPEAKER_01]: The problem was with the projects.
+
+170
+00:16:52,137 --> 00:16:54,177
+[SPEAKER_01]: What projects are we going to be financing?
+
+171
+00:16:54,337 --> 00:16:55,978
+[SPEAKER_01]: And are they correctly designed?
+
+172
+00:16:58,995 --> 00:17:07,180
+[SPEAKER_01]: Is the structural situation, the structural reality of the country ready to absorb that finance into meaningful projects?
+
+173
+00:17:07,260 --> 00:17:13,803
+[SPEAKER_01]: And I was thinking when I heard Professor Orama speaking about his nightmare, it made me think of this.
+
+174
+00:17:14,304 --> 00:17:23,749
+[SPEAKER_01]: He said his nightmare is that what keeps him awake at night is that Africa is very rich with its resources of people and minerals.
+
+175
+00:17:24,689 --> 00:17:24,829
+[SPEAKER_01]: And
+
+176
+00:17:26,758 --> 00:17:29,119
+[SPEAKER_01]: and the blue economy and other things that he listed.
+
+177
+00:17:29,720 --> 00:17:33,902
+[SPEAKER_01]: So we have this natural richness, but we have a financial gap.
+
+178
+00:17:34,002 --> 00:17:49,051
+[SPEAKER_01]: And I think that maybe what's missing is a secret ingredient, a third ingredient there, which is an ecosystem to ensure that the finances can find profitable investment in the structure.
+
+179
+00:17:49,532 --> 00:17:53,234
+[SPEAKER_01]: In South Africa, we have a situation where I don't think finances are constrained.
+
+180
+00:17:54,066 --> 00:18:04,652
+[SPEAKER_01]: We've had investment fall from around 25% of GDP to around 15% of GDP in a short decade period, maybe a decade and a half.
+
+181
+00:18:05,352 --> 00:18:21,961
+[SPEAKER_01]: And the constraint there is really its political economy, its weak state capacity, ability to plan projects, particularly the performance of our electricity system, the performance of our ports,
+
+182
+00:18:23,138 --> 00:18:31,840
+[SPEAKER_01]: performance of our rail systems have made investment much more costly, made business less competitive, and damaged the dynamism of the economy.
+
+183
+00:18:32,621 --> 00:18:37,122
+[SPEAKER_01]: And that missing ingredient is what are the policy frameworks?
+
+184
+00:18:37,162 --> 00:18:51,826
+[SPEAKER_01]: What structural transformation do we have to undertake in order to ensure that that movement from the finance into the real economy is able to correct for those weaknesses that are holding back investment and job creation?
+
+185
+00:18:52,350 --> 00:18:54,672
+[SPEAKER_01]: And I think that's the ingredient that we've learned.
+
+186
+00:18:54,692 --> 00:19:12,026
+[SPEAKER_01]: So in the South African presidency, for example, there's a program which is run by the presidency and the national treasury that can be a joint program, which the Zulu word is Operation ,, which means an operation to open up.
+
+187
+00:19:12,546 --> 00:19:21,954
+[SPEAKER_01]: But it's really a program that tries to address that secret ingredient, which is how do we ensure that that finance that might exist in our economy and which is
+
+188
+00:19:22,374 --> 00:19:27,436
+[SPEAKER_01]: Also, we've got global finance being dedicated, for example, the just energy transition partnership and things.
+
+189
+00:19:28,037 --> 00:19:33,779
+[SPEAKER_01]: How does it find its way into an ecosystem of successful infrastructure investments?
+
+190
+00:19:34,379 --> 00:19:43,243
+[SPEAKER_01]: So, for example, in the electricity sector, we're trying to unbundle our electricity monopoly.
+
+191
+00:19:43,323 --> 00:19:49,586
+[SPEAKER_01]: You don't have a situation where you have a monopoly company, but it doesn't have the balance sheet to fulfill its functions.
+
+192
+00:19:50,050 --> 00:19:55,572
+[SPEAKER_01]: So therefore, you need structural reforms to ensure that finance can come into a more competitive market.
+
+193
+00:19:56,112 --> 00:20:02,555
+[SPEAKER_01]: So those are my initial reflections, and thank you again for this opportunity.
+
+194
+00:20:02,615 --> 00:20:03,636
+[SPEAKER_04]: Thank you so much.
+
+195
+00:20:07,297 --> 00:20:19,242
+[SPEAKER_04]: Thank you so much for highlighting this missing ingredient, the ecosystem that connects the financing with the opportunities, the bankable projects.
+
+196
+00:20:19,810 --> 00:20:22,011
+[SPEAKER_04]: or what you call the profitable opportunities.
+
+197
+00:20:22,391 --> 00:20:30,673
+[SPEAKER_04]: I think it really does resonate with what you were saying, Maze, about feeling where you have the space.
+
+198
+00:20:30,933 --> 00:20:34,074
+[SPEAKER_04]: We don't see the money moving where it should.
+
+199
+00:20:34,114 --> 00:20:40,056
+[SPEAKER_04]: So I think we have to check our finger on something to discuss.
+
+200
+00:20:40,536 --> 00:20:44,157
+[SPEAKER_04]: But let's go to Dr. Tokpe Fashola.
+
+201
+00:20:44,897 --> 00:20:48,038
+[SPEAKER_04]: And Nigeria is one of the giants of the continent.
+
+202
+00:20:49,578 --> 00:20:59,507
+[SPEAKER_04]: So which domestic reform do you think is really, really important for Nigeria to overcome its revenue, inflation, and investment constraints?
+
+203
+00:21:00,107 --> 00:21:06,973
+[SPEAKER_04]: And how could Nigeria convert its economic scale to credible continental financial leadership?
+
+204
+00:21:07,714 --> 00:21:14,479
+[SPEAKER_04]: And maybe you might want to weave in this ecosystem point in the Nigerian context as well.
+
+205
+00:21:15,140 --> 00:21:16,301
+[SPEAKER_04]: Thank you very much.
+
+206
+00:21:16,321 --> 00:21:17,522
+[SPEAKER_03]: Thank you very much.
+
+207
+00:21:18,238 --> 00:21:24,761
+[SPEAKER_03]: Well, I'd like to congratulate Professor Rama on the very successful conference room right now.
+
+208
+00:21:24,801 --> 00:21:28,922
+[SPEAKER_03]: So many learning points already for some of us here.
+
+209
+00:21:29,963 --> 00:21:36,125
+[SPEAKER_03]: I quickly want to piggyback on some of what the previous speakers have discussed.
+
+210
+00:21:37,006 --> 00:21:47,410
+[SPEAKER_03]: I want to say that, first of all, in a fragmented world, I'll call it a multipolar system as it is, a better Africa
+
+211
+00:21:49,835 --> 00:21:57,538
+[SPEAKER_03]: a much more sustainable economy in Africa, a less poor Africa, is an asset to the world.
+
+212
+00:21:58,238 --> 00:22:05,521
+[SPEAKER_03]: And indeed, Africa is probably where you're going to get the most bang for the buck for your investment right now.
+
+213
+00:22:05,621 --> 00:22:11,104
+[SPEAKER_03]: You know, the last bastion of the world that is to really develop Canada.
+
+214
+00:22:11,404 --> 00:22:14,065
+[SPEAKER_03]: We've seen some of that in the growth rates that were posted.
+
+215
+00:22:14,465 --> 00:22:16,206
+[SPEAKER_03]: The point is that we should even go fast.
+
+216
+00:22:17,066 --> 00:22:21,429
+[SPEAKER_03]: China grew for 15 years and doubled it, or perhaps even more.
+
+217
+00:22:22,189 --> 00:22:32,196
+[SPEAKER_03]: And I look at many African economies and I say, wow, even if we were working from the base effect perspective, really, if we were moving from negatives to positives, it's almost 100%.
+
+218
+00:22:32,256 --> 00:22:35,778
+[SPEAKER_03]: And so I want us to challenge ourselves more.
+
+219
+00:22:36,959 --> 00:22:39,541
+[SPEAKER_03]: However, there's also some clear present danger.
+
+220
+00:22:39,601 --> 00:22:41,122
+[SPEAKER_03]: In the last WTO meeting,
+
+221
+00:22:41,958 --> 00:22:45,659
+[SPEAKER_03]: the Prime Minister of Canada, the President of Canada, Macaulay.
+
+222
+00:22:45,919 --> 00:22:50,721
+[SPEAKER_03]: Actually, they pulled out a very interesting concept called the middle powers.
+
+223
+00:22:51,321 --> 00:23:04,425
+[SPEAKER_03]: And what that meant to me really was, hey, whereas we were able to get rid of the shackles of the major powers of the world, we still have another set of middle powers to deal with in Africa.
+
+224
+00:23:04,445 --> 00:23:09,286
+[SPEAKER_03]: So are we really ready to unshackle ourselves or to subject ourselves to a separate level
+
+225
+00:23:09,970 --> 00:23:15,893
+[SPEAKER_03]: of protocol before we attain development in Africa.
+
+226
+00:23:16,153 --> 00:23:21,855
+[SPEAKER_03]: So anyhow, then of course I'd like to connect about the jobs.
+
+227
+00:23:21,895 --> 00:23:25,537
+[SPEAKER_03]: Some of the speakers spoke about the use of jobs.
+
+228
+00:23:25,557 --> 00:23:27,097
+[SPEAKER_03]: I think it's my friend, Mr. Didier.
+
+229
+00:23:27,117 --> 00:23:32,780
+[SPEAKER_03]: Now I think we have to consider of course the new reality of the world right now.
+
+230
+00:23:33,200 --> 00:23:36,821
+[SPEAKER_03]: In the last couple of months, over 200,000 staff have been laid off
+
+231
+00:23:38,590 --> 00:23:41,793
+[SPEAKER_03]: the major tech companies of the world.
+
+232
+00:23:42,033 --> 00:23:46,276
+[SPEAKER_03]: And what they cited was one single phrase, AI efficiency.
+
+233
+00:23:46,817 --> 00:23:57,826
+[SPEAKER_03]: Now, when it comes to Africa, we are also going to suffer from that as every major company begins to look at efficiency of labor and all of that.
+
+234
+00:23:58,106 --> 00:24:04,631
+[SPEAKER_03]: As a matter of fact, I went back to Scott and what he had to say about the competition between labor and capital.
+
+235
+00:24:05,172 --> 00:24:07,574
+[SPEAKER_03]: And I think some of what's going on now has been convicted.
+
+236
+00:24:08,274 --> 00:24:14,076
+[SPEAKER_03]: even though in many of the meetings that we attended, the story of Max was actually whitewashed and taken out.
+
+237
+00:24:14,096 --> 00:24:17,637
+[SPEAKER_03]: But I think we all have to go and re-educate ourselves.
+
+238
+00:24:17,657 --> 00:24:22,938
+[SPEAKER_03]: Because again, for Africa, we have an opportunity, even despite the onslaught of AI.
+
+239
+00:24:24,078 --> 00:24:30,100
+[SPEAKER_03]: And that opportunity is that, especially where I come from, in Nigeria, I say, you know what?
+
+240
+00:24:30,240 --> 00:24:34,201
+[SPEAKER_03]: Before we start talking about tech jobs, we've got jobs that we need to create.
+
+241
+00:24:34,561 --> 00:24:37,582
+[SPEAKER_03]: Professor Rama has presented a fantastic paper
+
+242
+00:24:38,278 --> 00:24:44,760
+[SPEAKER_03]: around the public's finance efficiency in Africa, 41%, it's a shame.
+
+243
+00:24:45,380 --> 00:24:51,842
+[SPEAKER_03]: However, of course, technology has come to the rescue, and I'm gonna talk about what we are doing in Nigeria right now.
+
+244
+00:24:51,902 --> 00:24:55,683
+[SPEAKER_03]: Technology has come to the rescue, bringing transparency and all of that.
+
+245
+00:24:56,023 --> 00:24:59,624
+[SPEAKER_03]: But hey, we need to, we have opportunities for job creation.
+
+246
+00:24:59,984 --> 00:25:07,146
+[SPEAKER_03]: Otherwise, the scenario that Mr. Diye Akwete has presented, of course, will come to reality very soon.
+
+247
+00:25:08,074 --> 00:25:14,598
+[SPEAKER_03]: In Nigeria, I say, you know what, we can create two million jobs just for people working in the environmental sector.
+
+248
+00:25:14,638 --> 00:25:25,344
+[SPEAKER_03]: We don't have to, you know, just watch burning erosions everywhere, indiscriminate dumping of waste, no provision for waste management in the whole country.
+
+249
+00:25:25,364 --> 00:25:28,166
+[SPEAKER_03]: Before we even start to talk about the climate effect.
+
+250
+00:25:29,366 --> 00:25:32,308
+[SPEAKER_03]: And you know what, AI is not going to do that work for you.
+
+251
+00:25:32,508 --> 00:25:33,289
+[SPEAKER_03]: These are real jobs.
+
+252
+00:25:33,689 --> 00:25:35,810
+[SPEAKER_03]: Environmental sector, security sector,
+
+253
+00:25:36,214 --> 00:25:40,796
+[SPEAKER_03]: security problems because there are too many unmanned spaces.
+
+254
+00:25:41,516 --> 00:25:45,878
+[SPEAKER_03]: And of course, you can't blame us sometimes when we talk about the security issue.
+
+255
+00:25:45,898 --> 00:25:51,640
+[SPEAKER_03]: Nigeria is surrounded by other countries, all of them fratricidal countries.
+
+256
+00:25:51,920 --> 00:26:04,446
+[SPEAKER_03]: But in all of those places, in all of the borders, our brothers, on this side is Nigeria, on that side is Republic of Liberia, or DJ, or Chad, or Cameroon,
+
+257
+00:26:05,858 --> 00:26:07,439
+[SPEAKER_03]: And they speak the same language.
+
+258
+00:26:07,519 --> 00:26:08,680
+[SPEAKER_03]: They worship the same way.
+
+259
+00:26:09,241 --> 00:26:14,345
+[SPEAKER_03]: They can't even understand what you're talking about, saying I belong to Nigeria and you belong to another country.
+
+260
+00:26:14,965 --> 00:26:19,309
+[SPEAKER_03]: And therefore, you know, you can't stop people walking in and walking out.
+
+261
+00:26:19,329 --> 00:26:22,832
+[SPEAKER_03]: In some areas, it's only a mere gutter that separates two countries.
+
+262
+00:26:23,172 --> 00:26:24,833
+[SPEAKER_03]: It's the reality we have to live in.
+
+263
+00:26:25,354 --> 00:26:35,522
+[SPEAKER_03]: Therefore, however, you know, the states, someone spoke about the, you know, that John Locke concept of social contract.
+
+264
+00:26:35,862 --> 00:26:44,706
+[SPEAKER_03]: The only idea is that we all bested our right to defend ourselves in the state to protect all of us.
+
+265
+00:26:44,846 --> 00:26:55,350
+[SPEAKER_03]: So hey, we can provide new jobs in security sector, in environmental sector, in social services sector, and I assume in social services sector as well.
+
+266
+00:26:55,751 --> 00:27:03,574
+[SPEAKER_03]: Many of the people who need Nigeria to go to Europe today, a lot of our young people, majority of them go into the social services sector in Europe.
+
+267
+00:27:03,958 --> 00:27:09,401
+[SPEAKER_03]: taking care of old people, vulnerable people, people with mental challenges, and so on.
+
+268
+00:27:09,881 --> 00:27:13,583
+[SPEAKER_03]: However, we also have these same kind of problems in Africa.
+
+269
+00:27:14,124 --> 00:27:15,745
+[SPEAKER_03]: And that's why this was created.
+
+270
+00:27:15,825 --> 00:27:29,972
+[SPEAKER_03]: I said this because, of course, in the educational sector, we have schools in Nigeria, public schools, primary schools, and secondary schools, where there are only two teachers in the whole school.
+
+271
+00:27:30,012 --> 00:27:32,794
+[SPEAKER_03]: So these are opportunities in that sector as well.
+
+272
+00:27:33,054 --> 00:27:40,337
+[SPEAKER_03]: that we can actually piggyback on and not despair, and not even begin to look at, oh, AI is coming for everybody.
+
+273
+00:27:40,477 --> 00:27:45,679
+[SPEAKER_03]: The jobs that AI will not be able to take out are those, for those jobs we do with our hands.
+
+274
+00:27:46,299 --> 00:27:50,061
+[SPEAKER_03]: AI will not do our plumbing, will do our electricity, et cetera.
+
+275
+00:27:50,121 --> 00:27:55,623
+[SPEAKER_03]: Dangote, the chief economist of Dangote was mentioned in last year, Dr. Hassan Magoo.
+
+276
+00:27:55,643 --> 00:28:01,786
+[SPEAKER_03]: Dangote imported 11,000 welders from India to complete this project, 11,000.
+
+277
+00:28:03,146 --> 00:28:20,458
+[SPEAKER_03]: The reason why I couldn't use Nigerian welders was because most people went into plumbing, I mean welding, into that profession just because they fell out of school and they found it difficult, because the technology needed for precision welding needed to understand some algebra and geometry.
+
+278
+00:28:21,198 --> 00:28:23,140
+[SPEAKER_03]: And so you still look at that kind of problem.
+
+279
+00:28:23,520 --> 00:28:32,226
+[SPEAKER_03]: So anyhow, having said that, very quickly, and also about Nigeria specifically, how we were able, luckily, I joined government about three years ago,
+
+280
+00:28:36,320 --> 00:28:41,823
+[SPEAKER_03]: It was almost clear going in the kind of reforms it brought into place.
+
+281
+00:28:41,863 --> 00:28:48,127
+[SPEAKER_03]: In fact, President Obama presented the need for sequencing of reforms.
+
+282
+00:28:48,487 --> 00:29:00,133
+[SPEAKER_03]: However, we had had a problem with subsidies for fear for too long, and many governments in the past have tried to remove that subsidy because it was costing $10 billion
+
+283
+00:29:01,434 --> 00:29:29,770
+[SPEAKER_03]: every year in the beginning and so on the day the president was really inaugurated he actually started into his speech he said you know what something is gone and that was a shock to the system it was a shocking system third crisis went up of course alongside inflation went up and in fact not so long after that we also had a reform to the foreign exchange management uh you know so i i'm caught between two opinions uh should we have done that kind of uh
+
+284
+00:29:30,198 --> 00:29:36,961
+[SPEAKER_03]: you know, in my, you know, sudden idea, or should we have randomized that?
+
+285
+00:29:37,261 --> 00:29:46,605
+[SPEAKER_03]: I think in that particular instance, he did the right thing, because President Jonathan tried it in 2012, people rioted, it backfired.
+
+286
+00:29:46,625 --> 00:29:50,106
+[SPEAKER_03]: Mugabe tried it in 2016, people complained, it backfired.
+
+287
+00:29:50,146 --> 00:29:55,769
+[SPEAKER_03]: Now we're living in that reality, and our oil prices are very much set at two international prices.
+
+288
+00:29:56,129 --> 00:29:58,410
+[SPEAKER_03]: When the US and Iran went into war,
+
+289
+00:29:59,562 --> 00:30:08,068
+[SPEAKER_03]: but now it's going towards less than 1,000 because the war was almost over again ahead of the U.S.
+
+290
+00:30:08,249 --> 00:30:12,331
+[SPEAKER_03]: So I think it's already fitting.
+
+291
+00:30:12,372 --> 00:30:19,817
+[SPEAKER_03]: So essentially, so you're asking me about what exactly are those domestic reforms around revenue.
+
+292
+00:30:20,237 --> 00:30:25,601
+[SPEAKER_03]: We are putting the tax reform, and that tax reform is largely pro-war.
+
+293
+00:30:25,761 --> 00:30:26,842
+[SPEAKER_03]: We raise the threshold
+
+294
+00:30:27,318 --> 00:30:33,301
+[SPEAKER_03]: for minimum taxation in these which you can't tax people over 100%.
+
+295
+00:30:33,361 --> 00:30:37,563
+[SPEAKER_03]: Of course, the currency is falling beyond the standard.
+
+296
+00:30:38,064 --> 00:30:56,173
+[SPEAKER_03]: In fact, one of the global consultants actually wrote out a report recently that said that the Nigerian era was now undervalued by a factor of about 20% or 30%, meaning that we could actually revalue over time or actually allow the market forces to do that.
+
+297
+00:30:57,366 --> 00:30:59,747
+[SPEAKER_03]: So we've done that on the revenue side.
+
+298
+00:31:00,067 --> 00:31:01,308
+[SPEAKER_03]: We've put in a reform.
+
+299
+00:31:01,748 --> 00:31:09,951
+[SPEAKER_03]: And recently, after year 2026, we saw year on year an increase of 49% in tax collection.
+
+300
+00:31:09,971 --> 00:31:17,234
+[SPEAKER_03]: We have been able to increase our tax-to-GDP ratio from 7% about four years ago to 13% now.
+
+301
+00:31:17,654 --> 00:31:18,635
+[SPEAKER_03]: It's very critical.
+
+302
+00:31:18,795 --> 00:31:20,776
+[SPEAKER_03]: And I think I'll just close on this.
+
+303
+00:31:21,556 --> 00:31:26,338
+[SPEAKER_03]: The informal sector is actually informality.
+
+304
+00:31:26,946 --> 00:31:29,667
+[SPEAKER_03]: It was presented here, it was a rammer presented.
+
+305
+00:31:29,707 --> 00:31:34,108
+[SPEAKER_03]: Nigeria has 60, more than 60% informality problem in that country.
+
+306
+00:31:34,508 --> 00:31:41,590
+[SPEAKER_03]: And you can't blame us, I can't go into the long story of how this happened, but this is what it is.
+
+307
+00:31:41,650 --> 00:31:48,692
+[SPEAKER_03]: Over 200 million in population, sort of an easy country for you to walk into and make your home.
+
+308
+00:31:49,272 --> 00:31:50,512
+[SPEAKER_03]: How do you, where do you start?
+
+309
+00:31:51,033 --> 00:31:55,874
+[SPEAKER_03]: But so we have this informality problem, and the real challenge is actually to extract
+
+310
+00:31:56,278 --> 00:31:59,561
+[SPEAKER_03]: The revenue, tax and non-tax, from that informal sector.
+
+311
+00:32:00,161 --> 00:32:02,363
+[SPEAKER_03]: You know, Nigerians, we know the way we spend.
+
+312
+00:32:02,684 --> 00:32:05,326
+[SPEAKER_03]: When you come to Nigeria, you see the way people spend.
+
+313
+00:32:05,346 --> 00:32:08,709
+[SPEAKER_03]: They define their own rules.
+
+314
+00:32:08,989 --> 00:32:10,370
+[SPEAKER_03]: They define their own rules.
+
+315
+00:32:10,450 --> 00:32:13,313
+[SPEAKER_03]: I don't have a credit for the economy whatsoever.
+
+316
+00:32:13,593 --> 00:32:18,017
+[SPEAKER_03]: So, just lastly, I'd like to say, finally, on the issue of investment.
+
+317
+00:32:18,377 --> 00:32:23,642
+[SPEAKER_03]: I just want to say that I made a comment somewhere yesterday, and one of my questions was asked,
+
+318
+00:32:25,015 --> 00:32:32,521
+[SPEAKER_03]: on the estimation of domestic investment in Africa, and of course, especially in Nigeria.
+
+319
+00:32:32,981 --> 00:32:39,546
+[SPEAKER_03]: The gentleman from South Africa, Dr. Klima, mentioned how investment fell as a function of GDP.
+
+320
+00:32:40,547 --> 00:32:43,550
+[SPEAKER_03]: In South Africa, from 35% to 50%.
+
+321
+00:32:43,570 --> 00:32:48,974
+[SPEAKER_03]: In Nigeria, the investment function, we only consider the foreign investment.
+
+322
+00:32:49,886 --> 00:32:56,311
+[SPEAKER_03]: However, what's really driving that economy is the domestic investment, just as it does in Kodogua.
+
+323
+00:32:56,351 --> 00:33:03,197
+[SPEAKER_03]: You go to Abidjan, all those , go to Rwanda, go to all these places, the same thing.
+
+324
+00:33:03,497 --> 00:33:16,988
+[SPEAKER_03]: So I think that's really a reform that we have to take away from here to see how we can properly consider domestic investment as a good chunk of the GDP, and I think we can go ahead from there.
+
+325
+00:33:17,008 --> 00:33:17,549
+[SPEAKER_03]: Thank you.
+
+326
+00:33:17,589 --> 00:33:18,069
+[SPEAKER_03]: Thank you so much.
+
+327
+00:33:22,862 --> 00:33:24,183
+[SPEAKER_04]: Thank you so much.
+
+328
+00:33:24,223 --> 00:33:31,348
+[SPEAKER_04]: This has been, I think, a very stimulating dialogue, one that's going to continue beyond this session.
+
+329
+00:33:31,749 --> 00:33:38,854
+[SPEAKER_04]: I hope that we'll have a lot of conversations online, over lunch, and it will continue even after the AMC.
+
+330
+00:33:39,354 --> 00:33:48,300
+[SPEAKER_04]: I'm not going to summarize everything, but let me just draw out five quick takeaways from each of our speakers.
+
+331
+00:33:49,581 --> 00:33:50,502
+[SPEAKER_04]: Professor Orama.
+
+332
+00:33:50,818 --> 00:33:51,739
+[SPEAKER_04]: said many things.
+
+333
+00:33:52,219 --> 00:33:56,442
+[SPEAKER_04]: One that stuck, sitting on goal but begging for resources.
+
+334
+00:33:57,002 --> 00:34:02,706
+[SPEAKER_04]: And Dr. Osu Dianfi, elite capture and political settlement are a problem.
+
+335
+00:34:03,267 --> 00:34:08,530
+[SPEAKER_04]: Dr. Akute, jobless growth is not developing friendly growth.
+
+336
+00:34:08,550 --> 00:34:13,654
+[SPEAKER_04]: Dr. Crema, a viable ecosystem may be missing ingredients.
+
+337
+00:34:14,074 --> 00:34:19,098
+[SPEAKER_04]: Dr. Tokpe, we have to seize the opportunities and move forward with reports.
+
+338
+00:34:20,474 --> 00:34:24,617
+[SPEAKER_04]: These and many other great insights could be gained from this session.
+
+339
+00:34:25,097 --> 00:34:35,785
+[SPEAKER_04]: And at this point, I'm going to invite you and our online audience to thank Professor Orama for his keynote and our most able panel.
+
+340
+00:34:40,008 --> 00:34:47,954
+[SPEAKER_04]: And maybe someone could tell us, give us directions in terms of lunch and the next sessions.
+

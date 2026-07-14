@@ -1,0 +1,320 @@
+1
+00:00:26,114 --> 00:00:54,086
+[SPEAKER_00]: Mr. Suleiman Diarra Souba, Minister of Planning and Development of Cote d'Ivoire, Your Excellency Dr. Sidi Wouta, President of African Development Bank Group, my dear sister Akuna, Assistant Secretary General, Director Regional Bureau for Africa of UNDP, and the incoming UN Special Advisor on Africa,
+
+2
+00:00:56,895 --> 00:01:12,347
+[SPEAKER_00]: Maria González, Director for Development Cooperation and OECD, distinguished colleagues, chief economists, ladies and gentlemen, good morning.
+
+3
+00:01:13,148 --> 00:01:25,838
+[SPEAKER_00]: Allow me first to start by conveying warm regards from Mr. Claudio Gattetti, the Executive Secretary of the UN Economic Commission for Africa, who regrets
+
+4
+00:01:26,354 --> 00:01:28,955
+[SPEAKER_00]: not being able to join you today.
+
+5
+00:01:29,756 --> 00:01:40,422
+[SPEAKER_00]: I have the pleasure of representing UN Economic Commission for Africa today in a conference that is close to my heart.
+
+6
+00:01:41,442 --> 00:01:55,690
+[SPEAKER_00]: I think it's one of the few platforms that bring young, brilliant African researchers and brings in discussions not only researchers but also practitioners
+
+7
+00:01:56,442 --> 00:02:12,833
+[SPEAKER_00]: experts, policy makers in vivid discussions that really want to put the best of brains to examine challenges facing Africa.
+
+8
+00:02:13,133 --> 00:02:19,818
+[SPEAKER_00]: And this year has a compelling theme of strengthening Africa
+
+9
+00:02:20,742 --> 00:02:26,345
+[SPEAKER_00]: geopolitical agency and trade resilience in a multi-border world.
+
+10
+00:02:29,886 --> 00:02:41,891
+[SPEAKER_00]: It could hardly be more relevant as Africa seeks to expand its influence and reinforce its economic resilience in an increasingly multi-border world.
+
+11
+00:02:43,112 --> 00:02:47,474
+[SPEAKER_00]: Indeed, as we speak, the world is entering a period of profound
+
+12
+00:02:48,274 --> 00:03:10,380
+[SPEAKER_00]: economic and geopolitical transformation, slower economic growth, heightened geopolitical tensions, increasing uncertainty, shifting trade alliances, technological disruption, climate change, and tightening fiscal conditions.
+
+13
+00:03:11,300 --> 00:03:17,002
+[SPEAKER_00]: All these factors are fundamentally reshaping international economic relations.
+
+14
+00:03:20,798 --> 00:03:45,392
+[SPEAKER_00]: More recently, the conflict also in the Middle East has demonstrated how rapid external shocks can actually reverberate across African economies through higher energy prices, rising transport costs, disrupted supply chains, and increased financing pressures.
+
+15
+00:03:46,233 --> 00:03:48,014
+[SPEAKER_00]: For Africa, these developments
+
+16
+00:03:48,854 --> 00:03:56,916
+[SPEAKER_00]: present undeniable risks and pressures, but they also present an extraordinary opportunity.
+
+17
+00:03:58,477 --> 00:04:15,182
+[SPEAKER_00]: Periods of global transition have often created new economic leaders, and they have also reshaped global redistribution of economic influence, opening opportunities for those that are prepared to seize them.
+
+18
+00:04:16,462 --> 00:04:28,569
+[SPEAKER_00]: Our interest therefore must not be merely how Africa responds to change, but how it positions itself to influence the direction of that change.
+
+19
+00:04:31,371 --> 00:04:36,154
+[SPEAKER_00]: Fortunately, Africa enters this new era with considerable strength.
+
+20
+00:04:37,115 --> 00:04:40,957
+[SPEAKER_00]: The continent's economy is projected to grow by over 4% in 2026.
+
+21
+00:04:43,434 --> 00:04:47,056
+[SPEAKER_00]: making Africa one of the world's fastest-growing regions.
+
+22
+00:04:48,396 --> 00:05:05,203
+[SPEAKER_00]: It's a welcome development that 22 African economies are projected to expand by more than 5 percent this year, underscoring the continent's resilience despite an increasingly uncertain global environment.
+
+23
+00:05:06,364 --> 00:05:11,266
+[SPEAKER_00]: Moreover, the African Continental Free Trade Area has created
+
+24
+00:05:11,682 --> 00:05:21,026
+[SPEAKER_00]: huge market of 1.5 billion people with a combined GDP exceeding 3.4 trillion US dollars.
+
+25
+00:05:21,946 --> 00:05:28,389
+[SPEAKER_00]: This offers an unprecedented platform for regional production, industrialization, and investment.
+
+26
+00:05:29,750 --> 00:05:40,354
+[SPEAKER_00]: Africa also, as we heard earlier, possesses over 50% of global critical minerals, resources that are indispensable
+
+27
+00:05:40,854 --> 00:05:45,316
+[SPEAKER_00]: for the global energy transition.
+
+28
+00:05:45,336 --> 00:05:52,059
+[SPEAKER_00]: By 2035, the continent is expected to have the world's largest labor force.
+
+29
+00:05:53,199 --> 00:06:03,223
+[SPEAKER_00]: And beyond all these statistics, there are strategic advantages capable of redefining Africa's place in the global economy.
+
+30
+00:06:03,544 --> 00:06:09,206
+[SPEAKER_00]: However, assets alone will not create prosperity we seek.
+
+31
+00:06:10,342 --> 00:06:14,104
+[SPEAKER_00]: Natural resources without value addition remain commodities.
+
+32
+00:06:15,465 --> 00:06:21,089
+[SPEAKER_00]: A growing labor force without productive employment becomes unrealized potential.
+
+33
+00:06:22,109 --> 00:06:29,233
+[SPEAKER_00]: And expanding markets without competitive industries cannot sustain structural transformation.
+
+34
+00:06:30,834 --> 00:06:36,658
+[SPEAKER_00]: Ultimately, genuine geopolitical influence must rest on productive economies.
+
+35
+00:06:37,650 --> 00:06:41,932
+[SPEAKER_00]: on capable institutions and on coordinated regional action.
+
+36
+00:06:43,833 --> 00:06:51,337
+[SPEAKER_00]: Encouragingly, the transformation we envisage is already unfolding in many parts of Africa.
+
+37
+00:06:52,297 --> 00:07:02,442
+[SPEAKER_00]: Across the continent, countries are demonstrating that deliberate policy choices can expand economic resilience and enhance competitiveness.
+
+38
+00:07:03,198 --> 00:07:11,484
+[SPEAKER_00]: For example, Morocco has positioned itself as a competitive manufacturing hub for automobile and aerospace value chains.
+
+39
+00:07:12,445 --> 00:07:20,250
+[SPEAKER_00]: Cote d'Ivoire continues to advance industrial processing while enhancing its regional logistics infrastructure.
+
+40
+00:07:21,091 --> 00:07:31,338
+[SPEAKER_00]: Egypt has significantly increased investments in renewable energy, while Kenya's digital vibrant innovation ecosystem continues to attract
+
+41
+00:07:31,678 --> 00:07:33,459
+[SPEAKER_00]: investment and entrepreneurship.
+
+42
+00:07:34,780 --> 00:07:47,109
+[SPEAKER_00]: These experiences illustrate that resilience is built through consistent investment, strong institutions, and long-term policy coherence.
+
+43
+00:07:48,870 --> 00:07:54,014
+[SPEAKER_00]: Equally important is Africa's growing commitment to regional integration.
+
+44
+00:07:54,995 --> 00:07:59,438
+[SPEAKER_00]: It provides framework to develop regional value chains
+
+45
+00:08:00,074 --> 00:08:15,198
+[SPEAKER_00]: reduce dependence on external markets, and make supply chains more resilient and amplify Africa's collective bargaining power within an increasingly fragmented global economy.
+
+46
+00:08:17,639 --> 00:08:27,582
+[SPEAKER_00]: If Africa to move from navigating global uncertainty to shaping global outcomes, five priorities must guide our collective action.
+
+47
+00:08:29,458 --> 00:08:34,961
+[SPEAKER_00]: We must accelerate industrialization by expanding regional value chains.
+
+48
+00:08:35,922 --> 00:08:43,887
+[SPEAKER_00]: Africa must move decisively beyond exporting raw materials and commodities toward producing higher-value goods.
+
+49
+00:08:44,787 --> 00:08:56,214
+[SPEAKER_00]: Whether in critical minerals, pharmaceuticals, agriculture, textile or green manufacturing, regional production networks can generate productive employment
+
+50
+00:08:57,118 --> 00:09:01,659
+[SPEAKER_00]: retain greater value on the continent, and reduce vulnerability to external shocks.
+
+51
+00:09:02,600 --> 00:09:11,562
+[SPEAKER_00]: Industrialization has consistently proven to be one of the most reliable pathways to sustained structural transformation.
+
+52
+00:09:12,442 --> 00:09:19,344
+[SPEAKER_00]: Second, we must accelerate implementation of the African Continental Free Trade Area.
+
+53
+00:09:20,144 --> 00:09:26,306
+[SPEAKER_00]: Trade resilience beyond agreements are built through infrastructure, efficient orders,
+
+54
+00:09:27,062 --> 00:09:33,567
+[SPEAKER_00]: harmonized regulations, digital trade systems, and competitive logistics.
+
+55
+00:09:35,809 --> 00:09:55,906
+[SPEAKER_00]: Across Africa, transport corridors are already demonstrating that strategic investment in connectivity can become powerful economic arteries that facilitate trade, reduce transport costs, and attract investments, expanding productive employment
+
+56
+00:09:56,422 --> 00:09:59,243
+[SPEAKER_00]: and strengthening regional integration.
+
+57
+00:09:59,863 --> 00:10:09,067
+[SPEAKER_00]: Third, we must mobilize more domestic resources while developing more vibrant domestic capital markets.
+
+58
+00:10:10,388 --> 00:10:25,894
+[SPEAKER_00]: Africa cannot finance its ambition primarily through external organ, enhancing tax administration, reducing illicit financial flows, expanding local currency
+
+59
+00:10:26,274 --> 00:10:36,178
+[SPEAKER_00]: capital markets and mobilizing institutional investors will provide more stable and sustainable financing for development.
+
+60
+00:10:37,019 --> 00:10:46,182
+[SPEAKER_00]: Domestic savings can help finance Africa's development, but also catalyze more and better quality external financing.
+
+61
+00:10:47,083 --> 00:10:54,506
+[SPEAKER_00]: Fourth, we must invest much more aggressively in the foundations of the long-term economic security.
+
+62
+00:10:56,194 --> 00:11:07,080
+[SPEAKER_00]: Climate resilience, energy security, digital infrastructure, food systems, and macroeconomic resilience should not be viewed as separate agendas.
+
+63
+00:11:08,061 --> 00:11:15,445
+[SPEAKER_00]: Together, these investments reinforce economic competitiveness and should be treated in an integrated way.
+
+64
+00:11:16,586 --> 00:11:24,170
+[SPEAKER_00]: Finally, Africa must speak with greater unity and purpose in the global economic governance.
+
+65
+00:11:25,458 --> 00:11:42,042
+[SPEAKER_00]: A fragmented world rewards only those who negotiate collectively, whether on debt, architecture, climate, finance, international taxation, trade rules, or reform of the global financial architecture.
+
+66
+00:11:42,803 --> 00:11:49,124
+[SPEAKER_00]: Africa's influence will be greatest when it speaks in one voice.
+
+67
+00:11:52,725 --> 00:11:55,186
+[SPEAKER_00]: Greater geopolitical agency, ultimately,
+
+68
+00:11:55,774 --> 00:12:06,841
+[SPEAKER_00]: requires stronger continental institutions, closer policy coordination, and sustained partnerships, firmly grounded in African priorities.
+
+69
+00:12:09,322 --> 00:12:19,208
+[SPEAKER_00]: Dear colleagues and friends, history rarely presents moments when global transformation and continental opportunities align so clearly.
+
+70
+00:12:20,009 --> 00:12:21,630
+[SPEAKER_00]: This is one of those moments.
+
+71
+00:12:22,834 --> 00:12:34,981
+[SPEAKER_00]: The choices Africa makes today will determine whether geopolitical fragmentation becomes another external constraint or actually a catalyst for structural transformation.
+
+72
+00:12:35,981 --> 00:12:41,184
+[SPEAKER_00]: Our objective, therefore, is not merely to become more resilient to global shocks.
+
+73
+00:12:41,944 --> 00:12:46,407
+[SPEAKER_00]: It's to become more influential in shaping the global economy itself.
+
+74
+00:12:47,207 --> 00:12:52,310
+[SPEAKER_00]: An Africa that trades more with itself, finances more of its own development,
+
+75
+00:12:52,898 --> 00:13:02,603
+[SPEAKER_00]: possesses more of its own resources, invests more in its people, and speaks with greater unity, will not simply wither global uncertainty.
+
+76
+00:13:03,144 --> 00:13:07,306
+[SPEAKER_00]: It will help define the next era of global growth.
+
+77
+00:13:08,506 --> 00:13:22,394
+[SPEAKER_00]: The Economic Commission for Africa remains fully committed to work with all partners to turn today's dialogue into concrete action that advances shared prosperity
+
+78
+00:13:22,850 --> 00:13:25,694
+[SPEAKER_00]: For our people and the continent, thank you.
+
+79
+00:13:25,934 --> 00:13:28,157
+[SPEAKER_00]: Fruitful deliberation and every success.
+
+80
+00:13:28,357 --> 00:13:28,738
+[SPEAKER_00]: Thank you.
+

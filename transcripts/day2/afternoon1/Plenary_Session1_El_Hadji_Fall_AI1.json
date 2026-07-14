@@ -1,0 +1,523 @@
+{
+  "schema_version": "1.0",
+  "panel": {
+    "title": "Mobilizing African Capital through Deep, Liquid and Resilient Local Financial Markets",
+    "event": "African Economic Conference 2026",
+    "session": "Plenary Session 1",
+    "location": "Abidjan, Côte d’Ivoire",
+    "date": "",
+    "participants": [
+      "Dr. Zeph Nhleko, Development Bank of Southern Africa",
+      "Philippe Grégoire, BRVM",
+      "Dr. Thomas Mélonio, Agence Française de Développement",
+      "Dr. Marius Assi, Bloomfield Investment Corporation",
+      "Professor Augustus Nuwagaba, Bank of Uganda"
+    ],
+    "moderator": "El Hadji Fall"
+  },
+  "summary": {
+    "executive_summary": "The panel examined how Africa can mobilize its own financial resources to close development-financing gaps and reduce dependence on costly, volatile external capital. The discussion began from the paradox that the continent holds trillions of dollars in domestic and international assets, yet much of this capital remains underused, invested in low-yield instruments or placed outside Africa while African borrowers pay a premium to access finance. Panelists emphasized that the central challenge is not simply a shortage of money, but weak mechanisms for channeling capital into credible, productive and long-term investments. Development finance institutions were urged to play a larger role in building local-currency markets, preparing projects, mobilizing institutional investors and supporting transition finance. Regional capital markets were presented as essential for retaining savings, financing national development plans and widening citizen participation in investment. The panel also highlighted institutional fragmentation, limited coordination among market actors, shallow secondary markets, inadequate project pipelines and insufficient credit enhancement. Credit ratings featured prominently as tools that influence access, pricing and investor eligibility, while concerns were raised about sovereign ceilings, data quality, transparency and the potential role of an African rating agency. The overarching message was that Africa must deepen local markets, pool risks, improve information and governance, strengthen project preparation and better coordinate public, private, regional and development-finance institutions.",
+    "purpose": "To identify practical ways to mobilize Africa’s domestic capital, deepen local and regional financial markets, reduce the cost of capital and improve access to long-term development finance.",
+    "central_takeaway": "Africa’s financing gap can be narrowed by channeling existing domestic capital through stronger local-currency markets, credible projects, coordinated institutions, transparent information and effective risk-sharing mechanisms.",
+    "main_questions": [
+      {
+        "question": "How can development finance institutions help unlock Africa’s underused domestic capital and close financing gaps?",
+        "timestamp": {
+          "start": "00:03:06",
+          "end": "00:03:26"
+        }
+      },
+      {
+        "question": "How can financial instruments and project-preparation systems be adapted to African market conditions?",
+        "timestamp": {
+          "start": "00:08:55",
+          "end": "00:09:47"
+        }
+      },
+      {
+        "question": "Which regulatory, technological and market reforms are needed to deepen cross-border capital markets and increase liquidity?",
+        "timestamp": {
+          "start": "00:11:09",
+          "end": "00:12:05"
+        }
+      },
+      {
+        "question": "How can bilateral and development-finance institutions lower the cost of capital and move toward risk-sharing market mechanisms?",
+        "timestamp": {
+          "start": "00:22:07",
+          "end": "00:22:48"
+        }
+      },
+      {
+        "question": "How do credit ratings affect access to finance, interest rates and the wider economy?",
+        "timestamp": {
+          "start": "00:39:54",
+          "end": "00:40:41"
+        }
+      },
+      {
+        "question": "Would an African credit-rating agency improve the assessment of African risks, and what safeguards would be needed?",
+        "timestamp": {
+          "start": "00:41:43",
+          "end": "00:42:31"
+        }
+      }
+    ],
+    "main_themes": [
+      {
+        "theme": "Local-currency capital markets",
+        "description": "Deep local-currency markets can reduce foreign-exchange risk, validate domestic issuance and attract both local and international investors.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:05:25",
+          "end": "00:06:13"
+        }
+      },
+      {
+        "theme": "Development finance institutions as market builders",
+        "description": "DFIs should be used earlier and more deliberately for project preparation, financing, risk mitigation and mobilizing other investors.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:10:06",
+          "end": "00:11:04"
+        }
+      },
+      {
+        "theme": "Institutional capital and infrastructure",
+        "description": "Pension funds and other institutional investors need viable infrastructure assets, clear mandates and well-prepared project pipelines.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:06:21",
+          "end": "00:07:39"
+        }
+      },
+      {
+        "theme": "Regional market integration and liquidity",
+        "description": "Integrated exchanges and cross-border markets can expand scale, retain African savings and improve access to long-term finance.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:15:33",
+          "end": "00:16:06"
+        }
+      },
+      {
+        "theme": "Risk pooling and credit enhancement",
+        "description": "Pooling risks, issuing larger instruments and using guarantees can improve ratings and widen the investor base.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:24:10",
+          "end": "00:27:02"
+        }
+      },
+      {
+        "theme": "Credit ratings and cost of capital",
+        "description": "Ratings influence investor eligibility, borrowing costs, market confidence and the volume of capital available to sovereign and private issuers.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:44:08",
+          "end": "00:45:21"
+        }
+      },
+      {
+        "theme": "Transparency, data and credibility",
+        "description": "Reliable, audited and internationally comparable information is fundamental to investor confidence and efficient capital markets.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:47:44",
+          "end": "00:49:58"
+        }
+      }
+    ],
+    "key_messages": [
+      {
+        "message": "Africa’s core problem is not a lack of capital but the absence of efficient systems to channel it.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:00:52",
+          "end": "00:01:06"
+        }
+      },
+      {
+        "message": "Building deep, liquid and resilient local capital markets is essential for economic sovereignty.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:01:07",
+          "end": "00:01:22"
+        }
+      },
+      {
+        "message": "Available institutional capital cannot be mobilized without a credible pipeline of investable projects.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:06:45",
+          "end": "00:07:16"
+        }
+      },
+      {
+        "message": "Development finance institutions should be embedded in policy and project design from the outset, not added as an afterthought.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:10:16",
+          "end": "00:10:55"
+        }
+      },
+      {
+        "message": "Regional financial actors need clearer complementarity and stronger coordination across the financing cycle.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:20:24",
+          "end": "00:21:52"
+        }
+      },
+      {
+        "message": "Credit enhancement of only a few rating notches can substantially increase the pool of eligible investors.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:26:18",
+          "end": "00:27:02"
+        }
+      },
+      {
+        "message": "Transparency and credibility are indispensable for any African or international rating framework.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:53:57",
+          "end": "00:54:55"
+        }
+      }
+    ],
+    "areas_of_agreement": [
+      "The discussion broadly agreed that Africa has significant domestic capital that is not being used effectively.",
+      "Panelists supported deeper local-currency and regional capital markets as a route to lower financing risks.",
+      "The discussion emphasized that project preparation and institutional capacity must improve alongside capital mobilization.",
+      "Panelists broadly supported greater coordination among development banks, exchanges, regulators and institutional investors.",
+      "The discussion agreed that reliable information, transparency and credibility are central to investor confidence."
+    ],
+    "contrasting_perspectives": [
+      "Some contributions emphasized building local and regional market infrastructure, while others focused more heavily on guarantees, credit enhancement and access to international investors.",
+      "Different views emerged on whether sovereign ceilings should constrain the ratings of well-governed development finance institutions.",
+      "An African rating agency was viewed as potentially valuable for local knowledge and local-currency analysis, but concerns were raised about neutrality, conflicts of interest and credibility.",
+      "Some perspectives favored stronger integration of public development plans with stock markets, while others stressed market-based risk assessment and institutional independence."
+    ],
+    "challenges_and_opportunities": [
+      {
+        "text": "A large share of African capital remains in low-yield assets or is invested outside the continent.",
+        "category": "challenge",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:00:23",
+          "end": "00:00:51"
+        }
+      },
+      {
+        "text": "African capital markets remain fragmented, shallow and concentrated in short-term instruments.",
+        "category": "challenge",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:04:05",
+          "end": "00:04:22"
+        }
+      },
+      {
+        "text": "Institutional investors report that capital is available but sufficiently prepared projects are scarce.",
+        "category": "challenge",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:06:45",
+          "end": "00:07:16"
+        }
+      },
+      {
+        "text": "Overlapping mandates and weak communication among regional financial institutions reduce market efficiency.",
+        "category": "challenge",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:20:24",
+          "end": "00:21:26"
+        }
+      },
+      {
+        "text": "Sovereign ceilings and foreign-currency risk can restrict the ratings and financing capacity of otherwise strong institutions.",
+        "category": "challenge",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:34:40",
+          "end": "00:35:25"
+        }
+      },
+      {
+        "text": "Integrated regional exchanges can increase market scale, liquidity and cross-border investment.",
+        "category": "opportunity",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:15:33",
+          "end": "00:16:06"
+        }
+      },
+      {
+        "text": "Guarantees and other credit-enhancement tools can move issuers closer to investment grade and attract much larger pools of capital.",
+        "category": "opportunity",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:26:18",
+          "end": "00:27:02"
+        }
+      },
+      {
+        "text": "Local rating agencies can improve knowledge of African markets and assess local-currency risks more accurately.",
+        "category": "opportunity",
+        "importance": "medium",
+        "timestamp": {
+          "start": "00:46:10",
+          "end": "00:47:09"
+        }
+      }
+    ],
+    "evidence_and_examples": [
+      {
+        "text": "Official development assistance was described as covering less than 5% of current financing needs.",
+        "type": "statistic",
+        "timestamp": {
+          "start": "00:00:06",
+          "end": "00:00:13"
+        }
+      },
+      {
+        "text": "The continent was described as holding nearly $4 trillion in domestic and international assets, much of it underused.",
+        "type": "statistic",
+        "timestamp": {
+          "start": "00:00:23",
+          "end": "00:00:51"
+        }
+      },
+      {
+        "text": "Untapped local institutional capital was estimated at more than $1 trillion.",
+        "type": "statistic",
+        "timestamp": {
+          "start": "00:06:34",
+          "end": "00:06:56"
+        }
+      },
+      {
+        "text": "An African stock-market integration initiative was reported to involve 14 of the continent’s 25 exchanges and approximately $2.2 trillion in market capitalization.",
+        "type": "institutional_example",
+        "timestamp": {
+          "start": "00:15:39",
+          "end": "00:16:06"
+        }
+      },
+      {
+        "text": "A green-bond transaction supported by a development institution was cited as an example of how an anchor investor can help launch a new market product.",
+        "type": "institutional_example",
+        "timestamp": {
+          "start": "00:25:09",
+          "end": "00:25:32"
+        }
+      },
+      {
+        "text": "Improving a borrower’s rating by two or three notches was described as potentially expanding the eligible investor pool by three or four times.",
+        "type": "comparison",
+        "timestamp": {
+          "start": "00:26:18",
+          "end": "00:27:02"
+        }
+      }
+    ],
+    "policy_implications": [
+      "Governments should explicitly mandate development finance institutions to support project preparation and market development.",
+      "Regulators should establish clearer frameworks for infrastructure and transition assets that institutional investors can hold.",
+      "Regional institutions should coordinate mandates and financing roles across primary and secondary markets.",
+      "Public investment plans should be connected more systematically to capital-market instruments and domestic investors.",
+      "Credit-rating and disclosure systems should distinguish local-currency from foreign-currency risk and strengthen data credibility."
+    ],
+    "recommendations": [
+      "Expand local-currency issuance and strengthen domestic bond and equity markets.",
+      "Create well-prepared pipelines of infrastructure and productive-sector projects.",
+      "Use development finance institutions as early-stage project developers, risk mitigators and anchor investors.",
+      "Pool projects and issuers across countries or institutions to reach investable scale and diversify risk.",
+      "Increase the use of guarantees and other credit-enhancement instruments.",
+      "Strengthen audited disclosure, international accounting standards and the certification of public accounts.",
+      "Design any African rating agency with strong safeguards for independence, neutrality and credibility."
+    ],
+    "commitments_and_announcements": [
+      "UNDP was reported to be supporting African countries through an initiative focused on improving engagement with credit-rating agencies and coordinating related reforms.",
+      "A development-finance guarantee hub was reported to have been launched to support credit enhancement.",
+      "The second phase of an African stock-market integration project was reported to have been launched on July 1."
+    ],
+    "calls_to_action": [
+      "Stop treating local capital markets as optional and recognize them as essential to economic sovereignty.",
+      "Use Africa’s own savings and institutional assets to finance African development.",
+      "Embed development finance institutions in national policies and projects from the beginning.",
+      "Improve coordination among exchanges, regulators, governments, DFIs and investors.",
+      "Strengthen the credibility, comparability and transparency of financial and public-sector information."
+    ],
+    "partnerships_and_stakeholders": [
+      "Development Bank of Southern Africa",
+      "BRVM",
+      "Agence Française de Développement",
+      "Bloomfield Investment Corporation",
+      "Bank of Uganda",
+      "United Nations Development Programme",
+      "African Development Bank",
+      "BOAD",
+      "Regional stock exchanges",
+      "Central banks",
+      "Pension funds",
+      "Sovereign and institutional investors",
+      "National governments",
+      "Credit-rating agencies",
+      "Small and medium-sized enterprises"
+    ],
+    "unresolved_issues": [
+      "How to create sufficient numbers of credible, investable projects at scale.",
+      "How to resolve overlapping mandates and weak coordination among regional financial institutions.",
+      "Whether strong DFIs should be rated independently of sovereign ceilings.",
+      "How an African rating agency could add value without compromising independence and credibility.",
+      "How credit-rating improvements can translate more directly into benefits for small firms and vulnerable economic actors.",
+      "How to improve the reliability and certification of sovereign and corporate data."
+    ],
+    "concluding_takeaway": "Africa can reduce the cost of capital and finance more of its own development by deepening local markets, preparing credible projects, coordinating institutions, pooling risk and strengthening ratings, disclosure and investor confidence."
+  },
+  "powerful_quotes": [
+    {
+      "quote": "Our challenge is not the lack of capital, but the lack of efficient economies to channel it.",
+      "context": "The central paradox of substantial African savings coexisting with major financing gaps.",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:00:52",
+        "end": "00:01:06"
+      }
+    },
+    {
+      "quote": "Building deep, liquid and resilient local capital markets is therefore no longer a policy choice.",
+      "context": "The importance of local markets for Africa’s economic sovereignty.",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:01:07",
+        "end": "00:01:17"
+      }
+    },
+    {
+      "quote": "You can’t just ask for the capital but there’s no project.",
+      "context": "The need to develop credible project pipelines alongside capital mobilization.",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:07:03",
+        "end": "00:07:16"
+      }
+    },
+    {
+      "quote": "The instruments, the processes and the facilities are there. You just need to unleash them.",
+      "context": "A call to use development finance institutions more effectively.",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:10:48",
+        "end": "00:11:04"
+      }
+    },
+    {
+      "quote": "Information is really the core of the confidence in the financial market.",
+      "context": "The role of disclosure, auditing and data quality in building investor confidence.",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:47:44",
+        "end": "00:47:53"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "text": "Africa holds substantial capital, but weak channels prevent it from financing development effectively.",
+      "type": "central_takeaway",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:00:23",
+        "end": "00:01:06"
+      }
+    },
+    {
+      "text": "Development finance institutions should build local-currency markets and prepare projects from the earliest stages.",
+      "type": "recommendation",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:05:25",
+        "end": "00:11:04"
+      }
+    },
+    {
+      "text": "Regional stock-market integration can improve scale, liquidity and retention of African savings.",
+      "type": "opportunity",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:15:33",
+        "end": "00:16:06"
+      }
+    },
+    {
+      "text": "Weak institutional coordination is limiting the effectiveness of regional financial markets.",
+      "type": "challenge",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:20:24",
+        "end": "00:21:52"
+      }
+    },
+    {
+      "text": "Risk pooling and modest credit enhancement can unlock much larger investor pools.",
+      "type": "key_message",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:24:10",
+        "end": "00:27:02"
+      }
+    },
+    {
+      "text": "Credit ratings shape borrowing costs, investor eligibility and access to long-term capital.",
+      "type": "policy_implication",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:44:08",
+        "end": "00:45:21"
+      }
+    },
+    {
+      "text": "Transparency, audited information and credible institutions are indispensable to financial-market development.",
+      "type": "conclusion",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:47:44",
+        "end": "00:49:58"
+      }
+    }
+  ],
+  "keywords": [
+    "domestic capital mobilization",
+    "local-currency markets",
+    "capital markets",
+    "development finance institutions",
+    "project preparation",
+    "institutional investors",
+    "pension funds",
+    "regional integration",
+    "BRVM",
+    "credit enhancement",
+    "risk pooling",
+    "credit ratings",
+    "sovereign ceiling",
+    "transparency",
+    "economic sovereignty"
+  ],
+  "quality": {
+    "transcript_quality": "medium",
+    "speaker_attribution_quality": "medium",
+    "uncertain_items": [
+      "Several participant names, titles and institutional affiliations were distorted by transcription and were normalized only where the intended identity appeared reasonably clear.",
+      "The exact names of some regional institutions and market-integration initiatives were inconsistently transcribed.",
+      "Some French-language passages were mistranscribed into English and may have lost nuance.",
+      "The figure of nearly $4 trillion was preserved because it was clearly repeated, but the exact asset category was unclear.",
+      "The exact name of the guarantee hub and the UNDP credit-rating initiative was not fully clear in the transcript.",
+      "The event date was not stated in the transcript.",
+      "Professor Augustus Nuwagaba joined late and made no clearly captured substantive intervention."
+    ]
+  }
+}

@@ -1,0 +1,1660 @@
+1
+00:00:00,454 --> 00:00:08,581
+[SPEAKER_01]: this session by sending us your comments, your thoughts, and your questions in the chat box.
+
+2
+00:00:09,161 --> 00:00:20,230
+[SPEAKER_01]: Distinguished colleagues, as we've heard in the opening ceremony, we gather at a profound structural juncture.
+
+3
+00:00:21,311 --> 00:00:29,638
+[SPEAKER_01]: As the global economy fragments into competitive geopolitical and financial blocks, African states find themselves
+
+4
+00:00:30,106 --> 00:00:38,611
+[SPEAKER_01]: navigating a paradox, pledging economic resilience alongside severe fiscal compression.
+
+5
+00:00:39,792 --> 00:00:57,962
+[SPEAKER_01]: Our focus on financial agency in this panel helps us understand how African countries could respond to the evolving global multipolarity and transition from being spectators in the global financial arena to becoming full participants.
+
+6
+00:00:59,562 --> 00:01:13,393
+[SPEAKER_01]: Financial agency speaks to a nation or region's capacity to shape the terms of its engagement with global capital markets and to insulate its economy from asymmetric external shocks.
+
+7
+00:01:14,354 --> 00:01:28,806
+[SPEAKER_01]: It is also about the ability to influence how Africa's risk is priced, how Africa's debt is structured, and how the prevailing financial architecture is governed in a way
+
+8
+00:01:29,226 --> 00:01:31,707
+[SPEAKER_01]: that does not disadvantage the continent.
+
+9
+00:01:32,587 --> 00:01:35,448
+[SPEAKER_01]: Allow me two quick examples to illustrate this point.
+
+10
+00:01:37,148 --> 00:01:53,913
+[SPEAKER_01]: Despite growing at a reasonable rate, just around 4.3, 0.4% of GDP per year, African sovereigns face what I think are unjustified and unjustifiable risk premium in capital markets.
+
+11
+00:01:54,753 --> 00:01:58,394
+[SPEAKER_01]: Average credit spreads in Africa are the widest globally.
+
+12
+00:01:59,230 --> 00:02:16,055
+[SPEAKER_01]: In this context, financial agency means dismantling the structural biases that underpin the risk premium and investing in the institutions and capacities that allow African countries to be able to help shape their financial destiny.
+
+13
+00:02:16,875 --> 00:02:23,197
+[SPEAKER_01]: Second, true financial agency requires local balance sheets capable of counter-significant buffering.
+
+14
+00:02:23,217 --> 00:02:26,358
+[SPEAKER_01]: The mobilization of the Alliance of African
+
+15
+00:02:27,166 --> 00:02:40,434
+[SPEAKER_01]: multilateral financial institutions and fee demonstrate an emerging capability to deploy preferred crisis phases and local currency mechanisms that bypass traditional bottlenecks.
+
+16
+00:02:41,155 --> 00:02:48,459
+[SPEAKER_01]: For Africa, multi-polarity is not an expanding menu of financing options and policy choices.
+
+17
+00:02:49,299 --> 00:02:53,302
+[SPEAKER_01]: It's a complex optimization problem with high transaction costs.
+
+18
+00:02:54,410 --> 00:03:18,227
+[SPEAKER_01]: This is why there is an urgent need for us here in this room and online to figure out solutions to Africa's inherent structural vulnerabilities, as well as how could Africa capitalize on opportunities and address unique headwinds that multiple polarity can create across the continent.
+
+19
+00:03:19,929 --> 00:03:21,249
+[SPEAKER_01]: I'm really happy that
+
+20
+00:03:22,538 --> 00:03:27,401
+[SPEAKER_01]: to focus on the solutions, to start teasing these questions out.
+
+21
+00:03:27,782 --> 00:03:29,323
+[SPEAKER_01]: That's not my job this morning.
+
+22
+00:03:30,163 --> 00:03:49,356
+[SPEAKER_01]: I'm honored to invite a thought leader who needs no introduction, Professor Kevin Oramah, chief economist and vice president for economic governance and knowledge management here at the African Development Bank, to set the tone for this conversation with a keynote address.
+
+23
+00:03:49,816 --> 00:03:51,437
+[SPEAKER_01]: Professor Oramah, let's give him a round of applause.
+
+24
+00:03:59,586 --> 00:04:01,386
+[SPEAKER_00]: Thank you very much, Raymond.
+
+25
+00:04:03,707 --> 00:04:04,787
+[SPEAKER_00]: Good morning, colleagues.
+
+26
+00:04:05,568 --> 00:04:27,073
+[SPEAKER_00]: To those in the building and those connected online, Your Excellencies, distinguished delegates, ladies and gentlemen, it's really an honor to welcome you to this meeting and to this particular presentation on Trending Africa's Financial Agency in a Multiple World.
+
+27
+00:04:27,574 --> 00:04:28,814
+[SPEAKER_00]: Can you please project
+
+28
+00:04:29,194 --> 00:04:30,315
+[SPEAKER_00]: the PowerPoint.
+
+29
+00:04:32,037 --> 00:04:36,501
+[SPEAKER_00]: So here we will be talking about what Raymond introduced.
+
+30
+00:04:36,641 --> 00:04:37,221
+[SPEAKER_00]: Next slide.
+
+31
+00:04:38,182 --> 00:04:41,345
+[SPEAKER_00]: We will have seven key areas to look at.
+
+32
+00:04:41,805 --> 00:04:46,069
+[SPEAKER_00]: Why is multipolarity important for Africa at this stage?
+
+33
+00:04:47,070 --> 00:04:50,793
+[SPEAKER_00]: How is Africa performing in the multipolar world?
+
+34
+00:04:51,954 --> 00:04:55,878
+[SPEAKER_00]: And what financing needs does Africa have
+
+35
+00:04:56,538 --> 00:05:03,840
+[SPEAKER_00]: Even as the global governance system is changing, what are the sources of those financing, and how can we get that?
+
+36
+00:05:04,400 --> 00:05:10,942
+[SPEAKER_00]: What is the current status of fiscal capacity of the continent in this changing, multiple world?
+
+37
+00:05:11,402 --> 00:05:13,323
+[SPEAKER_00]: Where can we find those resources?
+
+38
+00:05:13,623 --> 00:05:17,664
+[SPEAKER_00]: What are the pathways to find them, and what should we do?
+
+39
+00:05:19,005 --> 00:05:19,605
+[SPEAKER_00]: Next slide.
+
+40
+00:05:20,905 --> 00:05:22,426
+[SPEAKER_00]: On this slide, next slide,
+
+41
+00:05:23,718 --> 00:05:29,181
+[SPEAKER_00]: On this slide is just to try to contextualize what we mean by multi-polarity.
+
+42
+00:05:29,821 --> 00:05:46,110
+[SPEAKER_00]: Here is just about the distribution of power in global governance, which normally is shaped by political power, military power, economic power, or fiscal dominance, technological ownership.
+
+43
+00:05:47,291 --> 00:05:52,314
+[SPEAKER_00]: So if you don't have any of these four key factors, you are either
+
+44
+00:05:53,094 --> 00:06:01,160
+[SPEAKER_00]: on the menu of multiple discussions or global governance discussions, or you are just a complainant.
+
+45
+00:06:03,601 --> 00:06:22,374
+[SPEAKER_00]: I'm not going to go into details in any of these key drivers of multipolarity, but we decided to focus on economic and fiscal dominance, which is about currency, trade, investments, partnerships, debt management, and all the things that are within the ambience of this conference.
+
+46
+00:06:22,902 --> 00:06:26,145
+[SPEAKER_00]: which is the economic conference for Africa.
+
+47
+00:06:27,566 --> 00:06:30,969
+[SPEAKER_00]: What are the opportunities for Africa in this multipolar world?
+
+48
+00:06:31,990 --> 00:06:39,676
+[SPEAKER_00]: We have great opportunities because we now have a more diverse technology arena.
+
+49
+00:06:40,937 --> 00:06:47,583
+[SPEAKER_00]: Greater choices of who to work with, of who to trade with, who not to trade with, and who not to work with.
+
+50
+00:06:48,944 --> 00:06:51,246
+[SPEAKER_00]: It gives also better bargaining power.
+
+51
+00:06:51,882 --> 00:06:54,943
+[SPEAKER_00]: Because we all economists know what monopoly power means.
+
+52
+00:06:55,603 --> 00:07:01,665
+[SPEAKER_00]: If you have only one partner, then you have to bow to whatever the partner wants.
+
+53
+00:07:02,765 --> 00:07:14,528
+[SPEAKER_00]: Now, we also have a chance to unite better and have a greater bargaining voice as one Africa in this multipolar world.
+
+54
+00:07:14,568 --> 00:07:20,990
+[SPEAKER_00]: Or we can decide to continue to bargain as individual countries with shallower capital markets
+
+55
+00:07:21,894 --> 00:07:51,330
+[SPEAKER_00]: more reduced populations fiscal power and all the other things that define multi polarity we also have opportunities for technology ownership and technology shared so when we are talking about transitions which is one of the things that's driving multiple polarity now in terms of green transitions we either decide whether we buy all the solar panels or whether we build the manufacturing capacity to use our
+
+56
+00:07:51,774 --> 00:07:54,676
+[SPEAKER_00]: minerals to produce the solar panels ourselves.
+
+57
+00:07:55,216 --> 00:08:03,601
+[SPEAKER_00]: Whether we are going to be buying all the electric vehicles or actually we are going to be producing lithium ion batteries that we have a lot of the minerals for.
+
+58
+00:08:04,181 --> 00:08:07,763
+[SPEAKER_00]: But we also have a great opportunity for regional integration.
+
+59
+00:08:08,804 --> 00:08:19,950
+[SPEAKER_00]: To come together to speak better as one voice, one market, the ACFDA, one financial institution or financial architecture, the new African
+
+60
+00:08:20,342 --> 00:08:38,137
+[SPEAKER_00]: financing architecture for development, with President Sidi Oktar as champion, or one instrument for addressing debt refinancing risks, which is the Africa Financing Stability Mechanism, which I was privileged to work on with the African Union Commission.
+
+61
+00:08:38,198 --> 00:08:47,786
+[SPEAKER_00]: My brother Patrick here, sitting there, knows how much work has been done to get that even adopted by the AFTE-EU Executive Council.
+
+62
+00:08:48,410 --> 00:08:55,077
+[SPEAKER_00]: And we also have the African Monetary Institute to try and drive towards monitoring stability on the continent.
+
+63
+00:08:55,557 --> 00:08:56,878
+[SPEAKER_00]: So the instruments are there.
+
+64
+00:08:58,340 --> 00:09:00,822
+[SPEAKER_00]: So it's not as if we have the rest of the instruments.
+
+65
+00:09:01,283 --> 00:09:10,091
+[SPEAKER_00]: We have the instruments to actually do better in this current dialogue that is reshaping global governance.
+
+66
+00:09:11,553 --> 00:09:12,954
+[SPEAKER_00]: We can no longer complain
+
+67
+00:09:13,594 --> 00:09:23,459
+[SPEAKER_00]: about the rules of the games set in the 1990s to 2000s when we had a unipolar world where the United States was a dominant power.
+
+68
+00:09:24,680 --> 00:09:35,266
+[SPEAKER_00]: We can't even complain about the Cold War ever anymore when the bipolarity was driven by the United States and USSR, now known as Soviet Union.
+
+69
+00:09:36,246 --> 00:09:42,870
+[SPEAKER_00]: Now, since the year 2020, we have been having significant multipolarization
+
+70
+00:09:43,294 --> 00:09:58,438
+[SPEAKER_00]: in global dialogue with USA, China, EU, Russia, India, regional, and other regional blocs like ours, ourselves, the British, the British countries, and all of them being on the table.
+
+71
+00:09:58,898 --> 00:10:06,981
+[SPEAKER_00]: And Africa now has a seat, even on the G20, giving us a voice to contribute to how the global governance is shaped.
+
+72
+00:10:07,541 --> 00:10:09,621
+[SPEAKER_00]: So the era of complaining is over.
+
+73
+00:10:10,441 --> 00:10:12,302
+[SPEAKER_00]: The time of action is now.
+
+74
+00:10:13,450 --> 00:10:19,233
+[SPEAKER_00]: What are the cons in terms of what disadvantage can we face if we didn't address this problem?
+
+75
+00:10:20,294 --> 00:10:22,175
+[SPEAKER_00]: Partnership and fragmentation.
+
+76
+00:10:22,996 --> 00:10:34,603
+[SPEAKER_00]: Because of the bipolarity, the multi-polarity happening, we are going to be seeing that maybe our partners are not going to be uniting and agreeing as they used to, to come and help us and block.
+
+77
+00:10:35,103 --> 00:10:37,725
+[SPEAKER_00]: And hence, you see ODEs going down.
+
+78
+00:10:38,485 --> 00:10:39,986
+[SPEAKER_00]: And it will continue going down.
+
+79
+00:10:40,342 --> 00:10:46,126
+[SPEAKER_00]: because they also have their own fiscal challenges to address, like regional security and other things.
+
+80
+00:10:47,187 --> 00:10:52,250
+[SPEAKER_00]: Renewed resource competition, some people talk about another scandal for Africa's minerals.
+
+81
+00:10:52,891 --> 00:11:08,622
+[SPEAKER_00]: Of course, it will happen, because if the regional blocs who need to have a particular way of addressing or accessing resources for their development need to do that singularly, then you have more partners scrambling for those resources.
+
+82
+00:11:09,322 --> 00:11:12,983
+[SPEAKER_00]: reduce cooperation in global public goods.
+
+83
+00:11:13,003 --> 00:11:21,825
+[SPEAKER_00]: We always talk about Africa being the most impacted on climate change, and then it's what I call the global commons problem.
+
+84
+00:11:22,526 --> 00:11:38,830
+[SPEAKER_00]: And if it's a global commons problem and we are having greater difficulty in having global agreements on global public goods, such things like biodiversity, environmental degradation, climate change may suffer with regard to
+
+85
+00:11:39,254 --> 00:11:40,655
+[SPEAKER_00]: financial flows to them.
+
+86
+00:11:41,255 --> 00:11:42,736
+[SPEAKER_00]: So we have to do them ourselves.
+
+87
+00:11:43,337 --> 00:12:02,270
+[SPEAKER_00]: Debt dependency could also become an issue, because with the global governance that is multi-polarizing, you are going to be seeing, as we already see, declining in more structured, what we used to call the Paris Club group, debt for the continent.
+
+88
+00:12:02,370 --> 00:12:07,674
+[SPEAKER_00]: And debt resolution or debt restructuring becomes more difficult because there are more people on the table.
+
+89
+00:12:08,646 --> 00:12:12,788
+[SPEAKER_00]: Now, external shocks might increase through proxy conflicts.
+
+90
+00:12:13,208 --> 00:12:21,933
+[SPEAKER_00]: So when there's war in Ukraine and the United States or Russia or Iran, Africa suffers.
+
+91
+00:12:22,433 --> 00:12:24,595
+[SPEAKER_00]: So these things may continue to happen.
+
+92
+00:12:24,935 --> 00:12:32,119
+[SPEAKER_00]: But imported inflation, trade tensions, and other things can continue to be a challenge for us.
+
+93
+00:12:32,679 --> 00:12:34,440
+[SPEAKER_00]: What do we need to address all of them?
+
+94
+00:12:35,100 --> 00:12:38,422
+[SPEAKER_00]: Because I'm an economist, I say economic diplomacy.
+
+95
+00:12:39,134 --> 00:12:47,140
+[SPEAKER_00]: We need to be strategic in who we work with, how we work with, what tools we use, and what policies we implement.
+
+96
+00:12:47,541 --> 00:12:56,908
+[SPEAKER_00]: And there comes the Global Chief Economist Network, the African Economic Conference, and the African Chief Economist Network to bring the solutions.
+
+97
+00:12:57,209 --> 00:13:01,832
+[SPEAKER_00]: So I'm looking to you to solve the problems when we go and finish this meeting.
+
+98
+00:13:02,633 --> 00:13:03,714
+[SPEAKER_00]: What are the opportunities?
+
+99
+00:13:03,794 --> 00:13:04,615
+[SPEAKER_00]: Next slide.
+
+100
+00:13:05,495 --> 00:13:08,778
+[SPEAKER_00]: The opportunities that we have in Africa
+
+101
+00:13:09,494 --> 00:13:16,719
+[SPEAKER_00]: For us, as economists, is to look for how we can strengthen Africa's own agency in the global financial markets.
+
+102
+00:13:17,340 --> 00:13:20,082
+[SPEAKER_00]: We need the politics for the politicians.
+
+103
+00:13:20,462 --> 00:13:26,806
+[SPEAKER_00]: We need the military and all those poles of polarity for the different groups to also address.
+
+104
+00:13:27,047 --> 00:13:33,431
+[SPEAKER_00]: But for us, we need to think about how fundamentally the global financing order is changing.
+
+105
+00:13:34,172 --> 00:13:37,294
+[SPEAKER_00]: We need to think about the trade patterns that is changing
+
+106
+00:13:37,674 --> 00:13:49,481
+[SPEAKER_00]: the global shocks in the global supply chains, and how the world no longer is organized to a singular, unipolar priorities.
+
+107
+00:13:49,601 --> 00:13:57,925
+[SPEAKER_00]: And trade policies made by single countries no longer has significant impacts as it used to have, and we had an experience just last year.
+
+108
+00:13:58,566 --> 00:14:06,050
+[SPEAKER_00]: Commodity supply chains that are, you know, are fragmented, and how financial flows are also changing.
+
+109
+00:14:06,946 --> 00:14:08,507
+[SPEAKER_00]: So this is just the context.
+
+110
+00:14:09,207 --> 00:14:09,847
+[SPEAKER_00]: Next slide.
+
+111
+00:14:10,808 --> 00:14:30,476
+[SPEAKER_00]: On the next slide, we look then on how is Africa performing in this current multipolar world, and somehow a back casting to see how did we perform in the unipolar world, the bipolar world, and the multipolar world, because I see a lot of people arguing about, oh, is it good for Africa, or is it not good for Africa?
+
+112
+00:14:31,016 --> 00:14:32,056
+[SPEAKER_00]: Let the data tell us.
+
+113
+00:14:32,237 --> 00:14:33,197
+[SPEAKER_00]: Next slide, please.
+
+114
+00:14:33,997 --> 00:14:35,498
+[SPEAKER_00]: So currently, Africa is in
+
+115
+00:14:36,234 --> 00:14:40,915
+[SPEAKER_00]: better than it has done before with regard to GDP growth rates.
+
+116
+00:14:41,055 --> 00:14:45,217
+[SPEAKER_00]: I'm not going to repeat these because it's an African economic outlook report.
+
+117
+00:14:45,517 --> 00:14:48,798
+[SPEAKER_00]: But highlighted in green, there are things that really gladden my heart.
+
+118
+00:14:49,558 --> 00:15:00,321
+[SPEAKER_00]: Broad-based growth with 36 countries posting growth improvements on the continent, 22 of them above 5%, six of them above 7%.
+
+119
+00:15:00,341 --> 00:15:04,562
+[SPEAKER_00]: Impressive, we don't get it to anything in any other region of the world.
+
+120
+00:15:05,322 --> 00:15:10,806
+[SPEAKER_00]: 12 of the 20 fastest growing economies in the world being African in 2025.
+
+121
+00:15:11,847 --> 00:15:12,888
+[SPEAKER_00]: Excellent results.
+
+122
+00:15:13,448 --> 00:15:17,992
+[SPEAKER_00]: Even with the current global shocks, our growth rate still remains above 4%.
+
+123
+00:15:18,132 --> 00:15:20,894
+[SPEAKER_00]: It can't get better than that.
+
+124
+00:15:22,235 --> 00:15:27,959
+[SPEAKER_00]: And when you look at the next slide, even the regional growth, next slide please, show the same pattern.
+
+125
+00:15:29,060 --> 00:15:31,162
+[SPEAKER_00]: Each region is in upward swing.
+
+126
+00:15:32,406 --> 00:15:34,166
+[SPEAKER_00]: despite the shocks that we have.
+
+127
+00:15:34,247 --> 00:15:39,968
+[SPEAKER_00]: Even after factoring the Middle East crisis, we still see positive growth on the continent.
+
+128
+00:15:40,548 --> 00:15:54,212
+[SPEAKER_00]: But strengthening our agency, if you look at that graph on the right side, you see that the resources which we have the most, and we pride ourselves of having, is actually not contributing to our growth properly.
+
+129
+00:15:55,212 --> 00:16:01,874
+[SPEAKER_00]: If you look at that, oil exporters on the continent are not doing as well as non-oil
+
+130
+00:16:05,214 --> 00:16:11,118
+[SPEAKER_00]: Resource-intensive economies in the continent are not doing as well as non-resource-intensive economies in the continent.
+
+131
+00:16:12,599 --> 00:16:18,563
+[SPEAKER_00]: So that should shape how we think about how we engage with this current multi-polarity.
+
+132
+00:16:18,963 --> 00:16:19,864
+[SPEAKER_00]: Next slide, please.
+
+133
+00:16:20,564 --> 00:16:24,627
+[SPEAKER_00]: And on this slide, just a small back-casting of the 1981.
+
+134
+00:16:24,727 --> 00:16:28,770
+[SPEAKER_00]: If you go back as much as you can get, you'll find the same pattern.
+
+135
+00:16:29,714 --> 00:16:41,343
+[SPEAKER_00]: I just use that red line on the top to mark where I, in my own classification, others might have different classifications, the periods I consider the unicolor world, when the US was more dominant.
+
+136
+00:16:41,883 --> 00:16:49,489
+[SPEAKER_00]: Africa's growth was more volatile and less predictable.
+
+137
+00:16:49,509 --> 00:16:56,694
+[SPEAKER_00]: From 2020, when there was bipolarity, Africa's growth was higher, more predictable.
+
+138
+00:16:58,854 --> 00:17:00,755
+[SPEAKER_00]: Now we are going into multi-polarity.
+
+139
+00:17:01,735 --> 00:17:04,116
+[SPEAKER_00]: That high growth trend still continues.
+
+140
+00:17:05,777 --> 00:17:14,060
+[SPEAKER_00]: I don't want to draw conclusions, because this is not, I didn't include the questions, so I cannot be saying that this costs that here.
+
+141
+00:17:14,981 --> 00:17:28,066
+[SPEAKER_00]: Now, but one thing we have not done so well in all the era, go forward, next slide, in all the era, what we have not done so well in is that the distribution of growth dividends is not happening on the continent.
+
+142
+00:17:28,450 --> 00:17:35,316
+[SPEAKER_00]: The growth is not inclusive, it's jobless, structural transformation is uneven and not happening properly.
+
+143
+00:17:35,696 --> 00:17:38,919
+[SPEAKER_00]: And because of that, we have poverty deepening.
+
+144
+00:17:39,019 --> 00:17:40,580
+[SPEAKER_00]: Why do you think the growth is going up?
+
+145
+00:17:41,341 --> 00:17:42,482
+[SPEAKER_00]: Which is a paradox.
+
+146
+00:17:42,602 --> 00:17:43,823
+[SPEAKER_00]: We need to change that.
+
+147
+00:17:44,183 --> 00:17:49,988
+[SPEAKER_00]: And that is why President Sidi Otaf focuses his four cardinal funds on job creation.
+
+148
+00:17:50,549 --> 00:17:55,693
+[SPEAKER_00]: Everything, the indicator is how we create jobs for youth on the continent.
+
+149
+00:17:56,810 --> 00:17:59,111
+[SPEAKER_00]: That is a solution for us to implement.
+
+150
+00:17:59,851 --> 00:18:08,253
+[SPEAKER_00]: Now if you go to the next slide, when you look at all the other macroeconomic indicators, you will find the same trend I have described.
+
+151
+00:18:08,433 --> 00:18:11,234
+[SPEAKER_00]: And because of time, I'm not going to go through all of them.
+
+152
+00:18:11,394 --> 00:18:14,715
+[SPEAKER_00]: Next slide as well.
+
+153
+00:18:14,735 --> 00:18:15,395
+[SPEAKER_00]: And next slide.
+
+154
+00:18:16,476 --> 00:18:25,098
+[SPEAKER_00]: So when you look at the downside risks to Africa's growth, from where we sit, a lot of these downside risks to Africa's growth
+
+155
+00:18:25,970 --> 00:18:26,651
+[SPEAKER_00]: are exogenous.
+
+156
+00:18:27,872 --> 00:18:33,216
+[SPEAKER_00]: Some of them are internal, but most of them are actually exogenous.
+
+157
+00:18:33,697 --> 00:18:39,522
+[SPEAKER_00]: I'm not going to go through all of them as well, because you will get that as a presentation.
+
+158
+00:18:40,062 --> 00:18:41,223
+[SPEAKER_00]: Let's go to the next slide.
+
+159
+00:18:41,984 --> 00:18:54,294
+[SPEAKER_00]: So here now, focusing, if you agree with me that as economists we focus on the financing and the military and other things, and the politics and other things, Africa needs huge resources.
+
+160
+00:18:54,742 --> 00:19:01,548
+[SPEAKER_00]: to be able to drive that structural transformation we say we don't have, or achieve a sustainable development goals.
+
+161
+00:19:01,668 --> 00:19:02,549
+[SPEAKER_00]: Next slide, please.
+
+162
+00:19:03,209 --> 00:19:09,995
+[SPEAKER_00]: So for structural transformation, we need $402 billion as financing gap.
+
+163
+00:19:11,596 --> 00:19:18,722
+[SPEAKER_00]: Local commons like climate change, I'm not too good at biodiversity or others, other local commons challenges.
+
+164
+00:19:19,043 --> 00:19:20,844
+[SPEAKER_00]: We need $213.4 billion annually.
+
+165
+00:19:23,222 --> 00:19:27,164
+[SPEAKER_00]: To achieve the SDGs, we need $1.3 trillion annually.
+
+166
+00:19:27,945 --> 00:19:35,729
+[SPEAKER_00]: So in thinking of this, next slide, I then thought that the best way to address this question is to look at Africa's fiscal capacity.
+
+167
+00:19:36,269 --> 00:19:43,413
+[SPEAKER_00]: What's our capacity to mobilize revenue internally or externally to address these financing gaps?
+
+168
+00:19:43,793 --> 00:19:47,255
+[SPEAKER_00]: What's our capacity to actually spend efficiently?
+
+169
+00:19:47,656 --> 00:19:51,518
+[SPEAKER_00]: Because it's not only about mobilization, it's also about expenditure, and
+
+170
+00:19:52,386 --> 00:19:55,887
+[SPEAKER_00]: How are we dealing with debt sustainability on the continent?
+
+171
+00:19:56,347 --> 00:19:59,368
+[SPEAKER_00]: So I will go through these things quickly because of time.
+
+172
+00:19:59,548 --> 00:20:00,128
+[SPEAKER_00]: Next slide.
+
+173
+00:20:01,549 --> 00:20:02,289
+[SPEAKER_00]: And next slide.
+
+174
+00:20:03,189 --> 00:20:08,331
+[SPEAKER_00]: On regular mobilization, we see that the continent is performing well in nominal terms.
+
+175
+00:20:08,431 --> 00:20:15,533
+[SPEAKER_00]: And as economists, I want to sound the warning here, because that misleads us in terms of political narratives.
+
+176
+00:20:16,453 --> 00:20:19,174
+[SPEAKER_00]: When we look at this graph, you see, oh,
+
+177
+00:20:19,594 --> 00:20:21,715
+[SPEAKER_00]: The continent has done well in tax revenue.
+
+178
+00:20:21,775 --> 00:20:33,380
+[SPEAKER_00]: It has increased from about $145.7 billion in 2022 to about almost $600 billion in 2012.
+
+179
+00:20:33,800 --> 00:20:40,582
+[SPEAKER_00]: In 2012, 2002 to 2022, it has increased almost $600 billion.
+
+180
+00:20:41,403 --> 00:20:46,265
+[SPEAKER_00]: But that story is not correct because tax productivity is not increasing.
+
+181
+00:20:47,205 --> 00:20:49,166
+[SPEAKER_00]: Our GDP is not, our tax
+
+182
+00:20:49,602 --> 00:20:54,827
+[SPEAKER_00]: collection is not growing at the pace of the growth in GDP of the continent.
+
+183
+00:20:55,167 --> 00:21:03,435
+[SPEAKER_00]: So that red line that we have there is telling us what the total fiscal revenue as a percentage of GDP, excluding grant schemes, is going down.
+
+184
+00:21:05,417 --> 00:21:12,243
+[SPEAKER_00]: So if you look then compared to what we are doing and what other regions are doing, Africa is on the next axis.
+
+185
+00:21:12,463 --> 00:21:15,426
+[SPEAKER_00]: Let's look at the last thing that you can find there.
+
+186
+00:21:15,818 --> 00:21:17,578
+[SPEAKER_00]: we are not doing as well as other regions.
+
+187
+00:21:17,618 --> 00:21:22,020
+[SPEAKER_00]: So even though we see a quantum nominal growth, the real growth is not happening.
+
+188
+00:21:22,980 --> 00:21:24,760
+[SPEAKER_00]: The same story in non-tax revenue.
+
+189
+00:21:24,960 --> 00:21:26,661
+[SPEAKER_00]: Go to non-tax, next slide.
+
+190
+00:21:27,561 --> 00:21:30,662
+[SPEAKER_00]: On non-tax revenue, we find the same story, the same logic.
+
+191
+00:21:31,822 --> 00:21:41,085
+[SPEAKER_00]: Again, we are doing not as well as other regions except for South Asia, that will manage to be almost double of what they are doing.
+
+192
+00:21:41,565 --> 00:21:44,406
+[SPEAKER_00]: Again, huge opportunities for us to do better.
+
+193
+00:21:44,726 --> 00:21:45,286
+[SPEAKER_00]: Next slide.
+
+194
+00:21:46,246 --> 00:21:58,635
+[SPEAKER_00]: And when you look at Africa's financial systems, it remains insufficient in being able to mobilize long-term capital at scale, whatever indicator you use to check that.
+
+195
+00:21:59,195 --> 00:22:07,961
+[SPEAKER_00]: Financial development index, gross savings, domestic credit to private sector, or private investment as a percentage of GDP.
+
+196
+00:22:08,422 --> 00:22:10,363
+[SPEAKER_00]: All of that, Africa is not doing well.
+
+197
+00:22:12,305 --> 00:22:14,246
+[SPEAKER_00]: Africa's footprint, next slide as well.
+
+198
+00:22:14,722 --> 00:22:21,267
+[SPEAKER_00]: Africa's footprint also in global capital markets remains disproportionately small.
+
+199
+00:22:21,507 --> 00:22:32,474
+[SPEAKER_00]: Our global share of assets on pension funds and sovereign wealth funds, you have to look very carefully on that Africa part of the slide to see what it is compared to the other regions.
+
+200
+00:22:32,815 --> 00:22:38,979
+[SPEAKER_00]: And our share of global capital markets is also very, very small, as you can see in all these percentages.
+
+201
+00:22:39,419 --> 00:22:40,720
+[SPEAKER_00]: I'm leaving the presentation.
+
+202
+00:22:40,860 --> 00:22:43,222
+[SPEAKER_00]: I might speak in points, so I'm not going to delve into details.
+
+203
+00:22:44,042 --> 00:22:44,743
+[SPEAKER_00]: for some time.
+
+204
+00:22:45,443 --> 00:22:46,464
+[SPEAKER_00]: But I missed this.
+
+205
+00:22:46,564 --> 00:22:47,725
+[SPEAKER_00]: Next slide.
+
+206
+00:22:48,266 --> 00:22:49,167
+[SPEAKER_00]: I missed all this.
+
+207
+00:22:49,267 --> 00:22:59,236
+[SPEAKER_00]: We find that what we always depend on, normally when we talk about development financing in Africa, our mind goes to external financing.
+
+208
+00:23:00,017 --> 00:23:01,678
+[SPEAKER_00]: But that has always been volatile.
+
+209
+00:23:02,159 --> 00:23:05,782
+[SPEAKER_00]: That has always been declining and will continue to
+
+210
+00:23:08,310 --> 00:23:21,398
+[SPEAKER_00]: So sometimes you find that because of portfolio flow changes, we say FDI and external flows has increased, but these are just exchange rate effects of commodity price effects that drive some of these things.
+
+211
+00:23:22,118 --> 00:23:28,161
+[SPEAKER_00]: Now, ODA, you have heard from OECD, has declined significantly last year.
+
+212
+00:23:28,622 --> 00:23:35,866
+[SPEAKER_00]: Our own estimate was even smaller than what we got, but they have more robust database than ours.
+
+213
+00:23:36,310 --> 00:23:43,352
+[SPEAKER_00]: But the point is, it's declining from the major development assistance donors that we have had before.
+
+214
+00:23:43,872 --> 00:23:55,375
+[SPEAKER_00]: And the issue of multi-polarity is a key center of it, because when a country needs to invest in security in order to secure its borders, all tourism will take a back seat.
+
+215
+00:23:56,496 --> 00:24:03,638
+[SPEAKER_00]: So we need to think about all these as we think about strengthening our own financing agency in this multi-polar world.
+
+216
+00:24:04,138 --> 00:24:04,638
+[SPEAKER_00]: Next slide.
+
+217
+00:24:05,446 --> 00:24:18,713
+[SPEAKER_00]: And on this slide, next slide, on this slide is what really keeps me awake at night most times, because Africa seems to be sitting on, not seem to, but is sitting on board and making for money.
+
+218
+00:24:19,954 --> 00:24:35,022
+[SPEAKER_00]: Africa has all the resources that you require to be able to mobilize capital at scale, and it's not rocket science, if I have to say, to be able to turn these things into assets.
+
+219
+00:24:35,342 --> 00:25:03,198
+[SPEAKER_00]: development every region will look at huge natural resources in all industrial revolutions we were at the center i call africa the treasure trove of resources for development what we remain for first industrial revolution just one check second third we're not in default africa is there if we come to defeat africa will be the dominant source and no wonder
+
+220
+00:25:03,782 --> 00:25:08,645
+[SPEAKER_00]: Smart people are interested in investing in Africa and in partnering with Africa.
+
+221
+00:25:09,425 --> 00:25:12,787
+[SPEAKER_00]: But Africans, are we interested in investing in our own resources?
+
+222
+00:25:13,567 --> 00:25:16,869
+[SPEAKER_00]: Just look at our sovereign wealth funds and where we're investing.
+
+223
+00:25:18,270 --> 00:25:21,692
+[SPEAKER_00]: So all these resources, I don't need to mention them in detail.
+
+224
+00:25:21,852 --> 00:25:24,093
+[SPEAKER_00]: We have all those data.
+
+225
+00:25:24,473 --> 00:25:26,534
+[SPEAKER_00]: And scale of informality, next slide.
+
+226
+00:25:26,935 --> 00:25:32,738
+[SPEAKER_00]: And scale of informality becomes another middle problem that just dwarfs
+
+227
+00:25:33,282 --> 00:25:38,546
+[SPEAKER_00]: our domestic revenue mobilization capacity, up to 60% in some countries.
+
+228
+00:25:38,967 --> 00:25:46,953
+[SPEAKER_00]: But again, we will come to what we need to do, because like I said in the earlier session, I'd like to focus more on the solutions.
+
+229
+00:25:47,434 --> 00:25:48,575
+[SPEAKER_00]: So what are the challenges?
+
+230
+00:25:48,755 --> 00:25:51,837
+[SPEAKER_00]: Why is this the case that we're sitting on the road and begging for money?
+
+231
+00:25:52,137 --> 00:25:52,838
+[SPEAKER_00]: Next slide.
+
+232
+00:25:53,579 --> 00:26:02,466
+[SPEAKER_00]: Next slide here, we have a very narrow and uneven tax base, significant compliance gaps and revenue leakages for obvious reasons.
+
+233
+00:26:02,882 --> 00:26:03,822
+[SPEAKER_00]: We will come to that.
+
+234
+00:26:04,223 --> 00:26:16,547
+[SPEAKER_00]: Complex tax procedures and administrative discretion, inefficient tax expenditure, and digital and institutional constraints, sometimes we are still using technologies of 1993.
+
+235
+00:26:17,108 --> 00:26:24,571
+[SPEAKER_00]: Even in our measurement of our GDP, if you go to the systems of national accounts in many African countries, it's as good as 1963.
+
+236
+00:26:26,992 --> 00:26:32,714
+[SPEAKER_00]: Okay, exposure to illicit financial flows with taxpayer trust and other accountability systems.
+
+237
+00:26:33,438 --> 00:26:38,763
+[SPEAKER_00]: Now, how are we doing with the other side of fiscal sustainability on debt?
+
+238
+00:26:39,103 --> 00:26:39,703
+[SPEAKER_00]: Next slide.
+
+239
+00:26:40,504 --> 00:26:43,046
+[SPEAKER_00]: Again, I will go through this very quickly.
+
+240
+00:26:43,246 --> 00:26:47,170
+[SPEAKER_00]: I wrote a full brief data on this, which is circulating online.
+
+241
+00:26:47,190 --> 00:26:49,312
+[SPEAKER_00]: If you'd like, you can read that in detail.
+
+242
+00:26:49,692 --> 00:26:50,272
+[SPEAKER_00]: Next slide.
+
+243
+00:26:51,413 --> 00:27:01,522
+[SPEAKER_00]: Here, we have a challenge that even when we are reducing the total debt to GDP ratios, as we are seeing currently on the continent,
+
+244
+00:27:02,830 --> 00:27:04,751
+[SPEAKER_00]: our debt vulnerability is still increasing.
+
+245
+00:27:05,131 --> 00:27:12,914
+[SPEAKER_00]: Because of the structure of debt, this is becoming more non-concessional, more domestic, and more commercial debt.
+
+246
+00:27:13,634 --> 00:27:20,977
+[SPEAKER_00]: And these non-concessional domestic and commercial debt are shorter term, higher cost, and often more opaque.
+
+247
+00:27:21,518 --> 00:27:24,739
+[SPEAKER_00]: And that comes with debt refinancing challenges.
+
+248
+00:27:25,139 --> 00:27:25,979
+[SPEAKER_00]: Next slide, please.
+
+249
+00:27:26,760 --> 00:27:32,022
+[SPEAKER_00]: In this next slide, we can see what that means for the cost of debt for the continent.
+
+250
+00:27:32,434 --> 00:27:42,418
+[SPEAKER_00]: And you can see 31% of this continent's total fiscal capacity in terms of domestic revenue mobilized is being used for debt servicing.
+
+251
+00:27:42,958 --> 00:27:51,302
+[SPEAKER_00]: Over 87 billion in every year since 2022 is for debt, interest rates payments only.
+
+252
+00:27:52,002 --> 00:28:00,946
+[SPEAKER_00]: And that's taking resources away from fiscal sovereignty in terms of being able to finance education and health and other things.
+
+253
+00:28:01,534 --> 00:28:02,395
+[SPEAKER_00]: Next slide, please.
+
+254
+00:28:03,015 --> 00:28:06,457
+[SPEAKER_00]: And one of the reasons for this is not because we are borrowing more than others.
+
+255
+00:28:06,997 --> 00:28:11,420
+[SPEAKER_00]: It is because debt productivity on the continent needs attention.
+
+256
+00:28:12,200 --> 00:28:18,484
+[SPEAKER_00]: Here, we see that public debt and productivity has an inverse relationship in Africa.
+
+257
+00:28:19,064 --> 00:28:21,505
+[SPEAKER_00]: The more we borrow, the less productive we become.
+
+258
+00:28:22,026 --> 00:28:27,649
+[SPEAKER_00]: All to the fact that countries increasing debt to GDP ratio by up to 1%
+
+259
+00:28:30,166 --> 00:28:37,111
+[SPEAKER_00]: can lead to 4.9% decrease in labor productivity and 4.6% decline in total factor productivity.
+
+260
+00:28:37,711 --> 00:28:39,152
+[SPEAKER_00]: This raises huge questions.
+
+261
+00:28:39,592 --> 00:28:48,298
+[SPEAKER_00]: And when we try to look inwards, we see that the reason is that the public investment financing efficiency in Africa is too bad.
+
+262
+00:28:48,899 --> 00:28:53,301
+[SPEAKER_00]: 41% inefficiency in the public expenditure pattern.
+
+263
+00:28:53,622 --> 00:28:59,926
+[SPEAKER_00]: We talked about three things on fiscal capacity, resource mobilization, debt management, and resource use.
+
+264
+00:29:01,170 --> 00:29:08,034
+[SPEAKER_00]: Our resource mobilization is low, our debt management has challenges, and our resource use is deplorable.
+
+265
+00:29:11,076 --> 00:29:13,357
+[SPEAKER_00]: Do we have financial sovereignty?
+
+266
+00:29:14,578 --> 00:29:15,418
+[SPEAKER_00]: Answer the question.
+
+267
+00:29:15,898 --> 00:29:20,881
+[SPEAKER_00]: Now, when we go to the next slide, we see where these things come together.
+
+268
+00:29:21,061 --> 00:29:25,844
+[SPEAKER_00]: Because it's not only African problem, it's actually the global financing system.
+
+269
+00:29:26,665 --> 00:29:28,886
+[SPEAKER_00]: Because the ratings that we get,
+
+270
+00:29:29,650 --> 00:29:34,253
+[SPEAKER_00]: It's not biased to Africa alone, it's actually biased against the poor.
+
+271
+00:29:35,433 --> 00:29:39,996
+[SPEAKER_00]: The lower your GDP per capita, the poorer you are rated.
+
+272
+00:29:40,676 --> 00:29:42,677
+[SPEAKER_00]: That's the graph on the right, data speaking.
+
+273
+00:29:44,138 --> 00:29:51,322
+[SPEAKER_00]: And the graph below is the public finance efficiency gap that I talked about.
+
+274
+00:29:51,422 --> 00:29:58,125
+[SPEAKER_00]: At 41% in Africa, 1% in Europe and Western Asia, but average of 14% globally.
+
+275
+00:29:59,670 --> 00:30:00,411
+[SPEAKER_00]: What are we doing?
+
+276
+00:30:01,151 --> 00:30:23,270
+[SPEAKER_00]: It means that even if we mobilize more capital, and DTA, with NAFTA, which the president and yourself is championing, if we mobilize all those capital and we don't address the systemic issues in our economic policy management, public finance management, and other things, then 41% of that does not go to capital implementation.
+
+277
+00:30:24,031 --> 00:30:24,651
+[SPEAKER_00]: That's too bad.
+
+278
+00:30:26,073 --> 00:30:27,494
+[SPEAKER_00]: Okay, so next slide.
+
+279
+00:30:28,162 --> 00:30:35,887
+[SPEAKER_00]: So we have a very new utilization problem that we need to address if we are serious about financial solvents.
+
+280
+00:30:36,307 --> 00:30:42,190
+[SPEAKER_00]: And on this next slide, I just use one slide to show how that's a problem.
+
+281
+00:30:42,311 --> 00:30:51,576
+[SPEAKER_00]: And I call it financial leakage, which is a symptom of poor regulation, corruption, wrong perceptions, and several things.
+
+282
+00:30:52,156 --> 00:30:54,578
+[SPEAKER_00]: So risk, poor risk perception.
+
+283
+00:30:54,962 --> 00:31:00,847
+[SPEAKER_00]: In our debt architecture, it's costing the continent about $74 billion annually.
+
+284
+00:31:00,907 --> 00:31:04,070
+[SPEAKER_00]: ABC financial flows, about $90 billion annually.
+
+285
+00:31:05,050 --> 00:31:07,753
+[SPEAKER_00]: Corruption, $148 billion annually.
+
+286
+00:31:08,994 --> 00:31:12,737
+[SPEAKER_00]: International profit shifting, $275 billion annually.
+
+287
+00:31:13,337 --> 00:31:15,659
+[SPEAKER_00]: In total, this is almost $587 billion.
+
+288
+00:31:15,719 --> 00:31:18,322
+[SPEAKER_00]: We did this in 2022.
+
+289
+00:31:18,382 --> 00:31:22,285
+[SPEAKER_00]: It might have increased, but declined, I hope.
+
+290
+00:31:24,030 --> 00:31:33,016
+[SPEAKER_00]: Even last year, public finance investment in efficiencies is costing the continent about $299 billion annually.
+
+291
+00:31:33,636 --> 00:31:42,742
+[SPEAKER_00]: If you do all these sums, we're almost reaching that 1.3 trillion we need for meeting all the stages.
+
+292
+00:31:44,063 --> 00:31:49,006
+[SPEAKER_00]: But the good news is, next slide, we have all these challenges, but
+
+293
+00:31:49,806 --> 00:31:57,988
+[SPEAKER_00]: are the news head rooms in our own domestic revenue mobilization capacity to address them without increasing tax rate.
+
+294
+00:31:58,929 --> 00:31:59,529
+[SPEAKER_00]: Next slide.
+
+295
+00:32:00,369 --> 00:32:12,792
+[SPEAKER_00]: And here is just mapping the sources of those revenues that could come just by countries adopting best practices in tax revenue mobilization and non-tax revenue mobilization systems.
+
+296
+00:32:13,353 --> 00:32:15,633
+[SPEAKER_00]: We have up to $469.4 billion in tax revenue
+
+297
+00:32:18,846 --> 00:32:25,988
+[SPEAKER_00]: that can be mobilized without increasing tax rates, and over 311.6 billion from non-tax revenue.
+
+298
+00:32:26,608 --> 00:32:35,691
+[SPEAKER_00]: If you read our EU report 2026, you will see the nitty-gritties of where these revenues can come from and how it can be mobilized.
+
+299
+00:32:36,511 --> 00:32:43,193
+[SPEAKER_00]: And we have additional revenues, next slide, that can be mobilized from our diasporans.
+
+300
+00:32:43,493 --> 00:32:46,374
+[SPEAKER_00]: I think I see my sister from ADN here.
+
+301
+00:32:47,486 --> 00:32:50,947
+[SPEAKER_00]: And she can tell you the conversations that we've been having with the African diaspora.
+
+302
+00:32:50,967 --> 00:32:55,488
+[SPEAKER_00]: These people are hungry to invest on the continent, only if we have the right instruments.
+
+303
+00:32:55,988 --> 00:32:58,749
+[SPEAKER_00]: And they demonstrate that hunger through remittances.
+
+304
+00:32:59,069 --> 00:33:07,012
+[SPEAKER_00]: And remittances alone generated in 2020 $404.6 billion, far much more than FDI.
+
+305
+00:33:08,432 --> 00:33:15,174
+[SPEAKER_00]: It's actually about 33% of Africa's revenue inflows, fiscal inflows in that year.
+
+306
+00:33:16,130 --> 00:33:34,040
+[SPEAKER_00]: But what policies do we have in our countries to actually securitize these revenues, to reduce the costs of transfers, to strengthen their reliability and channel them to investments so that it's not just about sending money to take somebody to a hospital or for consumption scrutiny.
+
+307
+00:33:34,801 --> 00:33:41,905
+[SPEAKER_00]: If we did that, we can be able to raise this revenue source to over $1.1 billion by 2050.
+
+308
+00:33:42,905 --> 00:33:43,686
+[SPEAKER_00]: The money is there.
+
+309
+00:33:44,838 --> 00:33:58,328
+[SPEAKER_00]: Other sources of potential revenue, the president of the bank always talks about this one, $4 trillion of assets under management in Africa's pension funds, banks, insurance, and several other things.
+
+310
+00:33:58,688 --> 00:34:05,453
+[SPEAKER_00]: This is the basis for which NAFAT was created, the New African Financing Architecture for Development.
+
+311
+00:34:05,793 --> 00:34:12,458
+[SPEAKER_00]: Because he found that fragmentation, lack of complementarity, lack of cooperation, and smart risk mitigation
+
+312
+00:34:13,054 --> 00:34:16,997
+[SPEAKER_00]: are the roots of why these things are not going into Africa.
+
+313
+00:34:17,157 --> 00:34:24,142
+[SPEAKER_00]: Out of this $4 trillion, only 2.7% are being invested in capital accumulation on the continent.
+
+314
+00:34:24,602 --> 00:34:25,743
+[SPEAKER_00]: Can we just double that?
+
+315
+00:34:26,744 --> 00:34:28,966
+[SPEAKER_00]: We're almost achieving that thing that we're talking about.
+
+316
+00:34:28,986 --> 00:34:32,148
+[SPEAKER_00]: But we have also, please go, next slide.
+
+317
+00:34:32,348 --> 00:34:33,469
+[SPEAKER_00]: I'm already on the next line.
+
+318
+00:34:33,889 --> 00:34:39,713
+[SPEAKER_00]: And you have high net worth individuals in Africa controlling $2.5 trillion as of 2025.
+
+319
+00:34:41,254 --> 00:34:53,758
+[SPEAKER_00]: African philanthropies, 2.7 trillion dollars, and so on and so forth, that we can generate by implementing the right policies.
+
+320
+00:34:54,018 --> 00:35:07,702
+[SPEAKER_00]: And this is why the African Chief Economist Network includes yourselves, my brother, advisors to heads of states, advisors to ministries of finance, prime ministers,
+
+321
+00:35:08,054 --> 00:35:19,739
+[SPEAKER_00]: central bank governments, the people that make those decisions, so that we can actually wake up and do the needful to mobilize what we have to do what we need.
+
+322
+00:35:19,899 --> 00:35:24,901
+[SPEAKER_00]: Last year, we focused on making Africa's capital work better for Africa's development.
+
+323
+00:35:25,882 --> 00:35:27,482
+[SPEAKER_00]: So what are the pathways for doing this?
+
+324
+00:35:27,502 --> 00:35:28,243
+[SPEAKER_00]: Next slide, please.
+
+325
+00:35:29,543 --> 00:35:36,186
+[SPEAKER_00]: The pathways for doing this, if you go to next slide, we have very simple, regular,
+
+326
+00:35:36,566 --> 00:35:41,008
+[SPEAKER_00]: Whenever you read anything on Africa's development, you will see some of these things.
+
+327
+00:35:41,568 --> 00:35:42,789
+[SPEAKER_00]: But there are the keys.
+
+328
+00:35:43,549 --> 00:35:50,472
+[SPEAKER_00]: The longer we ignore them, the more we keep talking about Africa's sovereignty and not having it.
+
+329
+00:35:50,812 --> 00:35:52,312
+[SPEAKER_00]: We need to strengthen institutions.
+
+330
+00:35:53,273 --> 00:35:54,113
+[SPEAKER_00]: The rule of law.
+
+331
+00:35:54,853 --> 00:35:59,275
+[SPEAKER_00]: We need to increase transparency and accountability and interoperability of our systems.
+
+332
+00:35:59,855 --> 00:36:03,197
+[SPEAKER_00]: We need to address corruption and reduce leakages in our systems.
+
+333
+00:36:03,557 --> 00:36:06,258
+[SPEAKER_00]: We need to improve our public investment efficiency.
+
+334
+00:36:06,678 --> 00:36:08,459
+[SPEAKER_00]: We need to invest in human capital.
+
+335
+00:36:08,819 --> 00:36:15,744
+[SPEAKER_00]: We need to digitize our public finance management systems, improve factor productivity, improve public service delivery.
+
+336
+00:36:16,164 --> 00:36:25,851
+[SPEAKER_00]: When we do all of this, our research shows that we will increase and strengthen the social contract between citizens and governments, and they will voluntarily pay the taxes.
+
+337
+00:36:26,511 --> 00:36:35,918
+[SPEAKER_00]: So that's something billion that is not accessed by governments today can be accessible if we did all this.
+
+338
+00:36:36,910 --> 00:36:49,577
+[SPEAKER_00]: And because that will help to reduce the implicit tax burden, and my colleagues from the Global Economist Network, whenever I see the tax to GDP ratio reported in Africa, I cringe a little bit.
+
+339
+00:36:50,018 --> 00:36:54,780
+[SPEAKER_00]: Because living in the UK, I know that when I pay tax, I pay tax.
+
+340
+00:36:55,701 --> 00:37:00,444
+[SPEAKER_00]: But living in Africa, I pay tax and I pay tax twice.
+
+341
+00:37:01,124 --> 00:37:04,146
+[SPEAKER_00]: Because there is an implicit tax burden I have to bear.
+
+342
+00:37:04,694 --> 00:37:13,840
+[SPEAKER_00]: Because you have to provide your own security, provide your own water system, provide your own sometimes boats, provide your own electricity.
+
+343
+00:37:14,721 --> 00:37:20,044
+[SPEAKER_00]: And all these things that are best done by public service at scale, you still do it privately.
+
+344
+00:37:20,305 --> 00:37:22,046
+[SPEAKER_00]: So that's an increasing tax already.
+
+345
+00:37:22,846 --> 00:37:28,310
+[SPEAKER_00]: So we need to reduce those things by actually delivering on public services.
+
+346
+00:37:28,670 --> 00:37:34,853
+[SPEAKER_00]: And that is why the African Development Bank Group has come up with a public service delivery index to help measure those.
+
+347
+00:37:35,553 --> 00:37:39,094
+[SPEAKER_00]: And the next slide is just to show you that this is not my talking.
+
+348
+00:37:39,454 --> 00:37:41,295
+[SPEAKER_00]: This is actually African speaking.
+
+349
+00:37:41,795 --> 00:37:56,201
+[SPEAKER_00]: Here is from surveys showing that citizens are willing to pay higher taxes if only we can show the relationship between taxation and public service.
+
+350
+00:37:56,761 --> 00:37:58,262
+[SPEAKER_00]: If we can simplify the tax
+
+351
+00:37:58,686 --> 00:38:05,929
+[SPEAKER_00]: administration system, and efficient tax administration, fiscal governance, and prudence in that, and so on and so forth.
+
+352
+00:38:06,169 --> 00:38:10,251
+[SPEAKER_00]: If we did some of those things, we would be able to mobilize those resources better.
+
+353
+00:38:10,711 --> 00:38:11,291
+[SPEAKER_00]: Next slide.
+
+354
+00:38:12,071 --> 00:38:12,932
+[SPEAKER_00]: Regional trends.
+
+355
+00:38:13,272 --> 00:38:23,016
+[SPEAKER_00]: If you look at our public finance management effectiveness in terms of budget transparency, credibility, and so on, it's a problem on the continent.
+
+356
+00:38:23,396 --> 00:38:24,837
+[SPEAKER_00]: That speaks for itself.
+
+357
+00:38:25,137 --> 00:38:25,697
+[SPEAKER_00]: Next slide.
+
+358
+00:38:26,017 --> 00:38:27,998
+[SPEAKER_00]: Digitization is also
+
+359
+00:38:28,734 --> 00:38:44,138
+[SPEAKER_00]: Another issue, increasingly, we see that this actually delivers the highest dividend in many countries, because the more you digitize, you make transparency composite somehow, and then it has to increase public investment efficiency and so on.
+
+360
+00:38:44,519 --> 00:38:56,682
+[SPEAKER_00]: But in doing so, there's need for sequencing, because also we make mistakes as economists, because we read in the textbooks about subsidy removal, for example, because we discussed it.
+
+361
+00:38:57,194 --> 00:39:00,196
+[SPEAKER_00]: And then we can go and say it is important to remove the subsidies.
+
+362
+00:39:00,536 --> 00:39:02,597
+[SPEAKER_00]: But where is the country at that level?
+
+363
+00:39:03,037 --> 00:39:06,319
+[SPEAKER_00]: Is it a system that you remove the subsidies and you feed corruption?
+
+364
+00:39:07,020 --> 00:39:13,023
+[SPEAKER_00]: Or is it a system that you remove the subsidies and it goes into public investments that will lead to productivity?
+
+365
+00:39:13,323 --> 00:39:15,304
+[SPEAKER_00]: So we need to consider all the contexts.
+
+366
+00:39:15,604 --> 00:39:20,607
+[SPEAKER_00]: So we need to have a sequenced approach to these physical reforms to make it work.
+
+367
+00:39:20,847 --> 00:39:23,449
+[SPEAKER_00]: When you get a PowerPoint, you look at the specificities of that.
+
+368
+00:39:24,209 --> 00:39:25,410
+[SPEAKER_00]: Next slide here.
+
+369
+00:39:26,154 --> 00:39:28,335
+[SPEAKER_00]: It's also about leveraging private capital.
+
+370
+00:39:28,796 --> 00:39:35,159
+[SPEAKER_00]: And just one key thing came out of our research, strong and predictable regulatory frameworks is key.
+
+371
+00:39:35,339 --> 00:39:41,142
+[SPEAKER_00]: If we don't have that, we can talk about private sector coming to the rescue, and they will all only be on the run.
+
+372
+00:39:41,823 --> 00:39:43,504
+[SPEAKER_00]: Improving economic governance.
+
+373
+00:39:43,784 --> 00:39:44,624
+[SPEAKER_00]: Please, next slide.
+
+374
+00:39:45,705 --> 00:39:46,385
+[SPEAKER_00]: And next slide.
+
+375
+00:39:46,885 --> 00:39:50,187
+[SPEAKER_00]: Improving economic governance creates a virtual site.
+
+376
+00:39:50,767 --> 00:39:55,410
+[SPEAKER_00]: Whatever we do, we have to combat the macroeconomic stability, because if we don't have it,
+
+377
+00:39:56,050 --> 00:39:56,970
+[SPEAKER_00]: Every other thing doesn't work.
+
+378
+00:39:57,790 --> 00:40:05,693
+[SPEAKER_00]: And if you look at our anyway, you see the reforms to improving economic governance by the country.
+
+379
+00:40:06,673 --> 00:40:11,534
+[SPEAKER_00]: All of this is on one side in terms of increasing the macroeconomic policy environment.
+
+380
+00:40:11,554 --> 00:40:20,076
+[SPEAKER_00]: The second thing that needs to be done is NAFAD, the new African financing architecture for development in Africa.
+
+381
+00:40:20,136 --> 00:40:20,677
+[SPEAKER_00]: Next slide.
+
+382
+00:40:21,217 --> 00:40:25,758
+[SPEAKER_00]: And this is just about how to bring together better coordination
+
+383
+00:40:26,346 --> 00:40:33,349
+[SPEAKER_00]: better subsidiarity, complementarity, and disciplinary transformation amongst our financial institutions.
+
+384
+00:40:34,029 --> 00:40:48,055
+[SPEAKER_00]: Because we have shallow markets, small banks, and each one of us trying to do, and I think you used an approver to demonstrate how working alone cannot achieve anything.
+
+385
+00:40:48,435 --> 00:40:50,656
+[SPEAKER_00]: So this is what NACRA has come to do for us.
+
+386
+00:40:51,257 --> 00:40:51,837
+[SPEAKER_00]: Next slide.
+
+387
+00:40:52,537 --> 00:40:54,558
+[SPEAKER_00]: What are the policy recommendations we have?
+
+388
+00:40:55,078 --> 00:40:58,300
+[SPEAKER_00]: I'm not going to go into details on it because time is fast spent.
+
+389
+00:40:58,761 --> 00:41:01,023
+[SPEAKER_00]: We need to focus on macroeconomic stability.
+
+390
+00:41:01,123 --> 00:41:02,464
+[SPEAKER_00]: Next slide, please.
+
+391
+00:41:02,824 --> 00:41:08,728
+[SPEAKER_00]: We need to focus on macroeconomic stability, risk mitigation, and regional integration in the short term.
+
+392
+00:41:10,269 --> 00:41:21,658
+[SPEAKER_00]: And in the medium term, next slide, we need to focus on building the right institutions, structural reforms, resilient infrastructure, and innovative financing instruments.
+
+393
+00:41:22,098 --> 00:41:26,859
+[SPEAKER_00]: If we did this, we would be able to address some of the issues that we have been talking about.
+
+394
+00:41:27,180 --> 00:41:31,241
+[SPEAKER_00]: But above all, please let us implement the instruments we already have.
+
+395
+00:41:31,521 --> 00:41:40,704
+[SPEAKER_00]: The new African Financing Act for Development, the African Financing Stability Mechanism, the African Monetary Institute, and the ACLTA.
+
+396
+00:41:41,364 --> 00:41:43,104
+[SPEAKER_00]: These are not new instruments.
+
+397
+00:41:43,204 --> 00:41:46,785
+[SPEAKER_00]: They are instruments that have been adopted at high levels by Africans.
+
+398
+00:41:47,145 --> 00:41:48,886
+[SPEAKER_00]: But let us also allow our
+
+399
+00:41:49,366 --> 00:41:58,251
+[SPEAKER_00]: create instruments that allows our youths and women and diasporans not to be at the fringes of economic policy and development on the continent.
+
+400
+00:41:58,611 --> 00:42:00,112
+[SPEAKER_00]: That will help us to move forward.
+
+401
+00:42:00,512 --> 00:42:01,092
+[SPEAKER_00]: Next slide.
+
+402
+00:42:01,533 --> 00:42:18,862
+[SPEAKER_00]: Development partners like ourselves and all of you sitting here, we need to coordinate better in terms of how we actually provide policy advisory to the countries, but also we need to deepen our de-risking instruments to allow the private sector to come into help
+
+403
+00:42:19,242 --> 00:42:35,747
+[SPEAKER_00]: but focus on strengthening African national development funds, regional development funds, so that they can play their roles much better, even as we deploy innovative instruments like Islamic financing and climate financing and other things.
+
+404
+00:42:36,527 --> 00:42:39,148
+[SPEAKER_00]: In closing, closing words, please, next slide.
+
+405
+00:42:39,828 --> 00:42:46,070
+[SPEAKER_00]: In closing, I just go back to my German mentor, Einstein.
+
+406
+00:42:46,962 --> 00:42:51,665
+[SPEAKER_00]: In the middle of all these challenges we are talked about lies opportunities.
+
+407
+00:42:52,285 --> 00:42:58,229
+[SPEAKER_00]: And that opportunity for us is so huge today and the time window is fast changing.
+
+408
+00:42:58,709 --> 00:43:08,155
+[SPEAKER_00]: If we keep silent until the global financial architecture is created in this new multi-polar world, we will remain on the menu as we have been before.
+
+409
+00:43:08,875 --> 00:43:12,477
+[SPEAKER_00]: And we cannot use an old map to explore the new world.
+
+410
+00:43:13,158 --> 00:43:13,638
+[SPEAKER_00]: Therefore,
+
+411
+00:43:14,006 --> 00:43:18,987
+[SPEAKER_00]: This one includes the new instruments that has been developed so that we can move things forward.
+
+412
+00:43:19,508 --> 00:43:26,289
+[SPEAKER_00]: Again, NAFAD, AFSM, AMI, and Africa, ACFDA.
+
+413
+00:43:26,810 --> 00:43:31,471
+[SPEAKER_00]: With these things, we can go a long way to strengthening our financial sovereignty.
+
+414
+00:43:32,271 --> 00:43:43,214
+[SPEAKER_00]: And we have several publications on the next slide that you can take and read when you go home so that we can get a little bit more of what I just watched through.
+
+415
+00:43:43,574 --> 00:43:44,785
+[SPEAKER_00]: Thank you very much.
+

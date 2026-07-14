@@ -1,0 +1,1752 @@
+1
+00:00:01,674 --> 00:00:06,636
+[SPEAKER_05]: is often costly, volatile, and is subject to geopolitical shocks.
+
+2
+00:00:06,656 --> 00:00:13,219
+[SPEAKER_05]: Official government assistance is in sharp decline, now covering less than 5% of our current needs.
+
+3
+00:00:14,479 --> 00:00:18,461
+[SPEAKER_05]: Yet the story of scarcity is not our reality.
+
+4
+00:00:19,281 --> 00:00:22,423
+[SPEAKER_05]: The story is one of misallocated evidence.
+
+5
+00:00:23,083 --> 00:00:30,306
+[SPEAKER_05]: Our confidence holds nearly over $4 trillion in domestic international assets
+
+6
+00:00:30,950 --> 00:00:31,751
+[SPEAKER_05]: underutilized.
+
+7
+00:00:32,891 --> 00:00:51,724
+[SPEAKER_05]: However, due to structural and regulatory constraints, a staggering portion of this capital remains idle in low-yield investment or is invested outside of Africa, while we borrow back our own money at a premium.
+
+8
+00:00:52,845 --> 00:00:57,368
+[SPEAKER_05]: This panel is convenient to address this disconnect head-on.
+
+9
+00:00:58,669 --> 00:01:00,190
+[SPEAKER_05]: Our challenge is not
+
+10
+00:01:00,618 --> 00:01:06,682
+[SPEAKER_05]: the lack of capital, but the lack of efficient economies to channel it.
+
+11
+00:01:07,503 --> 00:01:16,329
+[SPEAKER_05]: Building deep, liquid and resilient local capital markets is therefore no longer a policy choice.
+
+12
+00:01:17,130 --> 00:01:22,313
+[SPEAKER_05]: It is an existential necessity for our economic sovereignty.
+
+13
+00:01:22,934 --> 00:01:28,197
+[SPEAKER_05]: So I'm very happy to have the different panelists here with me.
+
+14
+00:01:29,674 --> 00:01:40,123
+[SPEAKER_05]: Dr. Zefo Uleko, the Chief Economist and General Executive Director of the Strategy and Sustainability Institution of South Africa.
+
+15
+00:01:41,424 --> 00:01:55,036
+[SPEAKER_05]: We have here with us Mr. Philippe Grisoua, the Director of Market Development and Project Management at the PRVM, the PRVM, the Regional Global Market for Africa, for the West Africa.
+
+16
+00:01:55,056 --> 00:01:57,398
+[SPEAKER_05]: We have Dr. Thomas Neroniou,
+
+17
+00:01:57,762 --> 00:02:05,504
+[SPEAKER_05]: the chief economic and business director of information strategy and research at the French government agency.
+
+18
+00:02:06,064 --> 00:02:14,186
+[SPEAKER_05]: I have Dr. Marius Ashi, director of intelligence at Bloomfield Investment.
+
+19
+00:02:14,867 --> 00:02:27,470
+[SPEAKER_05]: I'm very happy to welcome you for this panel, and we may have Professor Augustus Nwagaba, deputy governor of the Bank of Uganda, who may join us at any time.
+
+20
+00:02:28,290 --> 00:02:48,567
+[SPEAKER_03]: Please, have a warm welcome to our panelists first, before we start this panel.
+
+21
+00:02:50,509 --> 00:02:55,273
+[SPEAKER_03]: Well, there's no, it doesn't seem like there's any French speaker there.
+
+22
+00:02:56,982 --> 00:02:58,342
+[SPEAKER_05]: pay us some attention.
+
+23
+00:02:59,263 --> 00:03:05,584
+[SPEAKER_05]: So now, I would like to start with Dr. Zef Nleko.
+
+24
+00:03:06,164 --> 00:03:17,107
+[SPEAKER_05]: We highlight the paradox of the nearly $4 trillion in domestic acquisition capital sitting dormant while we have a massive financing gap.
+
+25
+00:03:18,068 --> 00:03:26,390
+[SPEAKER_05]: As a leading national development bank, how come the DBSB and similar institutions practically
+
+26
+00:03:27,366 --> 00:03:30,128
+[SPEAKER_05]: Again, and good afternoon, everyone.
+
+27
+00:03:30,168 --> 00:03:33,030
+[SPEAKER_05]: It's a great pleasure to be here.
+
+28
+00:03:33,110 --> 00:03:36,353
+[SPEAKER_05]: Thank you for the invitation to the panel.
+
+29
+00:03:55,038 --> 00:04:04,403
+[SPEAKER_02]: It's a very important question that you raise in the context of the global order that is shifting.
+
+30
+00:04:05,584 --> 00:04:13,469
+[SPEAKER_02]: And in the spirit of agency, I'm not going to repeat the African capital market gaps here.
+
+31
+00:04:13,509 --> 00:04:22,994
+[SPEAKER_02]: I think we are all well aware of the fragmentation, the shallowness, the concentration of instruments at the short end of the curve.
+
+32
+00:04:23,766 --> 00:04:32,532
+[SPEAKER_02]: What I'd like to do is to focus precisely on practical roles that DFI should play in trying to close this gap.
+
+33
+00:04:33,793 --> 00:04:51,645
+[SPEAKER_02]: When I look at the monetary architecture, whether it's at global level or continental level or even national level, the conclusion I reach is that development finance institutions are grossly underutilized and
+
+34
+00:04:53,458 --> 00:05:00,202
+[SPEAKER_02]: There are three interventions that I would like to talk about that I think would try to improve it.
+
+35
+00:05:01,102 --> 00:05:07,086
+[SPEAKER_02]: And these are interventions that are in play and the argument here is that we need to amplify them.
+
+36
+00:05:08,026 --> 00:05:21,414
+[SPEAKER_02]: We are often told to dig outside the box to come up with new solutions but I think by not digging inside the box we miss the opportunity to use the constraints that we have to come up with
+
+37
+00:05:22,274 --> 00:05:23,715
+[SPEAKER_02]: very useful opportunities.
+
+38
+00:05:25,977 --> 00:05:33,904
+[SPEAKER_02]: So the first initiative that I think is amplified is building local currency capital markets.
+
+39
+00:05:34,024 --> 00:05:42,471
+[SPEAKER_02]: GFIs often issue these local currency instruments, thereby shifting foreign exchanges from worlds.
+
+40
+00:05:43,552 --> 00:05:50,778
+[SPEAKER_02]: And they validate domestic issuances and currently foreign and local participation if they do that.
+
+41
+00:05:51,586 --> 00:06:13,115
+[SPEAKER_02]: For that to work properly and for that to work in the long term, we definitely need efforts such as to make sure that there's critical support in terms of this credit bias that we're talking about, but also to enhance the local knowledge and context in the way that we make credit.
+
+42
+00:06:13,895 --> 00:06:20,138
+[SPEAKER_02]: So that's the first intervention that DFIs can amplify, building local currency and capital markets.
+
+43
+00:06:21,494 --> 00:06:34,518
+[SPEAKER_02]: that I want to emphasize is facilitating the setting up of rules that will demarcate infrastructure as a specific asset class for our institutional universities.
+
+44
+00:06:34,998 --> 00:06:44,520
+[SPEAKER_02]: Somebody was talking earlier here about how pension funds, for example, are given a threshold, but they only invest a fraction of that threshold.
+
+45
+00:06:45,420 --> 00:06:50,902
+[SPEAKER_02]: Now, to unlock this vast and tapped pools of local institutional capital,
+
+46
+00:06:51,878 --> 00:06:55,040
+[SPEAKER_02]: somebody was estimating that it's more than a trillion dollars.
+
+47
+00:06:56,461 --> 00:07:03,425
+[SPEAKER_02]: We need to make sure, one, that there is a properly prepared pipeline of projects.
+
+48
+00:07:03,525 --> 00:07:09,549
+[SPEAKER_02]: We often hear from these institutional investors that the capital is ready but the projects are nowhere to be found.
+
+49
+00:07:09,989 --> 00:07:12,691
+[SPEAKER_02]: So that's very important that two must go hand in hand.
+
+50
+00:07:12,711 --> 00:07:15,713
+[SPEAKER_02]: You can't just ask for the capital but there's no project.
+
+51
+00:07:16,273 --> 00:07:17,074
+[SPEAKER_02]: The second one,
+
+52
+00:07:17,718 --> 00:07:31,607
+[SPEAKER_02]: which we have argued and advocated a lot at the DPSA is that when these institutional investors pick up an infrastructure problem, they give it to the DFI to facilitate it.
+
+53
+00:07:32,388 --> 00:07:39,513
+[SPEAKER_02]: That must be in a targeted mandate manner in which the good capital and the DFI facilitate it.
+
+54
+00:07:39,893 --> 00:07:44,136
+[SPEAKER_02]: That mitigates this problem of lack of progress.
+
+55
+00:07:44,296 --> 00:07:46,978
+[SPEAKER_02]: The third and final one
+
+56
+00:07:48,086 --> 00:07:50,947
+[SPEAKER_02]: is the facilitation of transition finance.
+
+57
+00:07:53,087 --> 00:08:02,070
+[SPEAKER_02]: DFI's often supply this patient long-term capital for carbon-intensive markets or these are hard-to-update industries.
+
+58
+00:08:03,670 --> 00:08:14,393
+[SPEAKER_02]: And over the past two years, we've seen clearly how this transition finance can be unpredictable or it can shift within a few
+
+59
+00:08:17,694 --> 00:08:18,455
+[SPEAKER_02]: weeks even.
+
+60
+00:08:18,975 --> 00:08:39,329
+[SPEAKER_02]: So the idea of issuing these outcome-based instruments or impact-linked financial instruments serves to anchor that transition finance so the DFIs can then anchor that and issue that so that institutional investors can participate.
+
+61
+00:08:39,389 --> 00:08:42,391
+[SPEAKER_02]: So I'm saying these three things work.
+
+62
+00:08:43,531 --> 00:08:44,832
+[SPEAKER_02]: We need to amplify them.
+
+63
+00:08:45,253 --> 00:08:47,134
+[SPEAKER_02]: We don't have to always
+
+64
+00:08:47,702 --> 00:08:49,523
+[SPEAKER_02]: We look for new things.
+
+65
+00:08:49,584 --> 00:08:53,647
+[SPEAKER_02]: This way, how do we make sure that we find it?
+
+66
+00:08:55,128 --> 00:08:55,528
+[SPEAKER_05]: Thank you.
+
+67
+00:08:55,548 --> 00:08:58,150
+[SPEAKER_05]: I just have a follow-up question.
+
+68
+00:08:58,751 --> 00:09:17,246
+[SPEAKER_05]: As this instrument works in a current or in a setting that is mirroring a global way to design financial instrument and asset project and finance.
+
+69
+00:09:18,142 --> 00:09:33,586
+[SPEAKER_05]: Now, is there maybe a challenge that we should look at with how we adapt or design this instrument to fit more the characteristics of the elements of our different actors?
+
+70
+00:09:33,626 --> 00:09:38,668
+[SPEAKER_05]: To be talking about how we properly prepare pipeline projects.
+
+71
+00:09:38,748 --> 00:09:43,369
+[SPEAKER_05]: If you don't have this pipeline, you can properly prepare pipeline projects.
+
+72
+00:09:43,389 --> 00:09:47,170
+[SPEAKER_05]: But you have the means, you have the market, you have the means
+
+73
+00:09:47,690 --> 00:10:06,406
+[SPEAKER_05]: how do you work to enhance this project operation, so that we have the right of it, and how do you adapt the instruments so that we can find them, and we can accompany them, you know, so that they think they can have impact, and they can, you know, they are financially viable.
+
+74
+00:10:06,746 --> 00:10:07,807
+[SPEAKER_02]: Correct.
+
+75
+00:10:07,967 --> 00:10:15,574
+[SPEAKER_02]: So my sense is that, and it talks to the underutilization of TFRs that I spoke about, I think that our governments,
+
+76
+00:10:16,342 --> 00:10:24,710
+[SPEAKER_02]: they need to give the mandates openly to the DFIs to deal with the project population.
+
+77
+00:10:24,730 --> 00:10:29,855
+[SPEAKER_02]: Because DFIs have got the skills and DFIs have got the capability to deal with this.
+
+78
+00:10:29,895 --> 00:10:39,865
+[SPEAKER_02]: But over and above that, DFIs are able to bring in other participants at any stage of the project, not just financing.
+
+79
+00:10:41,790 --> 00:10:43,851
+[SPEAKER_02]: We need to deal with that.
+
+80
+00:10:44,111 --> 00:10:47,432
+[SPEAKER_02]: Not GFIs to come in as an afterthought.
+
+81
+00:10:48,092 --> 00:10:54,694
+[SPEAKER_02]: You set up your bank recovery policy and you don't embed the use of GFI in that policy.
+
+82
+00:10:55,094 --> 00:10:57,115
+[SPEAKER_02]: So I'm suggesting that you do that.
+
+83
+00:10:57,715 --> 00:11:02,557
+[SPEAKER_02]: The instruments, the processes and the facilities are there.
+
+84
+00:11:02,577 --> 00:11:03,637
+[SPEAKER_02]: GFIs have got them.
+
+85
+00:11:04,217 --> 00:11:06,258
+[SPEAKER_02]: So you just need to unleash them.
+
+86
+00:11:08,406 --> 00:11:09,307
+[SPEAKER_02]: Thank you very much.
+
+87
+00:11:09,487 --> 00:11:19,573
+[SPEAKER_05]: I'm going to turn it to Dr. Brizoua, the director of market development and project management at BRDM.
+
+88
+00:11:19,613 --> 00:11:23,435
+[SPEAKER_05]: Why don't you keep going on these financial lines?
+
+89
+00:11:24,096 --> 00:11:33,822
+[SPEAKER_05]: So we noted earlier that building integrated and deep-rooted modern markets is now an essential necessity for Africa and the Netherlands.
+
+90
+00:11:35,058 --> 00:11:43,140
+[SPEAKER_05]: The BRVN is a pure international integration to reverse the net financial outflow.
+
+91
+00:11:44,601 --> 00:12:02,526
+[SPEAKER_05]: What specific regulatory harmonization or technological financial instruments we must essentially prioritize to deepen our cross-border training and our catamaran ability.
+
+92
+00:12:05,534 --> 00:12:12,058
+[SPEAKER_00]: Thank you, dear moderator, for speaking in French.
+
+93
+00:12:12,359 --> 00:12:23,326
+[SPEAKER_00]: Thank you for inviting us to this meeting, this conference, which is really from my point of view, to follow the current situation.
+
+94
+00:12:23,366 --> 00:12:25,367
+[SPEAKER_00]: So it really depends on the fate of the president.
+
+95
+00:12:26,308 --> 00:12:34,253
+[SPEAKER_00]: So, before taking the question, it's more of a question at the same time, I would like to take...
+
+96
+00:12:35,274 --> 00:12:37,655
+[SPEAKER_00]: the time to guess a little what a stock market is.
+
+97
+00:12:37,675 --> 00:12:44,597
+[SPEAKER_00]: Because, to our surprise, the stock market, the BRBM, has been in existence for thirty years.
+
+98
+00:12:44,617 --> 00:12:55,880
+[SPEAKER_00]: But there are still a good number of people, of actors, of ecosystems, who do not know exactly what makes a stock market, what is the role of a stock market.
+
+99
+00:12:55,900 --> 00:13:04,962
+[SPEAKER_00]: So, we have to unite in a strategic way, so that the student rights, and all those who have the guts, in the country and elsewhere, can place the stock market in this new system.
+
+100
+00:13:06,594 --> 00:13:07,876
+There is a question in the chat.
+
+101
+00:13:08,016 --> 00:13:11,780
+[SPEAKER_00]: What do we propose to the other participants?
+
+102
+00:13:11,820 --> 00:13:12,921
+[SPEAKER_00]: Be well understood.
+
+103
+00:13:14,463 --> 00:13:20,569
+[SPEAKER_00]: So, it is important to know that...
+
+104
+00:13:20,609 --> 00:13:26,555
+[SPEAKER_00]: There is a bag... You see, it's better to do the pedagogy.
+
+105
+00:13:26,975 --> 00:13:29,538
+That's the problem of the new school.
+
+106
+00:13:35,722 --> 00:13:37,504
+[SPEAKER_05]: You're eating in your second.
+
+107
+00:13:37,644 --> 00:13:43,509
+[SPEAKER_00]: I'm going to take a short break to continue talking.
+
+108
+00:13:44,710 --> 00:13:53,918
+[SPEAKER_00]: You have to know that the capital market is an essential ecosystem in the domain of the market, which works well.
+
+109
+00:13:53,938 --> 00:14:03,666
+[SPEAKER_00]: It mobilizes, evaluates and attributes financing to productive companies that innovate their justice,
+
+110
+00:14:04,934 --> 00:14:09,276
+[SPEAKER_00]: and the crisis of employment and wealth.
+
+111
+00:14:09,336 --> 00:14:18,620
+[SPEAKER_00]: We are effectively supporting monetary policy, risk management, financial institutions, and access to global financing.
+
+112
+00:14:19,981 --> 00:14:30,765
+[SPEAKER_00]: The development of markets and capital improves financial intermediation and continues to strengthen economic consciousness and stability.
+
+113
+00:14:31,846 --> 00:14:32,006
+[SPEAKER_00]: So,
+
+114
+00:14:33,846 --> 00:14:50,531
+[SPEAKER_00]: On this level, instead of reacting to the stock market as a typically capitalistic or hyper-liberal entity, we need to understand that the stock market is an actor both economically, financially and socially.
+
+115
+00:14:50,551 --> 00:15:00,974
+[SPEAKER_00]: As far as the BRF is concerned, which was created by the US state, the BRF has a role as a financial institution
+
+116
+00:15:02,878 --> 00:15:08,620
+[SPEAKER_00]: dedicated to long-term financing and to a mission of community public service.
+
+117
+00:15:09,921 --> 00:15:19,285
+[SPEAKER_00]: So, on our course, it is not a matter of spending in France, as if we were in New York or in Shanghai, or if we were in a place that has 100,000 to 150,000 people.
+
+118
+00:15:19,305 --> 00:15:29,809
+[SPEAKER_00]: We are an inclusive approach and a holistic approach that intends for both actors to respond to the needs of our states.
+
+119
+00:15:33,162 --> 00:15:39,724
+[SPEAKER_00]: So, in this question you asked, I talked about the integrated stock market, the integration of the stock market.
+
+120
+00:15:39,744 --> 00:15:55,268
+[SPEAKER_00]: I wanted to draw the attention of the audience and those who are listening that, indeed, there is a project of the integration of the stock market in Africa, which is in place, which has marked a good number of years, which is evolving well.
+
+121
+00:15:55,288 --> 00:16:02,610
+[SPEAKER_00]: The second phase has been launched on July 1st and it counts, this project counts 14 stock markets involved in the 25 stock markets that count the African continent.
+
+122
+00:16:04,086 --> 00:16:07,928
+[SPEAKER_00]: for nearly 2.2 trillion dollars of commercial capitalization.
+
+123
+00:16:07,988 --> 00:16:25,238
+[SPEAKER_00]: So, the third question that you have asked in your... the third aspect that you have addressed is to know how to increase liquidity and that the investment heritage, that is to say, the individual investments are more dynamic on the market.
+
+124
+00:16:25,798 --> 00:16:28,840
+[SPEAKER_00]: So here, I want to answer in three words, quickly.
+
+125
+00:16:29,240 --> 00:16:31,901
+[SPEAKER_00]: There are two main aspects that must be understood.
+
+126
+00:16:33,622 --> 00:16:40,065
+[SPEAKER_00]: For liquidity to be effective on the stock market, there must be actors who are on the stock market, i.e.
+
+127
+00:16:40,105 --> 00:16:40,485
+[SPEAKER_00]: companies.
+
+128
+00:16:41,065 --> 00:16:44,287
+[SPEAKER_00]: So we need companies on the stock market.
+
+129
+00:16:45,687 --> 00:16:55,232
+[SPEAKER_00]: The second level is that it is not only about having companies on the stock market, but it is also necessary to have large companies that can trade.
+
+130
+00:16:55,252 --> 00:16:59,874
+[SPEAKER_00]: Referring to the first hypothesis, to the first demand, which is
+
+131
+00:17:01,066 --> 00:17:04,027
+[SPEAKER_00]: to promote the accounting of more and more companies in the stock market.
+
+132
+00:17:04,907 --> 00:17:07,468
+[SPEAKER_00]: This is where we will innovate.
+
+133
+00:17:08,148 --> 00:17:15,030
+[SPEAKER_00]: Earlier, I was listening to my co-analyst here from the South African Bank who was talking about the lack of projects.
+
+134
+00:17:15,050 --> 00:17:25,833
+[SPEAKER_00]: The solutions that I want to propose here now will contribute to a continuous solution to this lack of projects, to all these questions of financial volatility.
+
+135
+00:17:25,853 --> 00:17:29,374
+[SPEAKER_00]: You see, we are in another country, we have a stock market,
+
+136
+00:17:30,118 --> 00:17:40,901
+[SPEAKER_00]: which is not very active, but our country receives an influx of foreign capital that escapes the market of the capital of our region.
+
+137
+00:17:40,961 --> 00:17:44,142
+[SPEAKER_00]: And thus, a large part of the wealth also escapes in our country.
+
+138
+00:17:44,162 --> 00:17:52,084
+[SPEAKER_00]: So what we want is to think now, is to completely change the business model that our development has made.
+
+139
+00:17:52,104 --> 00:17:59,646
+[SPEAKER_00]: We must reduce debt, introduce much more investment in private funds, by putting the stock market in contact
+
+140
+00:18:00,646 --> 00:18:13,795
+[SPEAKER_00]: of foreign financing that comes from the IDE, Foreign Direct Investment, in a model of Planned Finance, that is to say, a financial model that allows us to associate the old models, which is the stock market tech and which is the TFI tech.
+
+141
+00:18:13,815 --> 00:18:24,642
+[SPEAKER_00]: So in this model, this model will be arrived at the national development plan of our states, which includes all national projects at the scale of 5, 10, 15, 20 years in the long term.
+
+142
+00:18:24,662 --> 00:18:28,925
+[SPEAKER_00]: Thus, no major project of our states already there,
+
+143
+00:18:30,326 --> 00:18:38,908
+[SPEAKER_00]: to the capital and treasury markets, to the population of national investors, who will feel concerned by the development of the country by being shareholders in the stock market.
+
+144
+00:18:39,329 --> 00:18:49,431
+[SPEAKER_00]: This will allow us to guarantee the viability of the project, to guarantee the national shareholding, to maintain the national funds on the territory.
+
+145
+00:18:49,491 --> 00:18:55,113
+[SPEAKER_00]: And not only to thank a suite of capitals that are struggling at the moment.
+
+146
+00:18:55,553 --> 00:18:58,294
+[SPEAKER_00]: So I summarize this part, change in the financial model,
+
+147
+00:18:59,186 --> 00:19:00,187
+[SPEAKER_00]: It is not an economic model.
+
+148
+00:19:00,827 --> 00:19:09,635
+[SPEAKER_00]: More and more, there is a boost in all financial contracts, including IPEs, and the stimulation of popular personnel.
+
+149
+00:19:09,675 --> 00:19:12,377
+[SPEAKER_00]: Here is a bit of a diagram.
+
+150
+00:19:12,457 --> 00:19:14,519
+[SPEAKER_00]: I will tell you other diagrams.
+
+151
+00:19:14,599 --> 00:19:26,549
+[SPEAKER_05]: I have a question for a brief but quick answer on the institutional aspects of regulation, since in this region we have the BRDL, we have UNOATIS, I think that at the age of
+
+152
+00:19:28,934 --> 00:19:38,482
+[SPEAKER_05]: a demand for deepening integration and revision of the regulatory framework to deepen the regional market.
+
+153
+00:19:38,862 --> 00:19:40,163
+[SPEAKER_05]: What are the blockages?
+
+154
+00:19:53,590 --> 00:20:03,433
+[SPEAKER_00]: to advance these reforms, as we have been talking about for a long time, and which I have not seen, you, the national actors, be active to carry them.
+
+155
+00:20:03,453 --> 00:20:07,754
+[SPEAKER_00]: Listen, you know, we are in an ecosystem where everyone has their role.
+
+156
+00:20:07,834 --> 00:20:14,896
+[SPEAKER_00]: And I mean, yesterday, this morning, when I was reading the climatic panel, I asked myself a question at the end.
+
+157
+00:20:16,136 --> 00:20:23,078
+[SPEAKER_00]: Who is, I mean, in the ecosystem, who is going to bring everyone together in the direction we want to take?
+
+158
+00:20:24,054 --> 00:20:29,816
+[SPEAKER_00]: Because, as you understand, L'UE-MOITIT was set up by the BCAO, by the Central Bank.
+
+159
+00:20:29,836 --> 00:20:31,696
+[SPEAKER_00]: The BRM was set up by the Central Bank.
+
+160
+00:20:32,556 --> 00:20:38,138
+[SPEAKER_00]: But these two entities do not communicate, because each has its own fund, which is completed at a certain level in terms of maturity.
+
+161
+00:20:38,898 --> 00:20:40,278
+[SPEAKER_00]: This is the perspective.
+
+162
+00:20:40,799 --> 00:20:43,839
+[SPEAKER_00]: For example, the BRM intervenes on the long-term market.
+
+163
+00:20:44,700 --> 00:20:48,541
+[SPEAKER_00]: L'UE-MOITIT was supposed to be on the short-term market, the monetary market.
+
+164
+00:20:49,241 --> 00:20:51,501
+[SPEAKER_00]: L'UE-MOITIT now arrives on the long-term market.
+
+165
+00:20:53,778 --> 00:21:09,151
+[SPEAKER_00]: We, in developing the secondary market, I don't have the information to know if there are discussions at all about whether or not Moatit uses our secondary market to finance the titles that it would have received on the primary market at the level of Moatit.
+
+166
+00:21:09,171 --> 00:21:19,840
+[SPEAKER_00]: So there is a problem of complementarity between entities that exercise in the same ecosystem that are supposed to align to be effective, since in the financing cycle,
+
+167
+00:21:22,078 --> 00:21:26,141
+[SPEAKER_00]: At each level of maturity of a company, of a financial product, an actor intervenes.
+
+168
+00:21:26,582 --> 00:21:45,457
+[SPEAKER_00]: So these actors have to be put side by side, in the respect, obviously, of each line of demarcation, but the point is that the product, the activity that comes out, is beneficial for all the actors who are in the market, to the point where their market remains attractive.
+
+169
+00:21:46,197 --> 00:21:51,842
+[SPEAKER_00]: So there is an actor, the one who is in charge of the cash register,
+
+170
+00:21:52,958 --> 00:22:05,025
+[SPEAKER_00]: I want to invite everyone here, all these actors who are in the same ecosystem, in order to fight for an efficient and complementary alignment.
+
+171
+00:22:05,385 --> 00:22:06,586
+[SPEAKER_05]: That's what I can say at this point.
+
+172
+00:22:06,606 --> 00:22:07,387
+[SPEAKER_05]: Thank you very much.
+
+173
+00:22:07,427 --> 00:22:19,194
+[SPEAKER_05]: So, the first part of your intervention leads me to turn to Dr. Manuel Nunez, to address the question of bilateral cooperation, bilateral financing institutions,
+
+174
+00:22:20,022 --> 00:22:22,905
+[SPEAKER_05]: which are aligned at the level of paradigms.
+
+175
+00:22:22,965 --> 00:22:27,449
+[SPEAKER_05]: For example, when it comes to the European paradigms, it is the Global Gateway.
+
+176
+00:22:27,469 --> 00:22:44,744
+[SPEAKER_05]: So, how can we really move from a direct and bilateral financing approach to a framework that is more risk-free in terms of market mechanisms, such as, as you said, a direct and bilateral financing?
+
+177
+00:22:48,746 --> 00:22:49,727
+[SPEAKER_04]: Thank you very much Eladj.
+
+178
+00:22:49,747 --> 00:22:53,710
+[SPEAKER_04]: Maybe as we are in a difficult session after lunch, I will ask you a small question.
+
+179
+00:22:53,730 --> 00:22:56,772
+[SPEAKER_04]: So around the question, how can we lower the cost of capital?
+
+180
+00:22:56,792 --> 00:22:57,892
+[SPEAKER_04]: This is still the central question.
+
+181
+00:22:58,033 --> 00:23:02,276
+[SPEAKER_04]: So let's imagine Eladj that you are appointed as an asset manager in New York.
+
+182
+00:23:02,296 --> 00:23:04,837
+[SPEAKER_04]: You have money to put, a lot of money.
+
+183
+00:23:04,877 --> 00:23:09,080
+[SPEAKER_04]: You have to ask yourself, am I going to invest in it or not?
+
+184
+00:23:09,140 --> 00:23:12,203
+[SPEAKER_04]: I'm going to invest, for example, in a country.
+
+185
+00:23:12,283 --> 00:23:16,786
+[SPEAKER_04]: If you look at the countries, it will be difficult.
+
+186
+00:23:17,634 --> 00:23:20,336
+[SPEAKER_04]: This is the last one right now, the maroon one, triple B and lower.
+
+187
+00:23:20,356 --> 00:23:24,179
+[SPEAKER_04]: This is the last one right now, the maroon one, triple B and lower.
+
+188
+00:23:25,059 --> 00:23:27,761
+[SPEAKER_04]: This is the last one right now, the maroon one, triple B and lower.
+
+189
+00:23:27,781 --> 00:23:31,384
+[SPEAKER_04]: This is the last one right now, the maroon one, triple B and lower.
+
+190
+00:23:31,404 --> 00:23:35,527
+[SPEAKER_04]: This is the last one right now, the maroon one, triple B and lower.
+
+191
+00:23:35,867 --> 00:23:39,029
+[SPEAKER_04]: This is the last one right now, the maroon one, triple B and lower.
+
+192
+00:23:39,049 --> 00:23:43,272
+[SPEAKER_04]: This is the last one right now, the maroon one, triple B and lower.
+
+193
+00:23:43,312 --> 00:23:46,074
+[SPEAKER_04]: This is the last one right now, the maroon one, triple B and lower.
+
+194
+00:23:46,922 --> 00:23:48,603
+[SPEAKER_04]: are often better noted.
+
+195
+00:23:48,623 --> 00:23:50,225
+[SPEAKER_04]: For example, the B.O.A.D.
+
+196
+00:23:50,425 --> 00:23:54,067
+[SPEAKER_04]: is very well known, which means that it is a good company.
+
+197
+00:23:54,127 --> 00:24:10,459
+[SPEAKER_04]: If we look at where international capitals can come without the will of these companies, they are in risk categories, which today are the axis here at the level of the countries, but they are at the level of institutions.
+
+198
+00:24:10,539 --> 00:24:11,319
+[SPEAKER_04]: It brings several factors.
+
+199
+00:24:11,339 --> 00:24:15,142
+[SPEAKER_04]: The first thing is the courage to regroup to add risks to each other,
+
+200
+00:24:15,590 --> 00:24:26,435
+[SPEAKER_04]: Because, for example, if we take the area of ​​Jemora where we are currently, not only in the region, not only in the Yarn Oaks, only the best signatures are inside.
+
+201
+00:24:26,495 --> 00:24:29,097
+[SPEAKER_04]: And it's even more true for those who are on the inside.
+
+202
+00:24:29,177 --> 00:24:33,459
+[SPEAKER_04]: If you take us on the continent scale, it's even more true, without guaranteeing it elsewhere.
+
+203
+00:24:33,519 --> 00:24:36,780
+[SPEAKER_04]: And that means that the different logistic packaging presents an amygdala action.
+
+204
+00:24:37,601 --> 00:24:40,262
+[SPEAKER_04]: For many reasons, and I think there are still two or three,
+
+205
+00:24:40,726 --> 00:24:49,752
+[SPEAKER_04]: First of all, to have your own quality products in the borders easily accessible to people who are not at all specialized in public finance or in the African market.
+
+206
+00:24:50,233 --> 00:24:53,615
+[SPEAKER_04]: Because who would have thought that you would reach the highest volumes?
+
+207
+00:24:53,695 --> 00:24:59,539
+[SPEAKER_04]: And also, maybe, when it comes to the 1660,000, the highest volumes on the European emissions.
+
+208
+00:24:59,619 --> 00:25:08,265
+[SPEAKER_04]: If you are a small country, for example, you could manage to make the emissions of a sufficient volume for a year and a half.
+
+209
+00:25:08,285 --> 00:25:08,986
+[SPEAKER_04]: Third option,
+
+210
+00:25:09,226 --> 00:25:14,868
+[SPEAKER_04]: it is also possible to make a very quick recovery or to develop the capacity to go to the monetary markets.
+
+211
+00:25:14,888 --> 00:25:18,890
+[SPEAKER_04]: For example, we worked with BBS1 on their first green obligation, which we bought.
+
+212
+00:25:18,990 --> 00:25:25,293
+[SPEAKER_04]: It's a way to frame the issuance of a new product, assuming that it is bought by a program.
+
+213
+00:25:25,953 --> 00:25:32,195
+[SPEAKER_04]: This is an example of cooperation to put in place products that can then be marketed.
+
+214
+00:25:32,295 --> 00:25:38,198
+[SPEAKER_04]: In fact, it is a form of marketing when we want to look for money on international capitals.
+
+215
+00:25:39,434 --> 00:25:49,977
+[SPEAKER_04]: but if you want to attract capital to the African continent, you need to do more risk pooling because this is going to improve the risk profile.
+
+216
+00:25:50,397 --> 00:25:52,238
+[SPEAKER_04]: It's not only the perception bias.
+
+217
+00:25:52,758 --> 00:25:59,720
+[SPEAKER_04]: There are also many transaction costs associated with monetization or international capital markets, and you have to deal with it one way or another.
+
+218
+00:26:00,340 --> 00:26:05,922
+[SPEAKER_04]: Also, it's not realistic to assume that an asset manager in the US, Europe, or China
+
+219
+00:26:06,294 --> 00:26:12,598
+[SPEAKER_04]: We take a lot of time to dive into the details of the government finance and political life of any specific small country.
+
+220
+00:26:12,618 --> 00:26:17,882
+[SPEAKER_04]: So gathering capacities to borrow money, for example, or actual equity, will be of huge importance.
+
+221
+00:26:18,423 --> 00:26:22,385
+[SPEAKER_04]: We probably also have invested too little in credit enhancements.
+
+222
+00:26:23,026 --> 00:26:34,394
+[SPEAKER_04]: Recently we launched another in PDB Guaranty Hub, and the objective is not to transform a double E into a triple A borrower, but if you can gain two or three notches,
+
+223
+00:26:34,914 --> 00:26:46,819
+[SPEAKER_04]: This makes the difference between journey months and investment grade, which in many, actually would say that there is some micro-economic environment as a prospective pricing area, but which are slightly below the investment grade category.
+
+224
+00:26:47,119 --> 00:26:50,401
+[SPEAKER_04]: Moving up by two or three notches, I think is a realistic perspective.
+
+225
+00:26:50,881 --> 00:26:56,944
+[SPEAKER_04]: It comes at a small cost in terms of guarantee, but it makes a huge difference when you want to attract a bigger volume of finance.
+
+226
+00:26:57,284 --> 00:27:02,486
+[SPEAKER_04]: So this is basically how we develop our activities and support financial systems in Africa.
+
+227
+00:27:02,878 --> 00:27:17,407
+[SPEAKER_04]: not trying to do miracles, but at least find, in some instances, marginal gains, but again, when you move from double B to triple B, it might seem like a marginal gain that you can access probably three, four times as many potential investments in capital.
+
+228
+00:27:19,048 --> 00:27:29,354
+[SPEAKER_05]: Thank you for that, and I'm going to comment on that and maybe engage in further discussion, and I think then Dr. Ashi, who is from Bloomfield, will jump in also, because
+
+229
+00:27:29,878 --> 00:27:58,470
+[SPEAKER_05]: We know the issue of the cost of foreign, and we as UNDP, we have the African graduating initiative that we launched, that we've been, I think, for about two years, and we've been supporting different countries to really improve and better coordinate the engagement with the graduating agencies, and we have the methodologies, and information needed, the commercial transportation, coordinating the implementation of the reforms that allow to
+
+230
+00:27:59,454 --> 00:28:03,657
+[SPEAKER_05]: But this is one side of the issue.
+
+231
+00:28:03,697 --> 00:28:05,478
+[SPEAKER_05]: The other side is the global
+
+232
+00:28:29,166 --> 00:28:51,079
+[SPEAKER_05]: perception of the continent and the issues we have with the countries in the private sector, you know, the ratings that is underdeveloped and where we have less entities that are greater that could access it.
+
+233
+00:28:51,679 --> 00:28:56,962
+[SPEAKER_05]: Now, I see your answer saying that we can pull the ways that we can go through
+
+234
+00:28:57,426 --> 00:29:14,460
+[SPEAKER_05]: agencies, regional institutions that are better rated, and then from there we can maybe improve the situation for our .
+
+235
+00:29:15,681 --> 00:29:25,930
+[SPEAKER_05]: This response to half of my issue, because the other issue is as you're looking at the global strategies, that is more transactional, more
+
+236
+00:29:26,846 --> 00:29:35,769
+[SPEAKER_05]: And how do you align with the need in having access to more capital in the country?
+
+237
+00:29:37,910 --> 00:29:43,831
+[SPEAKER_04]: First, I think we have to acknowledge that there's always been a transactional dimension in international finance.
+
+238
+00:29:44,332 --> 00:29:51,854
+[SPEAKER_04]: Maybe less so for humanitarian aid, for example, but I've been working at the ED for more than 20 years, and we've always had objectives, for example,
+
+239
+00:29:52,378 --> 00:29:56,460
+[SPEAKER_04]: on the French company being associated with international loans.
+
+240
+00:29:57,060 --> 00:30:02,122
+[SPEAKER_04]: Plus, when the lending activity is dominant, of course there's a transactional dimension.
+
+241
+00:30:02,442 --> 00:30:12,947
+[SPEAKER_04]: You go with a partner, you negotiate a contract with an interest rate, and it's a tough negotiation, so there's always been a contract negotiation which is pretty tough.
+
+242
+00:30:12,967 --> 00:30:20,650
+[SPEAKER_04]: So now, of course, what we observe is that maybe in the current presentation, the transactional nature,
+
+243
+00:30:21,794 --> 00:30:27,138
+[SPEAKER_04]: creates probably some doubt or there's pressure on how to define the nature of that foundation.
+
+244
+00:30:27,699 --> 00:30:39,268
+[SPEAKER_04]: What I must say is that we see this foundation of the nature of the world not necessarily as an obligation to have very short term foundation.
+
+245
+00:30:39,588 --> 00:30:41,950
+[SPEAKER_04]: You can have mutual benefits over the long term.
+
+246
+00:30:42,510 --> 00:30:47,094
+[SPEAKER_04]: And everyone has to define exactly what your interest is and how you want to effect
+
+247
+00:30:48,078 --> 00:30:53,243
+[SPEAKER_04]: But when you negotiate a contract, by definition, you will make your business explicit.
+
+248
+00:30:54,163 --> 00:30:59,407
+[SPEAKER_04]: And it's true that the economic part of international cooperation is bigger now.
+
+249
+00:30:59,447 --> 00:31:05,932
+[SPEAKER_04]: So probably some objectives will be somewhat lower, as opposed to creation of jobs, rules, mutual interests.
+
+250
+00:31:06,273 --> 00:31:07,133
+[SPEAKER_04]: We are talking about .
+
+251
+00:31:07,193 --> 00:31:10,416
+[SPEAKER_04]: So these are all the topics that probably are going to take more space.
+
+252
+00:31:10,496 --> 00:31:12,518
+[SPEAKER_04]: I think it has to be recognized as well.
+
+253
+00:31:13,590 --> 00:31:15,371
+[SPEAKER_04]: We're not necessarily in hypocrisy.
+
+254
+00:31:15,711 --> 00:31:22,814
+[SPEAKER_04]: Again, being in the European Bank, you know that at some point in the discussion, we have to make some interesting decisions, and it has to be true on both sides.
+
+255
+00:31:22,834 --> 00:31:25,655
+[SPEAKER_04]: So I think we have to acknowledge that rather than denying it.
+
+256
+00:31:27,156 --> 00:31:28,897
+[SPEAKER_05]: Thank you very much.
+
+257
+00:31:28,957 --> 00:31:41,482
+[SPEAKER_05]: Mr. Ashi, when you see our discussion, and you have, especially in the meetings, a variety of issues, including the issue of having a better notation, and therefore, in fact, in our work,
+
+258
+00:31:42,726 --> 00:31:58,237
+[SPEAKER_05]: So, how do you, as an African rating agency, help people to access your goals in this context and how do you help people here to access and to be able to reach their goals?
+
+259
+00:32:55,810 --> 00:33:08,921
+[SPEAKER_01]: And what we see today in Africa is that companies that want to get into an ecosystem of business development are facing a slightly larger access to capital.
+
+260
+00:33:09,081 --> 00:33:20,290
+[SPEAKER_01]: And so the solution for them is to go through the stage of the credibility of all their exercises following the period when they get to operate.
+
+261
+00:33:25,302 --> 00:33:46,159
+[SPEAKER_01]: So the agencies will look intrusively at the value, the risks, eventually, of governance, the risks of profitability of their activity, of the activity sector, the different developments that the sector has with the other sectors that we know, to see, eventually, how these entities will position themselves in a global risk category.
+
+262
+00:33:46,220 --> 00:33:53,626
+[SPEAKER_01]: And it is this category that will give a note and give a very clear message to the market,
+
+263
+00:33:54,322 --> 00:34:23,342
+[SPEAKER_01]: the capital to say, beware, this entity is able to eventually reach a certain level of, let's say, volume of credit to which the company can have access, because behind there is an investment rate or speculation that can actually give them, let's say, this strength that says, ah, we are an entity, we want to give capital to a company, to a company.
+
+264
+00:34:24,334 --> 00:34:34,957
+[SPEAKER_01]: According to this rating category, at the moment, the volume of funding corresponds to the scale indicated in the annotation.
+
+265
+00:34:35,057 --> 00:34:40,239
+[SPEAKER_01]: The entity will eventually be able to access the funding.
+
+266
+00:34:40,399 --> 00:34:47,701
+[SPEAKER_01]: So, the other thing I want to add is that, earlier, Dr. Nguyen, there is what is called the wine ceiling.
+
+267
+00:34:48,221 --> 00:34:49,841
+[SPEAKER_01]: When you go into an annotation,
+
+268
+00:34:52,822 --> 00:35:04,265
+[SPEAKER_01]: with a foreign currency, but a principle that says that your supra-national entity is the one that holds the most capital in the currency.
+
+269
+00:35:04,305 --> 00:35:09,246
+[SPEAKER_01]: So naturally, if you are an entity below, you cannot mobilize as much currency as this entity.
+
+270
+00:35:09,887 --> 00:35:13,708
+[SPEAKER_01]: And so your note will be necessarily lower than the note of the STO entity.
+
+271
+00:35:13,728 --> 00:35:14,328
+[SPEAKER_01]: I take an example.
+
+272
+00:35:14,908 --> 00:35:20,690
+[SPEAKER_01]: The note of the Ivory Coast, whatever the entity in the Ivory Coast that is noted, cannot send a note above,
+
+273
+00:35:22,782 --> 00:35:25,203
+[SPEAKER_01]: of the Côte d'Ivoire when we are in foreign currency.
+
+274
+00:35:25,803 --> 00:35:38,489
+[SPEAKER_01]: On the other hand, when we are in local currency, we will just look at the capacity of the entity to mobilize the internal resource, so based on the local currency.
+
+275
+00:35:38,509 --> 00:35:40,970
+[SPEAKER_01]: So the franc CFA is available for everything.
+
+276
+00:35:40,990 --> 00:35:47,393
+[SPEAKER_01]: An entity can have more resources in terms of publicization of the franc CFA compared to the Côte d'Ivoire state.
+
+277
+00:35:47,453 --> 00:35:49,694
+[SPEAKER_01]: We will see the CNPS which is very low.
+
+278
+00:35:50,070 --> 00:35:51,811
+[SPEAKER_01]: because we have not yet reached this point.
+
+279
+00:35:51,831 --> 00:36:01,798
+[SPEAKER_01]: So, the annotation is a good solution to reassure the market of the credibility of the entities that will raise funds on these markets to obtain long-term capital.
+
+280
+00:36:01,838 --> 00:36:12,805
+[SPEAKER_01]: Because today, if you are just going to obtain very cheap capital, you will have to go to the bank and the volume of the ticket that is put at your disposal is very small.
+
+281
+00:36:13,306 --> 00:36:15,027
+[SPEAKER_01]: If you want to indicate a population,
+
+282
+00:36:20,042 --> 00:36:20,582
+[SPEAKER_01]: Thank you very much.
+
+283
+00:36:20,602 --> 00:36:32,708
+[SPEAKER_01]: As we have some time constraints, I would like to turn to the public and maybe take a few questions before I give you back the floor.
+
+284
+00:36:32,748 --> 00:36:33,108
+[SPEAKER_05]: So now the
+
+285
+00:36:49,830 --> 00:36:54,376
+[SPEAKER_05]: Can you give a mic to over there?
+
+286
+00:37:00,724 --> 00:37:01,345
+[SPEAKER_05]: Just a moment.
+
+287
+00:37:01,886 --> 00:37:04,189
+[SPEAKER_05]: Can you help to give a mic to...
+
+288
+00:37:45,374 --> 00:37:46,595
+[SPEAKER_03]: and Dr. Achille.
+
+289
+00:37:46,695 --> 00:37:51,878
+[SPEAKER_03]: Dr. Achille spoke earlier about a glass ceiling.
+
+290
+00:37:51,938 --> 00:38:01,425
+[SPEAKER_04]: And precisely, this glass ceiling is not the same at the level of our banks, which are supposed to finance our economy.
+
+291
+00:38:01,545 --> 00:38:06,668
+[SPEAKER_03]: I insist on our banks because when I entered
+
+292
+00:38:16,302 --> 00:38:45,022
+[SPEAKER_03]: Dans mon métier d'économiste, le premier constat que j'ai fait, c'était justement qu'il n'y a eu aucune de nos banques en Afrique, y compris même la banque, y compris Nielsen, qui a le plus large réseau, et qu'on connaît tous d'ailleurs,
+
+293
+00:38:45,738 --> 00:38:46,819
+[SPEAKER_03]: It is noted in place A.
+
+294
+00:38:46,839 --> 00:38:56,846
+[SPEAKER_03]: So even the one to which I refer to the latest information I have is still in the same category.
+
+295
+00:38:56,926 --> 00:38:59,307
+[SPEAKER_03]: And despite all the power and capacity of this bank,
+
+296
+00:39:15,578 --> 00:39:19,960
+[SPEAKER_01]: Thank you very much.
+
+297
+00:39:20,020 --> 00:39:23,241
+[SPEAKER_01]: Can you all hold the microphone in the middle there?
+
+298
+00:39:23,401 --> 00:39:36,987
+[SPEAKER_05]: So you have one minute, you go fast, so we can have more speakers before we come back to the podium.
+
+299
+00:39:45,194 --> 00:39:46,935
+[SPEAKER_03]: Thank you very much.
+
+300
+00:39:46,975 --> 00:39:51,038
+[SPEAKER_03]: Good evening everyone, I am Afran de Descente.
+
+301
+00:39:51,058 --> 00:39:54,321
+[SPEAKER_03]: And thank you also for the discussion that was very enriching.
+
+302
+00:39:54,701 --> 00:40:01,946
+[SPEAKER_03]: So my question is about the link between the notations and their microeconomic impact.
+
+303
+00:40:01,966 --> 00:40:11,574
+[SPEAKER_03]: We know that the notation is also the construction of the evaluation of the capacity of reimbursement in terms of the entities.
+
+304
+00:40:12,730 --> 00:40:33,256
+[SPEAKER_03]: And mainly at this level, I would like to know how these agencies could have a tangible impact on economic actors, for example, even the most vulnerable, the market saleswoman or the fabric merchant.
+
+305
+00:40:33,316 --> 00:40:40,958
+[SPEAKER_03]: In other words, what are the transmission channels that could exist between an improvement of the rate
+
+306
+00:40:41,782 --> 00:40:42,343
+[SPEAKER_03]: Thank you.
+
+307
+00:40:42,403 --> 00:40:45,587
+[SPEAKER_03]: Two other questions for Ms. Ossie.
+
+308
+00:41:12,446 --> 00:41:19,870
+[SPEAKER_03]: Good evening everyone, I am Amalie Adissi-Edith Farina, I am an entrepreneur.
+
+309
+00:41:20,650 --> 00:41:28,254
+[SPEAKER_03]: And in the same vein, I was wondering if you have any solutions to improve the notation culture in Côte d'Ivoire.
+
+310
+00:41:28,314 --> 00:41:28,794
+[SPEAKER_03]: Thank you.
+
+311
+00:41:42,142 --> 00:41:43,083
+[SPEAKER_03]: Thank you, Mr. Hall.
+
+312
+00:41:43,223 --> 00:41:45,044
+[SPEAKER_03]: I am an economist from Senegal.
+
+313
+00:41:45,064 --> 00:41:57,033
+[SPEAKER_03]: My question is more about the idea that we have been hearing more and more for the last five years about the creation of an African-African notation agency.
+
+314
+00:41:57,053 --> 00:42:00,056
+[SPEAKER_03]: Because in response to the poorly studied
+
+315
+00:42:09,034 --> 00:42:14,678
+[SPEAKER_03]: by the three major classical agencies, Standard, Bruce, Fitch, and Moody's.
+
+316
+00:42:14,738 --> 00:42:27,587
+[SPEAKER_03]: This was carried out by a president that I know very well, Macky Sall, who sold the project to all his African peers, and who is at the mercy of several economists.
+
+317
+00:42:28,107 --> 00:42:29,908
+[SPEAKER_03]: Is it a good idea or is it a false idea?
+
+318
+00:42:29,948 --> 00:42:31,630
+[SPEAKER_03]: For me, it is a very good idea.
+
+319
+00:42:31,730 --> 00:42:32,290
+[SPEAKER_03]: In addition,
+
+320
+00:42:38,846 --> 00:42:56,731
+[SPEAKER_03]: My first question is, do we have the means, the statistical device, at the level of the BRDM, do we have the reliable statistical device to determine the quality of the information that is delivered to the markets?
+
+321
+00:42:57,751 --> 00:43:00,992
+[SPEAKER_03]: How do you estimate the quality of the statistics?
+
+322
+00:43:01,052 --> 00:43:04,153
+[SPEAKER_03]: If you refer to the hidden debt,
+
+323
+00:43:09,879 --> 00:43:17,962
+[SPEAKER_03]: It's a good way to end the question.
+
+324
+00:43:18,162 --> 00:43:32,708
+[SPEAKER_05]: Allow me, first, before going back to the floor of the panel, to acknowledge Professor Augustus Nwagaba, the deputy governor of the panel of Uganda, who joined us.
+
+325
+00:43:33,228 --> 00:43:36,489
+[SPEAKER_05]: Please, Professor, you can have a seat with us for a few minutes.
+
+326
+00:43:38,390 --> 00:43:45,033
+[SPEAKER_05]: But I'll give you the floor again to just share some of the issues we were discussing.
+
+327
+00:43:45,133 --> 00:43:52,376
+[SPEAKER_05]: It was supposed to be part of the panel, but due to some circumstances, it has landed just now.
+
+328
+00:43:52,596 --> 00:43:54,076
+[SPEAKER_05]: I'll come back to the panel.
+
+329
+00:43:54,496 --> 00:43:58,378
+[SPEAKER_05]: Maybe I will start with Thomas.
+
+330
+00:43:58,898 --> 00:44:00,999
+[SPEAKER_05]: I see that you are holding the mic.
+
+331
+00:44:01,439 --> 00:44:06,561
+[SPEAKER_05]: Then we'll go to Pierre-Pierre, and then I'll go to Dr. Neko.
+
+332
+00:44:08,630 --> 00:44:18,598
+[SPEAKER_04]: On the question of the role of the notations agencies and how it can have concrete consequences in the life of the population.
+
+333
+00:44:18,618 --> 00:44:22,861
+[SPEAKER_04]: Notations agencies will have a role that can have legal consequences.
+
+334
+00:44:22,881 --> 00:44:31,287
+[SPEAKER_04]: For example, as I said earlier, if you are not an investment grade,
+
+335
+00:44:35,758 --> 00:44:41,683
+[SPEAKER_04]: The bonds cannot be bought by institutional investors or by central banks.
+
+336
+00:44:41,703 --> 00:44:45,206
+[SPEAKER_04]: There are direct consequences when you go on certain levels.
+
+337
+00:44:45,486 --> 00:44:46,287
+[SPEAKER_04]: This is the first element.
+
+338
+00:44:46,827 --> 00:44:53,092
+[SPEAKER_04]: The second element is that the notations must be used by most banks, by most market actors, to fix the interest rate.
+
+339
+00:44:53,112 --> 00:45:04,781
+[SPEAKER_04]: So maybe we didn't necessarily understand this at the time of the first question of why the level of debt went up or down, but in fact, even individually, the bank uses a loan by which it can be refunded
+
+340
+00:45:05,674 --> 00:45:16,744
+[SPEAKER_04]: for example by the central government, by the governments, and so what happens on interest rates at the sovereign level will have consequences for the sub-sovereign actors, as already explained by Marcus.
+
+341
+00:45:17,205 --> 00:45:21,509
+[SPEAKER_04]: And then, the allocation will be one of the elements that will determine it.
+
+342
+00:45:21,529 --> 00:45:24,251
+[SPEAKER_04]: Then, to come back to you, we are doing a re-allocation internally of the EDP.
+
+343
+00:45:24,311 --> 00:45:26,974
+[SPEAKER_04]: This is partly due to the work of the other agencies.
+
+344
+00:45:26,994 --> 00:45:30,937
+[SPEAKER_04]: We are also watching closely the way in which the financial markets evolve.
+
+345
+00:45:31,742 --> 00:45:38,684
+[SPEAKER_04]: Often, as there is a revolution on the day-to-day, on the financial markets, they are more reactive than the agencies of patients who use their notes.
+
+346
+00:45:39,564 --> 00:45:48,307
+[SPEAKER_04]: You can leave me all the time, I don't care, but we still look a lot at what is happening on the markets, in addition to our own analysis of the economy.
+
+347
+00:45:48,327 --> 00:45:57,510
+[SPEAKER_04]: So yes, one of the agencies is sometimes a little bit oversold by John Marius because the market has actually evolved relatively rapidly and on a day-to-day basis.
+
+348
+00:45:57,910 --> 00:46:02,711
+[SPEAKER_04]: which is a form of officialization or confirmation, in any case, which can be done by the agencies.
+
+349
+00:46:02,751 --> 00:46:06,432
+[SPEAKER_04]: But it requires most of the largest financial institutions to do this work.
+
+350
+00:46:06,452 --> 00:46:09,993
+[SPEAKER_04]: So, the structure of the implementation can be quite important.
+
+351
+00:46:10,014 --> 00:46:22,157
+[SPEAKER_04]: On the subject of whether it is a good idea or not to have a retail agency, I would say that, in terms of the value added, it must do a specific work that the other agencies will not do.
+
+352
+00:46:22,197 --> 00:46:25,398
+[SPEAKER_04]: So, for example, to increase the knowledge more strongly on the continent,
+
+353
+00:46:25,966 --> 00:46:32,531
+[SPEAKER_04]: or it was also said by Zef and by Magnus, for example, looking at the risk in local currency in opposition to international ones.
+
+354
+00:46:32,671 --> 00:46:34,292
+[SPEAKER_04]: In fact, they are not the same thing.
+
+355
+00:46:34,312 --> 00:46:38,975
+[SPEAKER_04]: If you are an investor in the United States, in Europe, your currency is the euro, it is the dollar.
+
+356
+00:46:39,055 --> 00:46:46,660
+[SPEAKER_04]: On the other hand, it is another currency, you have a risk that is superior compared to someone whose economies, your currencies, are in local currency.
+
+357
+00:46:46,700 --> 00:46:50,182
+[SPEAKER_04]: So, there is still a bias between the two since often it is convertible.
+
+358
+00:46:50,443 --> 00:46:55,346
+[SPEAKER_04]: But there is still a notion of risk that is slightly different when you are in local currency and it is your own currency.
+
+359
+00:46:55,786 --> 00:46:57,628
+[SPEAKER_04]: versus this international currency.
+
+360
+00:46:57,708 --> 00:47:05,616
+[SPEAKER_04]: I understand that for a Chinese, it would be risky to invest in France, in China, and vice versa, because there will be a risk of changes between the two.
+
+361
+00:47:05,636 --> 00:47:09,219
+[SPEAKER_04]: It's partly converted, but there can be additional risks.
+
+362
+00:47:09,239 --> 00:47:16,126
+[SPEAKER_04]: So I would say that it's a good idea if there is a specific traditional currency that you are using, and your aspect is that, in the end,
+
+363
+00:47:16,574 --> 00:47:21,716
+[SPEAKER_04]: Thank you, dear friend, for raising this important question of information.
+
+364
+00:47:44,738 --> 00:47:47,319
+[SPEAKER_00]: Information is really the core of the confidence in the financial market.
+
+365
+00:47:47,580 --> 00:47:52,943
+[SPEAKER_00]: And you have to understand that there are several levels of information that are broadcast on the news.
+
+366
+00:47:53,603 --> 00:48:04,909
+[SPEAKER_00]: There is a certain amount of information, information that is statutory, information that is regulatory, which is broadcast periodically over the years.
+
+367
+00:48:05,510 --> 00:48:13,034
+[SPEAKER_00]: But you have to keep in mind that this information, in a basic way, is audited by actors who are aggrieved by the financial markets.
+
+368
+00:48:13,706 --> 00:48:17,747
+[SPEAKER_00]: So, each one of us will have a good time in the process.
+
+369
+00:48:18,327 --> 00:48:25,689
+[SPEAKER_00]: But it does not explain to us, since we are always looking for performance, quality, to come up with new regulations.
+
+370
+00:48:25,709 --> 00:48:35,492
+[SPEAKER_00]: For example, we have the regulation that brings all the facilities on the side, or the facilities that have the instrument on the side, to be audited by the agencies.
+
+371
+00:48:36,192 --> 00:48:37,113
+[SPEAKER_00]: We are periodic.
+
+372
+00:48:37,673 --> 00:48:40,334
+[SPEAKER_00]: On top of that, there is no hidden data.
+
+373
+00:48:42,902 --> 00:48:51,225
+[SPEAKER_00]: We are taking precautions regarding this kind of information to also strengthen measures to control the quality of information.
+
+374
+00:48:51,245 --> 00:48:57,866
+[SPEAKER_00]: Today, we are evolving towards standards of supply and production of information that are really at a high level,
+
+375
+00:49:10,742 --> 00:49:14,103
+[SPEAKER_00]: to the standards of international accounting.
+
+376
+00:49:14,123 --> 00:49:22,645
+[SPEAKER_00]: You see, the IFRS, for example, which is developing, they are, I would say, obligatory to apply to certain categories of companies, especially the banking system.
+
+377
+00:49:23,446 --> 00:49:38,890
+[SPEAKER_00]: And very soon, the IFRS will be extended to all sectors, because the IFRS pushes to give a certain amount of information that goes beyond the classic resources that financial institutions, such as the OADAM, could not provide, for example.
+
+378
+00:49:39,658 --> 00:49:57,505
+[SPEAKER_00]: So, the objective of this reform that we have proposed is that, and this will help to animate the boxing market, to send more companies, is that, quickly, the authorities of the OADA will extend the disclosure level, which is one of the distinctive elements at the level of the FRS, which will also be applied to the facilities even if they are not public.
+
+379
+00:49:58,046 --> 00:50:08,670
+[SPEAKER_00]: There, like that, a small facility on one side, a small facility on the other side, there will be no continent of royalties and we will be able to have many more companies in the stock market.
+
+380
+00:50:11,338 --> 00:50:16,361
+[SPEAKER_05]: We're just trying to move ahead because we have an intern who will come online at 4.
+
+381
+00:50:16,481 --> 00:50:21,904
+[SPEAKER_05]: And I know that there's a lot of issues that you would like to discuss.
+
+382
+00:50:22,165 --> 00:50:25,387
+[SPEAKER_05]: But over to you, Dr. Leo.
+
+383
+00:50:25,427 --> 00:50:26,307
+[SPEAKER_05]: No, I'll keep it short.
+
+384
+00:50:38,178 --> 00:50:42,963
+[SPEAKER_02]: This rating question, I wanted to respond to it from a DFI glance.
+
+385
+00:50:44,044 --> 00:50:45,545
+[SPEAKER_02]: It's a very frustrating question.
+
+386
+00:50:46,246 --> 00:50:55,695
+[SPEAKER_02]: Most of the DFIs, their performance, their governance, their credit processes, is much better than the government.
+
+387
+00:50:56,536 --> 00:51:02,542
+[SPEAKER_02]: So this question of whether or not a DFI should be linked to a government doesn't make sense to me.
+
+388
+00:51:03,618 --> 00:51:05,058
+[SPEAKER_02]: There needs to be a decoupling.
+
+389
+00:51:05,158 --> 00:51:10,940
+[SPEAKER_02]: We need to look at the institution on its own right, as a standalone, and rate it like that.
+
+390
+00:51:10,960 --> 00:51:24,545
+[SPEAKER_02]: Because otherwise, you are just putting the artificial ceiling that is unnecessary.
+
+391
+00:51:24,665 --> 00:51:28,866
+[SPEAKER_05]: I think it's a very critical question, and we would need
+
+392
+00:51:29,958 --> 00:51:41,163
+[SPEAKER_05]: much larger space to disrupt deeply things and link it to even the regional institutions that have much better rating than most of the countries in the world.
+
+393
+00:51:42,523 --> 00:51:43,264
+[SPEAKER_05]: And Dr. Ash.
+
+394
+00:51:43,284 --> 00:51:51,327
+[SPEAKER_05]: Thank you very much.
+
+395
+00:51:51,347 --> 00:51:52,527
+[SPEAKER_01]: Thank you very much.
+
+396
+00:51:52,547 --> 00:51:53,388
+[SPEAKER_01]: Thank you very much.
+
+397
+00:51:53,748 --> 00:51:55,108
+[SPEAKER_01]: Thank you very much.
+
+398
+00:51:55,128 --> 00:51:56,409
+[SPEAKER_01]: Thank you very much.
+
+399
+00:51:56,429 --> 00:51:57,189
+[SPEAKER_01]: Thank you very much.
+
+400
+00:51:57,249 --> 00:51:57,910
+[SPEAKER_01]: Thank you very much.
+
+401
+00:51:57,950 --> 00:51:58,570
+[SPEAKER_01]: Thank you very much.
+
+402
+00:51:59,074 --> 00:52:00,715
+[SPEAKER_01]: the information collected by the entities.
+
+403
+00:52:00,735 --> 00:52:08,241
+[SPEAKER_01]: So we do not note an entity, the part of the information that is not obtained outside the activity of the company.
+
+404
+00:52:08,261 --> 00:52:28,118
+[SPEAKER_01]: Second element, yes, the green background in my view, it is explained by the fact that if you take just a bank that owns, for example, a credit fund contracted in dollars, if we have an international rating agency that notes this bank, it will quickly have a volume
+
+405
+00:52:28,862 --> 00:52:30,963
+[SPEAKER_01]: on the quantitative part that the bank holds.
+
+406
+00:52:31,423 --> 00:52:39,787
+[SPEAKER_01]: And this volume, you know very well that the mechanism of obtaining the currency in a state where there is a central bank is eventually linked to the central bank.
+
+407
+00:52:39,807 --> 00:52:44,028
+[SPEAKER_01]: So, you cannot obtain as many dollars, for example, as the central bank.
+
+408
+00:52:44,048 --> 00:52:52,252
+[SPEAKER_01]: So, suddenly, your note will be proportional, for example, to the supplementary amount of the entity.
+
+409
+00:52:52,272 --> 00:52:56,634
+[SPEAKER_01]: Thirdly, how do the accounting agents actually manage to touch the individual?
+
+410
+00:52:57,506 --> 00:53:01,027
+[SPEAKER_01]: Today, all African banks are driven by the informal sector.
+
+411
+00:53:01,267 --> 00:53:11,430
+[SPEAKER_01]: Notation agencies had made an exercise at the time with the African Bank of Development, which created, in fact, put in place a cohort of SMEs, which was voted by us, Greenfield.
+
+412
+00:53:11,470 --> 00:53:21,212
+[SPEAKER_01]: It took this vote, because SMEs have a minimum of credit to access a certain level of capital, which is there, in fact, for 10 years, 20 years.
+
+413
+00:53:27,114 --> 00:53:30,816
+[SPEAKER_01]: So here is the visible impact when these PNs are touched.
+
+414
+00:53:30,837 --> 00:53:34,799
+[SPEAKER_01]: These PNs are problematic, aggressive to the local population.
+
+415
+00:53:35,119 --> 00:53:42,604
+[SPEAKER_01]: So you see that it is a chain that allows development to reach a fairly high level of demand.
+
+416
+00:53:42,744 --> 00:53:51,650
+[SPEAKER_01]: So really, we are not saying that local rating agencies leave the most important mark, but they should associate with international rating.
+
+417
+00:53:51,690 --> 00:53:56,374
+[SPEAKER_01]: It is these two marks that will make the credibility of an entity in all markets.
+
+418
+00:53:57,714 --> 00:54:04,977
+[SPEAKER_01]: And what about African money?
+
+419
+00:54:04,997 --> 00:54:09,339
+[SPEAKER_01]: If it's African money, it's like microcurrency.
+
+420
+00:54:09,779 --> 00:54:17,082
+[SPEAKER_01]: But in reality, one of the most important elements of an allocation agency is transparency and credibility.
+
+421
+00:54:17,162 --> 00:54:23,885
+[SPEAKER_01]: If you note that it is a Pan-African agency, that you note states, at some point there will be a conflict of interest.
+
+422
+00:54:24,445 --> 00:54:25,986
+[SPEAKER_01]: You can be judge and party at the same time.
+
+423
+00:54:26,526 --> 00:54:37,791
+[SPEAKER_01]: That's why the notations agencies are dedicated today, to private entities that, in a neutral way, eventually note all the entities based on the exercises that are carried out.
+
+424
+00:54:37,911 --> 00:54:50,636
+[SPEAKER_01]: If they create an agency where the actors from the same country actually write down the codes according to the entities that must be noted, they will not be able to finance their work.
+
+425
+00:54:50,656 --> 00:54:54,738
+[SPEAKER_01]: So it is a project that is matured, we do not say that it is not correct,
+
+426
+00:54:55,634 --> 00:55:04,062
+[SPEAKER_01]: It will need to be better thought out because at some point, it will set the credibility score and the results you will get will be my destiny, my inspiration and my development.
+
+427
+00:55:04,322 --> 00:55:04,923
+[SPEAKER_01]: One last remark.
+
+428
+00:55:04,963 --> 00:55:16,013
+[SPEAKER_04]: Marius was just talking about the credibility of the data and Philippe Grégoire was just saying
+
+429
+00:55:21,126 --> 00:55:23,247
+[SPEAKER_04]: of the credibility of the OEDs of the states.
+
+430
+00:55:23,407 --> 00:55:32,269
+[SPEAKER_04]: If we look at what happened in the last few years, we ask ourselves the question of the certification, maybe even more formally, of the accounts of the states.
+
+431
+00:55:32,369 --> 00:55:35,030
+[SPEAKER_04]: Otherwise, it creates a doubt about the success of the family.
+
+432
+00:55:35,550 --> 00:55:46,073
+[SPEAKER_04]: What we have seen, what we see clearly and clearly in the companies, is that in the last few years, there may have been a decline, there may have been a fallout, there may have been all these accounts starting from a scene in which the family had completely disappeared.
+
+433
+00:55:46,433 --> 00:55:50,814
+[SPEAKER_04]: But it still sends a message about the risk of manipulating the accounts of the companies.
+
+434
+00:55:51,702 --> 00:55:55,946
+[SPEAKER_04]: I would like to summarize the key issues that we have as takeaway in this room.
+
+435
+00:56:19,062 --> 00:56:48,730
+[SPEAKER_05]: There is a real question around the cost of borrowing linked to how Africa's sovereigns or private sectors are rated, and there is a framework that is often discussed, but as we've said, there's a knowledge sharing and listening that has to be developed so that we can have a wide alignment
+
+436
+00:56:50,070 --> 00:57:00,173
+[SPEAKER_05]: to support the investment in the continent and also how do we look at the different financing mechanisms, how the markets are really
+
+437
+00:57:19,934 --> 00:57:22,579
+[SPEAKER_05]: I will try to thank the panel here.
+
+438
+00:57:22,699 --> 00:57:24,763
+[SPEAKER_05]: A warm applause for them.
+

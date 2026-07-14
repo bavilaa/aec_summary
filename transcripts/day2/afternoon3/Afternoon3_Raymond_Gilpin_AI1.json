@@ -1,0 +1,522 @@
+{
+  "schema_version": "1.0",
+  "panel": {
+    "title": "Impacts of the Middle East Crisis on African Economies",
+    "event": "African Economic Conference 2026",
+    "session": "Afternoon Panel Discussion",
+    "location": "Abidjan, Côte d’Ivoire",
+    "date": "",
+    "participants": [
+      "Representatives of the African Development Bank",
+      "Representative of the Islamic Development Bank",
+      "Representative of the ECOWAS Bank for Investment and Development",
+      "Representative of the Government of Somalia",
+      "Andrew, participating online"
+    ],
+    "moderator": "Raymond Gilpin"
+  },
+  "summary": {
+    "executive_summary": "The panel examined how the Middle East crisis is affecting African economies through trade disruption, higher energy and fertilizer costs, inflation, exchange-rate pressure, tighter financing conditions and weakened food security. The discussion emphasized that the crisis is compounding vulnerabilities left by the COVID-19 pandemic, the war in Ukraine, climate shocks and existing debt pressures. Impacts differ across countries: energy exporters may receive temporary windfalls, while food- and energy-importing countries face immediate fiscal and balance-of-payments pressures. Panelists stressed that emergency responses remain necessary, but Africa must shift from repeated crisis management toward ex-ante resilience building. Proposed priorities included stronger domestic resource mobilization, more efficient public spending, deeper regional value chains, greater productive capacity, better coordination among multilateral and regional institutions, and faster deployment of trade finance, guarantees and crisis-response facilities. Food insecurity was presented not only as a humanitarian issue but also as a symptom of deeper economic fragility, particularly in import-dependent countries such as Somalia. The panel also discussed sovereign debt, arguing for a faster, fairer and more predictable international debt-resolution mechanism and for borrowing to be directed toward productive, cash-generating investments. The overarching conclusion was that African economies must prepare for a new normal of more frequent and overlapping shocks by strengthening institutions, coordinating responses and investing in structural transformation before crises occur.",
+    "purpose": "To assess the economic transmission channels of the Middle East crisis, review institutional responses and identify measures that can strengthen African resilience to recurring external shocks.",
+    "central_takeaway": "The Middle East crisis is amplifying existing African vulnerabilities, making coordinated crisis response necessary while reinforcing the urgency of domestic resource mobilization, structural transformation and ex-ante resilience investment.",
+    "main_questions": [
+      {
+        "question": "Through which channels is the Middle East crisis affecting African economies?",
+        "timestamp": {
+          "start": "00:00:36",
+          "end": "00:04:08"
+        }
+      },
+      {
+        "question": "How are African and international financial institutions responding to the crisis?",
+        "timestamp": {
+          "start": "00:15:01",
+          "end": "00:20:16"
+        }
+      },
+      {
+        "question": "What should institutions do differently in a context of recurring and overlapping crises?",
+        "timestamp": {
+          "start": "00:24:04",
+          "end": "00:25:10"
+        }
+      },
+      {
+        "question": "How can countries move from emergency response toward long-term economic resilience?",
+        "timestamp": {
+          "start": "00:34:47",
+          "end": "00:36:30"
+        }
+      },
+      {
+        "question": "How should sovereign debt-resolution mechanisms be improved?",
+        "timestamp": {
+          "start": "00:11:46",
+          "end": "00:14:51"
+        }
+      },
+      {
+        "question": "What single solution should African countries prioritize in responding to current and future shocks?",
+        "timestamp": {
+          "start": "00:44:07",
+          "end": "00:49:53"
+        }
+      }
+    ],
+    "main_themes": [
+      {
+        "theme": "Compounding vulnerabilities",
+        "description": "The crisis is multiplying the effects of pandemic scarring, climate shocks, debt stress and the consequences of the war in Ukraine.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:02:15",
+          "end": "00:03:05"
+        }
+      },
+      {
+        "theme": "Trade, energy and fertilizer disruption",
+        "description": "Disrupted shipping routes, higher transport costs and volatile energy and fertilizer prices are transmitting the crisis into African economies.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:00:36",
+          "end": "00:04:08"
+        }
+      },
+      {
+        "theme": "Divergent country impacts",
+        "description": "Energy exporters may gain temporarily, while food- and energy-importing economies face inflation, fiscal compression and balance-of-payments stress.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:03:06",
+          "end": "00:03:43"
+        }
+      },
+      {
+        "theme": "Institutional crisis response",
+        "description": "Regional and multilateral institutions are using trade finance, crisis facilities, guarantees and policy support, but the response needs to be faster and better coordinated.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:15:31",
+          "end": "00:25:10"
+        }
+      },
+      {
+        "theme": "Food security and economic resilience",
+        "description": "Food insecurity reflects wider structural dependence on imports, weak domestic production and limited policy space.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:33:08",
+          "end": "00:35:49"
+        }
+      },
+      {
+        "theme": "Debt resolution and productive borrowing",
+        "description": "Sovereign debt treatment should become quicker and more predictable, while new borrowing should support productive and cash-generating investments.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:11:46",
+          "end": "00:14:51"
+        }
+      },
+      {
+        "theme": "From emergency response to prevention",
+        "description": "Development finance should shift toward ex-ante investment, structural transformation and reduced exposure to future shocks.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:34:57",
+          "end": "00:36:30"
+        }
+      }
+    ],
+    "key_messages": [
+      {
+        "message": "The Middle East crisis is acting as a multiplier of existing structural vulnerabilities.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:02:15",
+          "end": "00:03:05"
+        }
+      },
+      {
+        "message": "African countries face very different impacts depending on their exposure to energy, food and fertilizer imports.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:03:06",
+          "end": "00:03:43"
+        }
+      },
+      {
+        "message": "Multilateral institutions are responding, but coordination remains weaker than the scale of the crisis requires.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:24:31",
+          "end": "00:25:10"
+        }
+      },
+      {
+        "message": "Resilience cannot be built while relying primarily on external finance.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:34:57",
+          "end": "00:35:10"
+        }
+      },
+      {
+        "message": "Development finance should move from ex-post emergency response to ex-ante investment.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:35:10",
+          "end": "00:35:29"
+        }
+      },
+      {
+        "message": "Success should be measured by reduced vulnerability to the next crisis, not only by the quality of the current response.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:35:50",
+          "end": "00:36:06"
+        }
+      },
+      {
+        "message": "Efficient spending and better expenditure composition are actions within the control of every African government.",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:49:20",
+          "end": "00:49:53"
+        }
+      }
+    ],
+    "areas_of_agreement": [
+      "The discussion broadly agreed that the crisis is compounding pre-existing vulnerabilities rather than creating entirely new ones.",
+      "Panelists supported stronger coordination among African, regional and multilateral institutions.",
+      "The discussion emphasized moving from emergency financing toward preventive investment and structural resilience.",
+      "Panelists broadly supported greater domestic resource mobilization and more efficient public spending.",
+      "The discussion agreed that regional value chains and productive capacity must be strengthened to reduce dependence on external supply chains."
+    ],
+    "contrasting_perspectives": [
+      "Some contributions emphasized immediate crisis-response facilities and trade finance, while others focused more strongly on long-term structural transformation.",
+      "Different views emerged on the interpretation of Africa’s debt burden, with some stressing repayment capacity and others emphasizing that Africa’s aggregate debt remains small relative to global debt.",
+      "Some interventions prioritized international debt reform, while others stressed actions already within national control, including spending efficiency and domestic revenue mobilization."
+    ],
+    "challenges_and_opportunities": [
+      {
+        "text": "Shipping disruption around the Suez Canal is lengthening routes, increasing transport time and raising trade costs.",
+        "category": "challenge",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:01:06",
+          "end": "00:01:51"
+        }
+      },
+      {
+        "text": "Food- and energy-importing countries face inflation, fiscal compression and reduced policy space.",
+        "category": "challenge",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:03:06",
+          "end": "00:03:43"
+        }
+      },
+      {
+        "text": "Overlapping crises are affecting both vulnerable countries and traditional providers of liquidity and solidarity.",
+        "category": "challenge",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:20:20",
+          "end": "00:21:05"
+        }
+      },
+      {
+        "text": "Weak coordination among multilateral institutions limits the effectiveness of crisis response.",
+        "category": "challenge",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:24:45",
+          "end": "00:25:10"
+        }
+      },
+      {
+        "text": "High food-import dependence transmits external shocks rapidly into inflation, household demand and fiscal pressures.",
+        "category": "challenge",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:33:48",
+          "end": "00:34:47"
+        }
+      },
+      {
+        "text": "Guarantee mechanisms and pooled African financing architecture can mobilize substantially larger volumes of long-term finance.",
+        "category": "opportunity",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:44:29",
+          "end": "00:45:47"
+        }
+      },
+      {
+        "text": "Regional integration and stronger domestic value chains can reduce exposure to external supply disruptions.",
+        "category": "opportunity",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:35:29",
+          "end": "00:35:49"
+        }
+      },
+      {
+        "text": "More efficient and better-targeted public spending can protect basic services while preserving growth potential.",
+        "category": "opportunity",
+        "importance": "high",
+        "timestamp": {
+          "start": "00:49:20",
+          "end": "00:49:53"
+        }
+      }
+    ],
+    "evidence_and_examples": [
+      {
+        "text": "The Suez Canal reportedly recorded about 150 container ships in January, a 17% year-over-year decline.",
+        "type": "statistic",
+        "timestamp": {
+          "start": "00:01:06",
+          "end": "00:01:19"
+        }
+      },
+      {
+        "text": "Approximately 70% of cargo ships that previously used the Suez route were described as rerouting around southern Africa, adding roughly 2,500 nautical miles and almost two weeks.",
+        "type": "comparison",
+        "timestamp": {
+          "start": "00:01:26",
+          "end": "00:01:51"
+        }
+      },
+      {
+        "text": "Of 27 African member countries referenced by one institution, 22 were described as being in heightened fragility and 22 as commodity-dependent economies.",
+        "type": "institutional_example",
+        "timestamp": {
+          "start": "00:20:31",
+          "end": "00:20:53"
+        }
+      },
+      {
+        "text": "A Somalia assessment found that 29% of the population was food insecure, 40% marginally food secure and 68% dependent on markets for food.",
+        "type": "country_example",
+        "timestamp": {
+          "start": "00:33:08",
+          "end": "00:33:59"
+        }
+      },
+      {
+        "text": "One assessment estimated that the crisis could reduce African GDP by about 2%.",
+        "type": "statistic",
+        "timestamp": {
+          "start": "00:38:16",
+          "end": "00:38:29"
+        }
+      },
+      {
+        "text": "Fertilizer costs were described as having increased by approximately 80–86%.",
+        "type": "statistic",
+        "timestamp": {
+          "start": "00:38:44",
+          "end": "00:38:59"
+        }
+      }
+    ],
+    "policy_implications": [
+      "Crisis-response policies should be differentiated according to each country’s exposure to energy, food, fertilizer and financial shocks.",
+      "Development institutions should combine immediate liquidity support with long-term resilience investment.",
+      "Governments should strengthen domestic revenue mobilization and protect fiscal space through better-targeted spending.",
+      "Regional and multilateral institutions need clearer coordination frameworks and shared crisis-response mechanisms.",
+      "Debt frameworks should provide faster, fairer and more predictable treatment for sovereign borrowers.",
+      "Borrowing should increasingly finance productive infrastructure and investments capable of generating returns."
+    ],
+    "recommendations": [
+      "Create a more predictable and internationally accepted sovereign debt-resolution mechanism.",
+      "Mobilize more domestic capital and reduce excessive reliance on external financing.",
+      "Shift development finance from emergency response toward preventive and resilience-building investment.",
+      "Strengthen domestic and regional value chains, productive capacity and trade integration.",
+      "Use guarantees and pooled regional financial instruments to mobilize larger volumes of long-term finance.",
+      "Improve the efficiency and composition of public expenditure to protect services and growth.",
+      "Establish stronger operational coordination among African and international institutions."
+    ],
+    "commitments_and_announcements": [
+      "The African Development Bank was reported to be preparing a global energy and fertilizer crisis-response facility.",
+      "The African Development Bank was reported to be supporting countries with policy advice and domestic resource mobilization.",
+      "The African Development Bank was reported to have increased its equity participation in the African Trade and Investment Development Insurance institution, with the aim of expanding guarantee capacity.",
+      "A call was made for other African institutions to participate in a continent-wide guarantee and financing architecture."
+    ],
+    "calls_to_action": [
+      "Prepare African economies for a future of more frequent and deeper external shocks.",
+      "Move faster from institutional coordination commitments to operational cooperation.",
+      "Invest before crises occur rather than relying repeatedly on emergency funding.",
+      "Direct debt toward value-adding infrastructure and productive investments.",
+      "Strengthen continental and country-level resilience through structural transformation."
+    ],
+    "partnerships_and_stakeholders": [
+      "African Development Bank",
+      "Islamic Development Bank",
+      "ECOWAS Bank for Investment and Development",
+      "United Nations Development Programme",
+      "United Nations Economic Commission for Africa",
+      "African Union Commission",
+      "African governments",
+      "Regional financial institutions",
+      "Multilateral development banks",
+      "Trade-finance institutions",
+      "Government of Somalia",
+      "Institutional and development partners"
+    ],
+    "unresolved_issues": [
+      "How to finance crisis response when traditional co-financiers are themselves affected by the same shocks.",
+      "Where an internationally accepted sovereign debt-resolution mechanism should be housed.",
+      "How to improve coordination among institutions that formally support cooperation but remain operationally fragmented.",
+      "How countries can expand domestic resource mobilization without worsening social pressures.",
+      "How to distinguish manageable debt levels from unsustainable debt-service burdens.",
+      "How to ensure that new guarantee mechanisms translate into affordable financing for vulnerable countries."
+    ],
+    "concluding_takeaway": "Africa must respond to the immediate economic effects of the Middle East crisis while building a more resilient development model based on domestic resources, productive investment, regional integration, coordinated institutions and preparation for recurring shocks."
+  },
+  "powerful_quotes": [
+    {
+      "quote": "We cannot build resilience while primarily relying on external financing.",
+      "context": "The need to mobilize domestic capital and reduce dependence on emergency external support.",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:34:57",
+        "end": "00:35:10"
+      }
+    },
+    {
+      "quote": "We should not measure our success by how we respond to crisis.",
+      "context": "A call to assess success by whether economies become less vulnerable to future shocks.",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:35:50",
+        "end": "00:36:06"
+      }
+    },
+    {
+      "quote": "We don't need more emergency funding. We would rather need fewer emergencies.",
+      "context": "The case for preventive investment and structural resilience.",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:36:23",
+        "end": "00:36:30"
+      }
+    },
+    {
+      "quote": "We can't give up on ourselves. We haven't even started.",
+      "context": "A call for greater confidence in Africa’s investment potential.",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:42:44",
+        "end": "00:42:55"
+      }
+    },
+    {
+      "quote": "That is something that is in the control of every African country, and they can do it.",
+      "context": "Improving spending efficiency and expenditure composition.",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:49:47",
+        "end": "00:49:53"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "text": "The Middle East crisis is compounding pandemic, climate, debt and geopolitical vulnerabilities.",
+      "type": "central_takeaway",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:02:15",
+        "end": "00:03:05"
+      }
+    },
+    {
+      "text": "Trade rerouting and higher energy and fertilizer costs are major transmission channels.",
+      "type": "challenge",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:00:36",
+        "end": "00:04:08"
+      }
+    },
+    {
+      "text": "Institutional responses exist, but they need to move faster and become more coordinated.",
+      "type": "key_message",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:24:45",
+        "end": "00:25:10"
+      }
+    },
+    {
+      "text": "Food insecurity is a manifestation of deeper economic and import dependence.",
+      "type": "policy_implication",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:33:48",
+        "end": "00:34:47"
+      }
+    },
+    {
+      "text": "Africa should shift from emergency financing toward ex-ante resilience investment.",
+      "type": "recommendation",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:35:10",
+        "end": "00:35:29"
+      }
+    },
+    {
+      "text": "Guarantee mechanisms can significantly expand long-term financing capacity.",
+      "type": "opportunity",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:44:29",
+        "end": "00:45:47"
+      }
+    },
+    {
+      "text": "Africa must prepare for a new normal of more frequent and possibly deeper shocks.",
+      "type": "conclusion",
+      "importance": "high",
+      "timestamp": {
+        "start": "00:50:20",
+        "end": "00:50:46"
+      }
+    }
+  ],
+  "keywords": [
+    "Middle East crisis",
+    "African economies",
+    "trade disruption",
+    "Suez Canal",
+    "energy prices",
+    "fertilizer prices",
+    "food security",
+    "domestic resource mobilization",
+    "sovereign debt",
+    "crisis response",
+    "resilience",
+    "regional integration",
+    "guarantees",
+    "structural transformation",
+    "public spending"
+  ],
+  "quality": {
+    "transcript_quality": "low",
+    "speaker_attribution_quality": "low",
+    "uncertain_items": [
+      "Several participant names, titles and institutional affiliations were heavily distorted or missing.",
+      "Large sections of the ECOWAS Bank intervention were inaudible or transcribed as incomplete fragments.",
+      "Some dates and numerical statements in the opening remarks were internally inconsistent and were excluded.",
+      "The exact name of the African Development Bank crisis facility was not fully clear.",
+      "The exact name and acronym of the African trade and investment insurance institution were inconsistently transcribed.",
+      "Several debt statistics raised by an audience participant could not be independently verified from the transcript and were not included as confirmed evidence.",
+      "The figure describing the earlier food-security response programme was unclear and was excluded.",
+      "The event date was not stated in the transcript."
+    ]
+  }
+}
